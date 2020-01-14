@@ -6,27 +6,20 @@ import * as colors from '../styles/colors';
 
 import Layout from '../components/Layout';
 import MetaTags from '../components/MetaTags';
-import PostDate from '../components/PostDate';
+import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 
 const Title = styled.h1`
     ${fontDisplay}
     margin: 1rem 0;
 `;
 
-const ListingTitle = styled.h3`
-    ${fontDisplay}
-    font-size: 1.2rem;
-`;
-
-const ListingItem = styled.article`
-    margin-bottom: 1rem;
-`;
 
 const Divider = styled.hr`
     border: 0;
     border-top: 1px solid ${colors.foregroundTertiary};
     margin: 2rem;
 `;
+
 
 const PodcastIndex = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title;
@@ -41,28 +34,20 @@ const PodcastIndex = ({ data, location }) => {
             </Title>
 
             {posts.map(({ node }) => {
+                const slug = node.fields.slug;
                 const title = node.frontmatter.title || node.fields.slug;
+                const date = node.frontmatter.date;
                 const number = node.frontmatter.number;
+                const summary = node.frontmatter.description || node.excerpt;
 
                 return (
-                    <ListingItem key={node.fields.slug}>
-                        <header>
-                            <ListingTitle>
-                                <Link to={node.fields.slug}>{title}</Link>
-                            </ListingTitle>
-                            <PostDate>{node.frontmatter.date} • Episode {number}</PostDate>
-                        </header>
-
-                        <section>
-                            <p
-                                dangerouslySetInnerHTML={{
-                                    __html:
-                                        node.frontmatter.description ||
-                                        node.excerpt,
-                                }}
-                            />
-                        </section>
-                    </ListingItem>
+                    <PodcastEpisodeSummary
+                        slug={slug}
+                        title={title}
+                        date={date}
+                        number={number}
+                        summary={summary}
+                    />
                 );
             })}
 

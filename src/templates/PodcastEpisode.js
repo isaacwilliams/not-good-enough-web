@@ -1,12 +1,20 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
+import styled from 'styled-components';
 
 import Layout from '../components/layout';
 import MetaTags from '../components/MetaTags';
+import PostDate from '../components/PostDate';
+import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
+
+const BodyText = styled.div`
+    margin: 2rem 0 3rem 0;
+`;
 
 const PodcastEpisode = ({ data, pageContext, location }) => {
     const post = data.markdownRemark;
     const siteTitle = data.site.siteMetadata.title;
+
     const { previous, next } = pageContext;
 
     return (
@@ -17,11 +25,15 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
             />
 
             <article>
-                <header>
-                    <h1>{post.frontmatter.title}</h1>
-                    <p>{post.frontmatter.date}</p>
-                </header>
-                <section dangerouslySetInnerHTML={{ __html: post.html }} />
+                <PodcastEpisodeSummary
+                    isMainListing
+                    title={post.frontmatter.title}
+                    date={post.frontmatter.date}
+                    number={post.frontmatter.number}
+                    summary={post.frontmatter.description}
+                />
+
+                <BodyText dangerouslySetInnerHTML={{ __html: post.html }} />
             </article>
 
             <nav>
@@ -58,6 +70,7 @@ export const pageQuery = graphql`
                 title
                 date(formatString: "MMMM DD, YYYY")
                 description
+                number
             }
         }
     }
