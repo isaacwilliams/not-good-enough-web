@@ -3,7 +3,7 @@ number: 1
 title: Malcolm Morrison
 date: "2020-01-14"
 description: "We've got audio equipment and we're so scared."
-fileLink: "https://media.milanote.com/p/files/1IRj7t155KDafk/Ynn/not%20good%20enough%20001_cut.mp3"
+fileLink: "https://notgoodenough.podbean.com/mf/play/fm5hr2/not_good_enough_001_with_intro.mp3"
 ---
 
 ### Show notes
