@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
 import { fontDisplay } from '../styles/fonts';
+import * as colors from '../styles/colors';
 
 import Layout from '../components/Layout';
 import MetaTags from '../components/MetaTags';
@@ -21,13 +22,19 @@ const ListingItem = styled.article`
     margin-bottom: 1rem;
 `;
 
+const Divider = styled.hr`
+    border: 0;
+    border-top: 1px solid ${colors.foregroundTertiary};
+    margin: 2rem;
+`;
+
 const PodcastIndex = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title;
     const posts = data.allMarkdownRemark.edges;
 
     return (
         <Layout location={location} title={siteTitle}>
-            <MetaTags title="" />
+            <MetaTags />
 
             <Title>
                 Episodes
@@ -59,7 +66,7 @@ const PodcastIndex = ({ data, location }) => {
                 );
             })}
 
-            <hr />
+            <Divider />
 
             <Title>
                 Subscribe
@@ -71,7 +78,7 @@ const PodcastIndex = ({ data, location }) => {
                 <li>PocketCasts</li>
             </ul>
 
-            <hr />
+            <Divider />
 
             <Title>
                 Follow
@@ -84,7 +91,7 @@ const PodcastIndex = ({ data, location }) => {
                 <li>@mccclean</li>
             </ul>
 
-            <hr />
+            <Divider />
 
         </Layout>
     );

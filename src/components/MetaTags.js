@@ -32,7 +32,7 @@ const MetaTags = ({ description, lang, meta, title }) => {
             htmlAttributes={{
                 lang,
             }}
-            title={title}
+            title={title || site.siteMetadata.title}
             titleTemplate={`%s | ${site.siteMetadata.title}`}
             meta={[
                 {
@@ -68,9 +68,7 @@ const MetaTags = ({ description, lang, meta, title }) => {
                     content: metaDescription,
                 },
             ].concat(meta)}
-        >
-            <link href="https://fonts.googleapis.com/css?family=Gelasio:600|Lato:400,400i&display=swap" rel="stylesheet" />
-        </Helmet>
+        />
     );
 };
 
@@ -84,7 +82,7 @@ MetaTags.propTypes = {
     description: PropTypes.string,
     lang: PropTypes.string,
     meta: PropTypes.arrayOf(PropTypes.object),
-    title: PropTypes.string.isRequired,
+    title: PropTypes.string,
 };
 
 export default MetaTags;
