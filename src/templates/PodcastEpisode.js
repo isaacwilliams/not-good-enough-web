@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
 import styled from 'styled-components';
+import * as colors from '../styles/colors';
 
 import Layout from '../components/layout';
 import MetaTags from '../components/MetaTags';
@@ -10,6 +11,18 @@ import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 const BodyText = styled.div`
     margin: 2rem 0 3rem 0;
 `;
+
+const Title = styled.h1`
+    margin: 1rem 0;
+`;
+
+
+const Divider = styled.hr`
+    border: 0;
+    border-top: 1px solid ${colors.foregroundTertiary};
+    margin: 2rem;
+`;
+
 
 const PodcastEpisode = ({ data, pageContext, location }) => {
     const post = data.markdownRemark;
@@ -51,6 +64,17 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                     </Link>
                 )}
             </nav>
+
+            <Divider />
+
+            <Title>
+                Subscribe
+            </Title>
+
+            <ul>
+                <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
+                <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
+            </ul>
         </Layout>
     );
 };
