@@ -4,11 +4,11 @@ import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import MetaTags from "../components/MetaTags";
 
-const Error404 = ({ data }) => {
+const Error404 = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title;
 
     return (
-        <Layout location={this.props.location} title={siteTitle}>
+        <Layout location={location} title={siteTitle}>
             <MetaTags title="404: Not Found" />
 
             <h1>Not Found</h1>
