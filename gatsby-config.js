@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: `Not Good Enough`,
         author: `Not Good Enough`,
-        description: `A podcast about the climate crisis.`,
+        description: `A podcast proposing inadequate responses to inadequate responses.`,
         siteUrl: 'https://notgoodpod.com',
         social: {
             twitter: `notgoodpod`,
