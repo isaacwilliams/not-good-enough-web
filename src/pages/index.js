@@ -73,9 +73,7 @@ const PodcastIndex = ({ data, location }) => {
             </Title>
 
             <ul>
-                <li>RSS</li>
-                <li>iTunes</li>
-                <li>PocketCasts</li>
+                <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
                 <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
             </ul>
 
