@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
 import styled from 'styled-components';
+
+import media from '../styles/media';
 import SiteContainer from './SiteContainer';
 
 const Header = styled.header`
@@ -21,6 +23,11 @@ const MainContainer = styled.div`
     width: 60vw;
     max-width: 40rem;
     margin: 1rem auto;
+
+    ${media.phone`
+        width: auto;
+        margin: 1rem 2rem;
+    `}
 `;
 
 const LargeHeader = () => (
