@@ -27,6 +27,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
             <article>
                 <PodcastEpisodeSummary
                     isMainListing
+                    slug={post.fields.slug}
                     title={post.frontmatter.title}
                     date={post.frontmatter.date}
                     number={post.frontmatter.number}
@@ -66,6 +67,9 @@ export const pageQuery = graphql`
             id
             excerpt(pruneLength: 160)
             html
+            fields {
+                slug
+            }
             frontmatter {
                 title
                 date(formatString: "MMMM DD, YYYY")
