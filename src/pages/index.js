@@ -76,22 +76,8 @@ const PodcastIndex = ({ data, location }) => {
                 <li>RSS</li>
                 <li>iTunes</li>
                 <li>PocketCasts</li>
+                <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
             </ul>
-
-            <Divider />
-
-            <Title>
-                Follow
-            </Title>
-
-            <ul>
-                <li>@notgoodpod</li>
-                <li>@langaround</li>
-                <li>@philosophica</li>
-                <li>@mccclean</li>
-            </ul>
-
-            <Divider />
 
         </Layout>
     );
