@@ -2,7 +2,7 @@
 number: 1
 title: Malcolm Morrison
 date: "2020-01-14"
-description: "We pick apart former Sky News Political Reporter David Speer's interview with Scott Morrison, and shockingly discover that it has some issues!"
+description: "We pick apart former Sky News political editor David Speer's interview with Scott Morrison, and shockingly discover that it has some issues!"
 fileLink: "https://notgoodenough.podbean.com/mf/play/fm5hr2/not_good_enough_001_with_intro.mp3"
 ---
 
