@@ -30,6 +30,10 @@ const ListingDescription = styled.div`
     font-style: italic;
 `;
 
+const PlayerContainer = styled.div`
+    margin: 1rem 0;
+`;
+
 const PodcastEpisodeSummary = ({
     isMainListing = false,
     slug,
@@ -37,6 +41,7 @@ const PodcastEpisodeSummary = ({
     summary,
     date,
     number,
+    fileLink,
 }) => {
     const Title = isMainListing ? ListingTitleMain : ListingTitle;
 
@@ -54,6 +59,12 @@ const PodcastEpisodeSummary = ({
                     __html: summary,
                 }}
             />
+
+            {fileLink && (
+                <PlayerContainer>
+                    <audio controls src={fileLink} />
+                </PlayerContainer>
+            )}
         </ListingItem>
     );;
 }

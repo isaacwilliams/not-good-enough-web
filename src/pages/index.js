@@ -39,6 +39,7 @@ const PodcastIndex = ({ data, location }) => {
                 const date = node.frontmatter.date;
                 const number = node.frontmatter.number;
                 const summary = node.frontmatter.description || node.excerpt;
+                const fileLink = node.frontmatter.fileLink;
 
                 return (
                     <PodcastEpisodeSummary
@@ -47,6 +48,7 @@ const PodcastIndex = ({ data, location }) => {
                         date={date}
                         number={number}
                         summary={summary}
+                        fileLink={fileLink}
                     />
                 );
             })}
@@ -87,6 +89,7 @@ export const pageQuery = graphql`
                         number
                         title
                         description
+                        fileLink
                     }
                 }
             }

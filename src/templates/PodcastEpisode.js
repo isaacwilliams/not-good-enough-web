@@ -32,6 +32,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                     date={post.frontmatter.date}
                     number={post.frontmatter.number}
                     summary={post.frontmatter.description}
+                    fileLink={post.frontmatter.fileLink}
                 />
 
                 <BodyText dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -75,6 +76,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 description
                 number
+                fileLink
             }
         }
     }
