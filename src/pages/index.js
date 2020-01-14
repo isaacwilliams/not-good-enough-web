@@ -1,0 +1,119 @@
+import React from 'react';
+import { Link, graphql } from 'gatsby';
+import styled from 'styled-components';
+import { fontDisplay } from '../styles/fonts';
+
+import Layout from '../components/Layout';
+import MetaTags from '../components/MetaTags';
+import PostDate from '../components/PostDate';
+
+const Title = styled.h1`
+    ${fontDisplay}
+    margin: 1rem 0;
+`;
+
+const ListingTitle = styled.h3`
+    ${fontDisplay}
+    font-size: 1.2rem;
+`;
+
+const ListingItem = styled.article`
+    margin-bottom: 1rem;
+`;
+
+const PodcastIndex = ({ data, location }) => {
+    const siteTitle = data.site.siteMetadata.title;
+    const posts = data.allMarkdownRemark.edges;
+
+    return (
+        <Layout location={location} title={siteTitle}>
+            <MetaTags title="" />
+
+            <Title>
+                Episodes
+            </Title>
+
+            {posts.map(({ node }) => {
+                const title = node.frontmatter.title || node.fields.slug;
+                const number = node.frontmatter.number;
+
+                return (
+                    <ListingItem key={node.fields.slug}>
+                        <header>
+                            <ListingTitle>
+                                <Link to={node.fields.slug}>{title}</Link>
+                            </ListingTitle>
+                            <PostDate>{node.frontmatter.date} • Episode {number}</PostDate>
+                        </header>
+
+                        <section>
+                            <p
+                                dangerouslySetInnerHTML={{
+                                    __html:
+                                        node.frontmatter.description ||
+                                        node.excerpt,
+                                }}
+                            />
+                        </section>
+                    </ListingItem>
+                );
+            })}
+
+            <hr />
+
+            <Title>
+                Subscribe
+            </Title>
+
+            <ul>
+                <li>RSS</li>
+                <li>iTunes</li>
+                <li>PocketCasts</li>
+            </ul>
+
+            <hr />
+
+            <Title>
+                Follow
+            </Title>
+
+            <ul>
+                <li>@notgoodpod</li>
+                <li>@langaround</li>
+                <li>@philosophica</li>
+                <li>@mccclean</li>
+            </ul>
+
+            <hr />
+
+        </Layout>
+    );
+};
+
+export default PodcastIndex;
+
+export const pageQuery = graphql`
+    query {
+        site {
+            siteMetadata {
+                title
+            }
+        }
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+            edges {
+                node {
+                    excerpt
+                    fields {
+                        slug
+                    }
+                    frontmatter {
+                        date(formatString: "MMMM DD, YYYY")
+                        number
+                        title
+                        description
+                    }
+                }
+            }
+        }
+    }
+`;
