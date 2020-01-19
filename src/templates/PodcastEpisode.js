@@ -5,6 +5,7 @@ import * as colors from '../styles/colors';
 
 import Layout from '../components/layout';
 import MetaTags from '../components/MetaTags';
+import SubscribeLinks from '../components/SubscribeLinks';
 
 import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 
@@ -71,10 +72,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                 Subscribe
             </Title>
 
-            <ul>
-                <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
-                <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
-            </ul>
+            <SubscribeLinks />
         </Layout>
     );
 };

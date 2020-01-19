@@ -7,6 +7,7 @@ import * as colors from '../styles/colors';
 import Layout from '../components/Layout';
 import MetaTags from '../components/MetaTags';
 import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
+import SubscribeLinks from '../components/SubscribeLinks';
 
 const Title = styled.h1`
     ${fontDisplay}
@@ -59,10 +60,7 @@ const PodcastIndex = ({ data, location }) => {
                 Subscribe
             </Title>
 
-            <ul>
-                <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
-                <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
-            </ul>
+            <SubscribeLinks />
 
         </Layout>
     );
