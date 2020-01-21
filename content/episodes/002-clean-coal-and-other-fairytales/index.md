@@ -1,6 +1,6 @@
 ---
 number: 2
-title: aDaPt & MiTiGaTe
+title: Clean coal and other fairytales
 date: "2020-01-21"
 description: "The Liberal party has a new line: Adapt and Mitigate. We discuss why that's still climate denial."
 fileLink: "https://notgoodenough.podbean.com/mf/play/fm5hr2/not_good_enough_001_with_intro.mp3"
