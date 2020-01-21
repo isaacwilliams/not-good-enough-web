@@ -11,6 +11,19 @@ import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 
 const BodyText = styled.div`
     margin: 2rem 0 3rem 0;
+
+    h1, h2, h3, h4 {
+        margin-top: 0.6rem;
+        margin-bottom: 0.3rem;
+    }
+
+    p {
+        margin-bottom: 0.3rem;
+    }
+
+    ul {
+        margin-bottom: 0.3rem;
+    }
 `;
 
 const Title = styled.h1`
