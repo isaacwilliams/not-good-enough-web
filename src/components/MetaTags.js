@@ -10,7 +10,7 @@ import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
-const MetaTags = ({ description, lang, meta, title }) => {
+const MetaTags = ({ description, lang, meta, title, shareImage }) => {
     const { site } = useStaticQuery(
         graphql`
             query {
