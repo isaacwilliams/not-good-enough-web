@@ -19,6 +19,8 @@ const MetaTags = ({ description, lang, meta, title }) => {
                         title
                         description
                         author
+                        shareImage
+                        siteUrl
                     }
                 }
             }
@@ -26,6 +28,7 @@ const MetaTags = ({ description, lang, meta, title }) => {
     );
 
     const metaDescription = description || site.siteMetadata.description;
+    const shareImage = shareImage || site.siteMetadata.shareImage;
 
     return (
         <Helmet
@@ -49,6 +52,18 @@ const MetaTags = ({ description, lang, meta, title }) => {
                 {
                     property: `og:type`,
                     content: `website`,
+                },
+                {
+                    property: `og:image`,
+                    content: shareImage,
+                },
+                {
+                    property: `og:image:width`,
+                    content: 1600,
+                },
+                {
+                    property: `og:image:height`,
+                    content: 1600,
                 },
                 {
                     name: `twitter:card`,

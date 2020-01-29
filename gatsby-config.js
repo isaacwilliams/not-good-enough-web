@@ -4,8 +4,10 @@ module.exports = {
         author: `Not Good Enough`,
         description: `A podcast proposing inadequate responses to inadequate responses.`,
         siteUrl: 'https://notgoodpod.com',
+        shareImage: 'web-share-image.png',
         social: {
             twitter: `notgoodpod`,
+            facebook: `notgoodpod`,
         },
     },
     plugins: [
