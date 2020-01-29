@@ -28,7 +28,7 @@ const MetaTags = ({ description, lang, meta, title, shareImage }) => {
     );
 
     const metaDescription = description || site.siteMetadata.description;
-    const shareImage = shareImage || site.siteMetadata.shareImage;
+    const image = shareImage || site.siteMetadata.shareImage;
 
     return (
         <Helmet
@@ -55,7 +55,7 @@ const MetaTags = ({ description, lang, meta, title, shareImage }) => {
                 },
                 {
                     property: `og:image`,
-                    content: shareImage,
+                    content: image,
                 },
                 {
                     property: `og:image:width`,
