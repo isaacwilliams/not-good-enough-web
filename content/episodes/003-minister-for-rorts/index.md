@@ -15,7 +15,7 @@ fileLink: "https://notgoodenough.podbean.com/mf/play/gmu4rw/nge003-mckenzie_07.m
 - ABC's The Signal has [a good summary](https://www.abc.net.au/radio/programs/the-signal/sports-rorts/11887214) of the twists and turns of the sports rort. Solidaritus et podcastus ✊
 - Over a [million for mates](https://www.theguardian.com/australia-news/2020/jan/22/sport-grants-more-than-1m-given-to-nine-clubs-linked-to-coalition-mps). 70% of projects approved by McKenzie weren't approved by the governing body.
 - Georgina Downer said she was ["absolutely not"](https://www.abc.net.au/news/2019-02-25/downer-says-cheque-was-absolutely-not-commonwealth-money/10845904) presenting a giant novelty cheque with commonwealth funds (she absolutely was).
-- Paul Kennedy [actually asking followup questions]((https://twitter.com/BreakfastNews/status/1219721784146022400)) ([and again](https://ministers.employment.gov.au/cash/abc-news-breakfast-1)). Not Robert Kennedy.
+- Paul Kennedy [actually asking followup questions](https://twitter.com/BreakfastNews/status/1219721784146022400) ([and again](https://ministers.employment.gov.au/cash/abc-news-breakfast-1)). Not Robert Kennedy.
 - Australia has a [long, storied history](https://en.wikipedia.org/wiki/Sports_rorts_affair) of misappropriating sports funds
 - We need an ICAC. [Both major parties don't want one](https://thenewdaily.com.au/news/2019/09/02/labor-anti-corruption-commission/).
 - Bridget McKenzie [joined a shooting club](https://www.smh.com.au/politics/federal/mckenzie-joined-a-gun-club-four-days-before-approving-grant-funding-20200127-p53v6f.html), then forgot to mention it
@@ -27,6 +27,6 @@ fileLink: "https://notgoodenough.podbean.com/mf/play/gmu4rw/nge003-mckenzie_07.m
 
 ### Action items
 
-- Support [Sisters Inside]((https://www.gofundme.com/f/bfvnvt-freethepeople)), and help keep indigenous women out of prison
+- Support [Sisters Inside](https://www.gofundme.com/f/bfvnvt-freethepeople), and help keep indigenous women out of prison
 - [Pay the damn rent](https://paytherent.net.au)
 - Listen to [The Poor Can Feed the Birds](https://poorcanfeedthebirds.podbean.com/). Solidaritus et podcastus ✊
