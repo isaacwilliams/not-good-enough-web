@@ -1,9 +1,9 @@
 ---
 number: 3
-title: Minister for Rorts
+title: Minister for rorts
 date: "2020-01-28"
 description: "A casual chat about the sports funding saga that reveals the corruption at the heart of Australia's government"
-fileLink: "https://notgoodenough.podbean.com/mf/play/zmbzsw/nge003-mckenzie_04.mp3"
+fileLink: "https://notgoodenough.podbean.com/mf/play/gmu4rw/nge003-mckenzie_07.mp3"
 ---
 
 ### Show notes
