@@ -18,7 +18,7 @@ fileLink: "https://notgoodenough.podbean.com/mf/play/gmu4rw/nge003-mckenzie_07.m
 - Paul Kennedy [actually asking followup questions]((https://twitter.com/BreakfastNews/status/1219721784146022400)) ([and again](https://ministers.employment.gov.au/cash/abc-news-breakfast-1)). Not Robert Kennedy.
 - Australia has a [long, storied history](https://en.wikipedia.org/wiki/Sports_rorts_affair) of misappropriating sports funds
 - We need an ICAC. [Both major parties don't want one](https://thenewdaily.com.au/news/2019/09/02/labor-anti-corruption-commission/).
-- Bridget McKensie [joined a shooting club](https://www.smh.com.au/politics/federal/mckenzie-joined-a-gun-club-four-days-before-approving-grant-funding-20200127-p53v6f.html), then forgot to mention it
+- Bridget McKenzie [joined a shooting club](https://www.smh.com.au/politics/federal/mckenzie-joined-a-gun-club-four-days-before-approving-grant-funding-20200127-p53v6f.html), then forgot to mention it
 - Sports clubs [need women's change rooms](https://www.theguardian.com/australia-news/2020/jan/24/sports-grants-rugby-club-gets-funding-for-female-change-rooms-but-has-no-womens-team). Just not women?
 - Scott Morrison has a [real interest in gendered bathrooms](https://www.abc.net.au/news/2019-08-29/scott-morrison-vows-to-take-down-gender-inclusion-bathroom-sign/11462552)
 - Uh, that cheque is bigger than you, [Tim Wilson](https://twitter.com/BelindaJones68/status/1219961656941219841)
