@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Not Good Enough]]></title><description><![CDATA[A podcast proposing inadequate responses to inadequate responses.]]></description><link>https://notgoodpod.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Feb 2020 21:02:02 GMT</lastBuildDate><item><title><![CDATA[Methane Clown Posse]]></title><description><![CDATA[Show notes Australia is very much still on fire. …as is the Bridget McKenzie scandal. Some nice color-coded spreadsheets leaked. an hour…]]></description><link>https://notgoodpod.com/004-methane-clown-posse/</link><guid isPermaLink="false">https://notgoodpod.com/004-methane-clown-posse/</guid><pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Show notes&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Not Good Enough]]></title><description><![CDATA[A podcast proposing inadequate responses to inadequate responses.]]></description><link>https://notgoodpod.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 02 Feb 2020 23:38:08 GMT</lastBuildDate><item><title><![CDATA[Methane Clown Posse]]></title><description><![CDATA[Show notes Australia is very much still on fire. …as is the Bridget McKenzie scandal. Some nice color-coded spreadsheets leaked. an hour…]]></description><link>https://notgoodpod.com/004-methane-clown-posse/</link><guid isPermaLink="false">https://notgoodpod.com/004-methane-clown-posse/</guid><pubDate>Mon, 03 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Show notes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Australia is very much &lt;a href=&quot;https://www.reddit.com/r/australia/comments/exhkhw/view_from_conder_canberra_act_last_night/&quot;&gt;still on fire&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;…as is the Bridget McKenzie scandal. Some nice &lt;a href=&quot;https://www.abc.net.au/news/2020-01-29/sports-clubs-denied-funding-sports-australia-grants-want-answers/11907988&quot;&gt;color-coded spreadsheets&lt;/a&gt; leaked.&lt;/li&gt;
@@ -7,24 +7,25 @@
 &lt;li&gt;Kristina Keneally is running to the right of the Liberal party by complaining about &lt;a href=&quot;https://twitter.com/KKeneally/status/1221909575374270464&quot;&gt;“airplane people”&lt;/a&gt;. She’s been &lt;a href=&quot;https://www.sbs.com.au/news/people-smugglers-evolved-from-using-boats-to-planes-under-dutton-keneally&quot;&gt;doing it for a while&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Australia is &lt;a href=&quot;https://www.bbc.com/news/world-51338899&quot;&gt;closing it’s borders&lt;/a&gt; to anyone from China (except for citizens and residents), including thousands of students returning for university.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.energy.gov.au/sites/default/files/2014-15-australian-energy-flows-sankey.pdf&quot;&gt;&lt;span
+&lt;p&gt;&lt;a href=&quot;http://www.sankey-diagrams.com/tag/australia/&quot;&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 51.738241308793455%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAABYlAAAWJQFJUiTwAAACeUlEQVQoz12Sy05TURSG+yT6CjrQCY9AQhiSMDMQQ0JIlJAQBuJMGRiuwcDAGA0kwAAERQGhSoG2h7bQ0tIWSm+nhV5Or6c3evvcPU2McSV/1t57rf2v/a+1dQgLBDOMv9bzalzP/PwpzWaT7e9XrKw6WVp2kE6XWmnk8xWmp83Mzpo1PzFxRCrVjtVqDer1BrrWxudL0dHxgQcP3zE0tK0lTE6e0Ne/IfZfubpKUa02SSSKdHZ+5tHj9zx5ukBX1zKVSo1/TedwxLi+TmmkK6s2rFaZ3d0rnM4EkhTi7CyMdBpAlsMYDDfs7blYWrIyNvaNxUVJwMrMjJGpqRMWFk7RteSZzRF6etbo7V1neHgHl0vmzdtDkWxhatqETRTJZFXO7TJ3d6oonhSvVYnFCsIXsNujAhHc7lhbsseTpL/vC93dn5iZNpJMlhgZ2WFwcIsXL7cJ+xXU+zKFcp1SqSr6VqRRr/6VWS7XREsaWh91rWCh2O6DKi40hZflHCaTjNEYxiwJfxxEf3SD/lcA/YEfw3EY42kU63kSi+2Ow8MgB+Lc70+3X9i8r5ALBlHDIYq3UY08dpcnKeS0pqjE80JeFn8kiy+SIR5VCDqu8Z97iQXj5MT0fT6F1jw0wnI8jml0lJ8DA7jm5jTCbLHB/1YXqAgkL85Z73vG1sBzFMmsxW7jJZxuBV1RlilGIqhuN/7NTRImEzmXi5DZTvbykrw4T1isKFYBm4PbMwfKpYvw/j5Rg4Gb4xMqoQB+6ZIL0zW6jEN8XJsNRRBl7XaSkoR3Y4OQ8UwjbJG3oIp1QP+bsNlC2uuh4PWS83jIXDhRvW5MH9ew/bDwB0LNspVYnSjFAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 70.71788413098237%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2KPUjiA//8QAGRAAAwADAAAAAAAAAAAAAAAAAAECAxIi/9oACAEBAAEFAslJCuWxmnZ//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAQUBAAAAAAAAAAAAAAAAEQABAhAhQf/aAAgBAQAGPwLXBWTs8r//xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAQITFRgf/aAAgBAQABPyEMPvZ3AfNCnOXNkCTX/9oADAMBAAIAAwAAABAs/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRYXHR/9oACAEBAAE/EG+2NVRfUZjY3TWrnLBqI0tQwYFDzXyFq4N9z//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Australia&amp;#39;s energy flow chart&quot;
-        title=&quot;Australia&amp;#39;s energy flow chart&quot;
-        src=&quot;/static/3f87cc58709d6775d4210e0e65958506/799d3/energy-flows.png&quot;
-        srcset=&quot;/static/3f87cc58709d6775d4210e0e65958506/00d96/energy-flows.png 148w,
-/static/3f87cc58709d6775d4210e0e65958506/0b23c/energy-flows.png 295w,
-/static/3f87cc58709d6775d4210e0e65958506/799d3/energy-flows.png 590w,
-/static/3f87cc58709d6775d4210e0e65958506/2a3d6/energy-flows.png 885w,
-/static/3f87cc58709d6775d4210e0e65958506/15807/energy-flows.png 978w&quot;
+        alt=&quot;Australia&amp;#39;s energy Sankey chart&quot;
+        title=&quot;Australia&amp;#39;s energy Sankey chart&quot;
+        src=&quot;/static/ff61114c50999a9abffb7f5b751639c8/88218/australia-energy-flow.jpg&quot;
+        srcset=&quot;/static/ff61114c50999a9abffb7f5b751639c8/7237a/australia-energy-flow.jpg 148w,
+/static/ff61114c50999a9abffb7f5b751639c8/0cfdf/australia-energy-flow.jpg 295w,
+/static/ff61114c50999a9abffb7f5b751639c8/88218/australia-energy-flow.jpg 590w,
+/static/ff61114c50999a9abffb7f5b751639c8/77d57/australia-energy-flow.jpg 885w,
+/static/ff61114c50999a9abffb7f5b751639c8/5a917/australia-energy-flow.jpg 1180w,
+/static/ff61114c50999a9abffb7f5b751639c8/404b0/australia-energy-flow.jpg 1588w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         loading=&quot;lazy&quot;
       /&gt;
@@ -35,7 +36,7 @@
 &lt;li&gt;Morrison is &lt;a href=&quot;https://www.theguardian.com/australia-news/2020/jan/31/australian-prime-minister-scott-morrison-strikes-2bn-deal-with-gladys-berejiklian-nsw-to-boost-gas-supply&quot;&gt;forcing New South Wales to use more gas&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Australia is the world’s &lt;a href=&quot;https://www.climatecouncil.org.au/australia-worlds-largest-gas-exporter/&quot;&gt;biggest exporter of gas&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;… but we also &lt;a href=&quot;https://www.theguardian.com/australia-news/commentisfree/2019/oct/22/australian-plans-to-import-gas-are-expensive-bad-for-the-climate-and-utterly-absurd&quot;&gt;import gas&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;We make a pittance from &lt;a href=&quot;https://www.news.com.au/finance/business/mining/tax-and-royalty-systems-for-australias-gas-and-oil-industries-need-reform-experts-argue/news-story/a900c328f1a01bf4e3aee8b867138262&quot;&gt;taxes on gas&lt;/a&gt;. Qatar makes $26 billion in gas taxes. Australia makes $600 million. The oil and gas companies are making off with the rest.&lt;/li&gt;
+&lt;li&gt;We make a pittance from &lt;a href=&quot;https://www.news.com.au/finance/business/mining/tax-and-royalty-systems-for-australias-gas-and-oil-industries-need-reform-experts-argue/news-story/a900c328f1a01bf4e3aee8b867138262&quot;&gt;taxes on gas&lt;/a&gt;. Qatar makes $26 billion in gas income. Australia makes $600 million. The oil and gas companies are making off with the rest.&lt;/li&gt;
 &lt;li&gt;Corruption drives climate change. We’ve known about this stuff a long time, and it’s &lt;a href=&quot;https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/sep/19/shell-and-exxons-secret-1980s-climate-change-warnings&quot;&gt;been covered up&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Angus Taylor &lt;a href=&quot;https://reneweconomy.com.au/morrison-names-leading-anti-wind-campaigner-as-energy-minister-49560/&quot;&gt;hates wind farms&lt;/a&gt;, and is the minister in charge of all this mess.&lt;/li&gt;
 &lt;li&gt;The government is also trying to &lt;a href=&quot;https://www.theage.com.au/national/victoria/state-onshore-gas-ban-a-federal-deal-breaker-20200131-p53wnu.html&quot;&gt;tie funding for renewables&lt;/a&gt; to new gas plants in Victoria.&lt;/li&gt;
