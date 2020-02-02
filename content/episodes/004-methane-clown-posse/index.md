@@ -1,9 +1,9 @@
 ---
 number: 4
-title: Oily business
+title: Methane Clown Posse
 date: "2020-02-02"
-description: 'We talk about how "transition" energy sources like gas is a dead end and a bad deal.'
-fileLink: "https://notgoodenough.podbean.com/mf/play/gmu4rw/nge003-mckenzie_07.mp3"
+description: 'The Prime Minister is tying funding for renewable energy sources to more natural gas extraction. We discuss why using gas as a "transition" energy source is a dead end and a bad deal.'
+fileLink: "https://notgoodenough.podbean.com/mf/play/4fruuz/nge004-gas_002.mp3"
 ---
 
 ### Show notes
