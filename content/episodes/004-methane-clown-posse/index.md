@@ -15,14 +15,14 @@ fileLink: "https://notgoodenough.podbean.com/mf/play/4fruuz/nge004-gas_002.mp3"
 - Kristina Keneally is running to the right of the Liberal party by complaining about ["airplane people"](https://twitter.com/KKeneally/status/1221909575374270464). She's been [doing it for a while](https://www.sbs.com.au/news/people-smugglers-evolved-from-using-boats-to-planes-under-dutton-keneally).
 - Australia is [closing it's borders](https://www.bbc.com/news/world-51338899) to anyone from China (except for citizens and residents), including thousands of students returning for university.
 
-[![Australia's energy flow chart](./energy-flows.png)](https://www.energy.gov.au/sites/default/files/2014-15-australian-energy-flows-sankey.pdf)
+[![Australia's energy Sankey chart](./australia-energy-flow.jpg)](http://www.sankey-diagrams.com/tag/australia/)
 
 - Scott Morrison [speaks at the press club](https://www.pm.gov.au/media/address-national-press-club)
 - BTW, the press club is sponsored by [Westpac](https://www.smh.com.au/business/banking-and-finance/the-banking-royal-commission-has-failed-westpac-is-proof-20191128-p53f38.html)
 - Morrison is [forcing New South Wales to use more gas](https://www.theguardian.com/australia-news/2020/jan/31/australian-prime-minister-scott-morrison-strikes-2bn-deal-with-gladys-berejiklian-nsw-to-boost-gas-supply).
 - Australia is the world's [biggest exporter of gas](https://www.climatecouncil.org.au/australia-worlds-largest-gas-exporter/)
 - ... but we also [import gas](https://www.theguardian.com/australia-news/commentisfree/2019/oct/22/australian-plans-to-import-gas-are-expensive-bad-for-the-climate-and-utterly-absurd).
-- We make a pittance from [taxes on gas](https://www.news.com.au/finance/business/mining/tax-and-royalty-systems-for-australias-gas-and-oil-industries-need-reform-experts-argue/news-story/a900c328f1a01bf4e3aee8b867138262). Qatar makes $26 billion in gas taxes. Australia makes $600 million. The oil and gas companies are making off with the rest.
+- We make a pittance from [taxes on gas](https://www.news.com.au/finance/business/mining/tax-and-royalty-systems-for-australias-gas-and-oil-industries-need-reform-experts-argue/news-story/a900c328f1a01bf4e3aee8b867138262). Qatar makes $26 billion in gas income. Australia makes $600 million. The oil and gas companies are making off with the rest.
 - Corruption drives climate change. We’ve known about this stuff a long time, and it’s [been covered up](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/sep/19/shell-and-exxons-secret-1980s-climate-change-warnings).
 - Angus Taylor [hates wind farms](https://reneweconomy.com.au/morrison-names-leading-anti-wind-campaigner-as-energy-minister-49560/), and is the minister in charge of all this mess.
 - The government is also trying to [tie funding for renewables](https://www.theage.com.au/national/victoria/state-onshore-gas-ban-a-federal-deal-breaker-20200131-p53wnu.html) to new gas plants in Victoria.
