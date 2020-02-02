@@ -7,18 +7,10 @@ import * as colors from '../styles/colors';
 import Layout from '../components/Layout';
 import MetaTags from '../components/MetaTags';
 import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
-import SubscribeLinks from '../components/SubscribeLinks';
 
 const Title = styled.h1`
     ${fontDisplay}
     margin: 1rem 0;
-`;
-
-
-const Divider = styled.hr`
-    border: 0;
-    border-top: 1px solid ${colors.foregroundTertiary};
-    margin: 2rem;
 `;
 
 
@@ -53,14 +45,6 @@ const PodcastIndex = ({ data, location }) => {
                     />
                 );
             })}
-
-            <Divider />
-
-            <Title>
-                Subscribe
-            </Title>
-
-            <SubscribeLinks />
 
         </Layout>
     );

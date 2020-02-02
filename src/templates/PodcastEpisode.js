@@ -5,7 +5,6 @@ import * as colors from '../styles/colors';
 
 import Layout from '../components/layout';
 import MetaTags from '../components/MetaTags';
-import SubscribeLinks from '../components/SubscribeLinks';
 
 import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 
@@ -78,14 +77,6 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                     </Link>
                 )}
             </nav>
-
-            <Divider />
-
-            <Title>
-                Subscribe
-            </Title>
-
-            <SubscribeLinks />
         </Layout>
     );
 };

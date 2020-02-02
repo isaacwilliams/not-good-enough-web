@@ -3,6 +3,9 @@ import { Link } from "gatsby";
 import styled from 'styled-components';
 
 import media from '../styles/media';
+import * as colors from '../styles/colors';
+import { fontDisplay } from '../styles/fonts';
+
 import SiteContainer from './SiteContainer';
 
 const Header = styled.header`
@@ -13,10 +16,67 @@ const Header = styled.header`
 `;
 
 const Footer = styled.footer`
+    display: grid;
+
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto auto;
+
+    grid-template-areas:
+        'subscribe contact'
+        'solidarity solidarity';
+
+
+    width: 60vw;
+    max-width: 30rem;
+
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-top: 1px solid lightgrey;
+
+    ${media.phone`
+        width: auto;
+        margin: 1rem 2rem;
+    `}
+`;
+
+const FooterSubscribe = styled.section`
+    grid-area: subscribe;
+    margin: 1rem 0;
+`;
+
+const FooterContact = styled.section`
+    grid-area: contact;
+    margin: 1rem 0;
+`;
+
+const FooterSolidarity = styled.section`
+    grid-area: solidarity;
     display: flex;
+    flex-direction: column;
+
     align-items: center;
-    justify-content: center;
-    padding: 2rem;
+    justify-content: flex-start;
+
+    text-align: center;
+`;
+
+const AkOfCountry = styled.p`
+    margin-top: 1rem;
+    font-size: 0.9rem;
+`;
+
+const Title = styled.h1`
+    ${fontDisplay}
+    margin: 1rem 0;
+`;
+
+const Divider = styled.hr`
+    border: 0;
+    border-top: 1px solid ${colors.foregroundTertiary};
+    margin: 2rem;
 `;
 
 const MainContainer = styled.div`
@@ -69,7 +129,37 @@ const Layout = ({ location, title, children }) => {
                 {children}
             </MainContainer>
             <Footer>
-                <img src={require('./nge-banner.svg')} width={234} height={84} />
+                <FooterSubscribe>
+                    <Title>
+                        Subscribe
+                    </Title>
+
+                    <ul>
+                        <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
+                        <li><a href="https://podcasts.apple.com/au/podcast/not-good-enough/id1495016430">Apple Podcasts</a></li>
+                        <li><a href="https://pca.st/8p9p0z4x">Pocket Casts</a></li>
+                        <li><a href="https://overcast.fm/itunes1495016430/not-good-enough">Overcast</a></li>
+                    </ul>
+                </FooterSubscribe>
+
+                <FooterContact>
+                    <Title>
+                        Contact
+                    </Title>
+
+                    <ul>
+                        <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
+                        <li><a href="mailto:notgoodpod@protonmail.com">Email us!</a></li>
+                    </ul>
+                </FooterContact>
+
+                <FooterSolidarity>
+                    <img src={require('./nge-banner.svg')} alt="" width={234} height={84} />
+
+                    <AkOfCountry>
+                        Not Good Enough is created on the lands of the Kulin nation,<br/> which has never been ceded.
+                    </AkOfCountry>
+                </FooterSolidarity>
             </Footer>
         </SiteContainer>
     );
