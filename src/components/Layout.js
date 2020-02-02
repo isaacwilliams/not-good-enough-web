@@ -66,6 +66,7 @@ const FooterSolidarity = styled.section`
 const AkOfCountry = styled.p`
     margin-top: 1rem;
     font-size: 0.9rem;
+    max-width: 24rem;
 `;
 
 const Title = styled.h1`
@@ -154,10 +155,10 @@ const Layout = ({ location, title, children }) => {
                 </FooterContact>
 
                 <FooterSolidarity>
-                    <img src={require('./nge-banner.svg')} alt="" width={234} height={84} />
+                    <img src={require('./nge-banner.svg')} alt="Solidaritus et podcastus" width={234} height={84} />
 
                     <AkOfCountry>
-                        Not Good Enough is created on the lands of the Kulin nation,<br/> which has never been ceded.
+                        Not Good Enough is made on the lands of the Kulin nation, which have never been ceded.
                     </AkOfCountry>
                 </FooterSolidarity>
             </Footer>
