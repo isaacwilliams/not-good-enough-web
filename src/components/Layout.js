@@ -136,10 +136,11 @@ const Layout = ({ location, title, children }) => {
                     </Title>
 
                     <ul>
-                        <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
                         <li><a href="https://podcasts.apple.com/au/podcast/not-good-enough/id1495016430">Apple Podcasts</a></li>
+                        <li><a href="https://open.spotify.com/show/02kyLcMzxP2u4cBJotNT1z?si=xV-irpMITdKR_JgmTSmBGg">Spotify</a></li>
                         <li><a href="https://pca.st/8p9p0z4x">Pocket Casts</a></li>
                         <li><a href="https://overcast.fm/itunes1495016430/not-good-enough">Overcast</a></li>
+                        <li><a href="https://feed.podbean.com/notgoodenough/feed.xml">RSS Feed</a></li>
                     </ul>
                 </FooterSubscribe>
 
