@@ -15,6 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 - [The Million Flag Patriots](https://newmatilda.com/2018/10/31/punching-patriots-tackle-gavin-mcinnes-proud-boys-promise-violence-australia/): ridiculing fascists by agreeing too hard.
 - [Yelling at Racist Dogs](https://thebrag.com/from-the-frontlines-to-the-fringe-the-rise-of-yelling-at-racist-dogs/): does what it says on the tin.
 - The [activist blockade of the IMARC mining conference](https://www.abc.net.au/news/2019-10-29/protesters-clash-with-police-outside-melbourne-mining-conference/11648540) in Melbourne were met with brutal police tactics.
+- Melbourne Activist Legal Observers [wrote a damning report](https://melbourneactivistlegalsupport.org/2019/12/06/report-the-policing-of-the-imarc-protests/) of Victoria Police's conduct.  
 - Victoria Police's public order response team has [some cool gear](https://www.theage.com.au/national/victoria/public-order-response-team-20170325-gv6cc1.html) I guess
 - Travis Gray, the [alt-right cop](https://twitter.com/tom_tanuki/status/1190185931166236672)
 - Ted Kazinski, [ecoterrorist](https://en.wikipedia.org/wiki/Ted_Kaczynski#Industrial_Society_and_Its_Future), palatable to eco-fascists.
