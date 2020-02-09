@@ -1,8 +1,8 @@
 ---
 number: 5
-title: Methane Clown Posse
+title: IMARCing me crazy (feat. Tom Tanuki)
 date: "2020-02-10"
-description: ''
+description: "What happens when mining companies move to protect their interests from protesters? We talk with activist and comedian Tom Tanuki about the growing threat of ecofascism."
 fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 ---
 
@@ -18,6 +18,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 - The [activist blockade of the IMARC mining conference](https://www.abc.net.au/news/2019-10-29/protesters-clash-with-police-outside-melbourne-mining-conference/11648540) in Melbourne were met with brutal police tactics.
 - Victoria Police's public order response team has [some cool gear](https://www.theage.com.au/national/victoria/public-order-response-team-20170325-gv6cc1.html) I guess
 - Travis Gray, the [alt-right cop](https://twitter.com/tom_tanuki/status/1190185931166236672)
--
+- Ted Kazinski, [ecoterrorist](https://en.wikipedia.org/wiki/Ted_Kaczynski#Industrial_Society_and_Its_Future), palatable to ecofascists.
+- Billionares are getting ready to [hide out in New Zealand](https://www.theguardian.com/news/2018/feb/15/why-silicon-valley-billionaires-are-prepping-for-the-apocalypse-in-new-zealand) when the world they are destroying collapses.
 
 ### Action items
