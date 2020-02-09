@@ -26,3 +26,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 - Read [Fascists Among Us](https://scribepublications.com.au/books-authors/books/person-x-and-the-fascists-among-us) by Jeff Sparrow and try to understand how eco-fascists think
 - [Go to a protest](http://www.climatechangeprotests.net.au/) and let them know you're angry
 - Visit [Tom Tanuki's website](https://tomtanuki.net/), listen to [his podcast](https://poorcanfeedthebirds.podbean.com/) and support his work on [Patreon](https://www.patreon.com/tomtanuki)
+- You can't hear it but Tom Tanuki was wearing [this sick shirt](https://www.instagram.com/p/B7F0j8mpkPT/). It's sold out but [you can get others like it here](https://www.eddiesgrubhouse.com/shop). 
