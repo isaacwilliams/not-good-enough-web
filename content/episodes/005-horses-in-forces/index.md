@@ -9,7 +9,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 ### Show notes
 
 - Australia is still on fire. [Just less so](https://www.theguardian.com/world/2020/feb/07/massive-relief-torrential-rain-douses-bushfires-across-parts-of-australia), and now there's [floods](https://www.abc.net.au/news/2020-02-09/life-threatening-nsw-flood-warnings-power-out-for-thousands/11947268).
-- Bridget McKenzie has [resigned from cabinet](https://www.theguardian.com/australia-news/2020/feb/02/bridget-mckenzie-resigns-following-sports-rort-affair). Still got her seat, paycheque and pension though.
+- Bridget McKenzie has [resigned from cabinet](https://www.theguardian.com/australia-news/2020/feb/02/bridget-mckenzie-resigns-following-sports-rort-affair), which is pretty meaningless. She's still got her seat, paycheque and pension.
 - Peter Dutton is [blaming the fires on arson](https://twitter.com/joshgnosis/status/1224927542416592897), not climate change, in an return to form for the Australian government. Tom McLean gave them until May [in Episode 2](/002-clean-coal-and-other-fairytales/), but was far too generous.
 - Keep fascists [out of Coburg](https://slackbastard.anarchobase.com/?p=39934)
 - [The Million Flag Patriots](https://newmatilda.com/2018/10/31/punching-patriots-tackle-gavin-mcinnes-proud-boys-promise-violence-australia/): ridiculing fascists by agreeing too hard.
