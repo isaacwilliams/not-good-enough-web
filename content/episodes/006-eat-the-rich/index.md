@@ -2,7 +2,7 @@
 number: 6
 title: Eat the Rich
 date: "2020-02-17"
-description: "Through the lens of the collapse of George Calombaris' restaurant empire and the ongoing Robodebt scandal, we discuss the war the rich wage on the poor."
+description: "We discuss the war the rich wage on the poor. The collapse of George Calombaris' restaurant empire and the ongoing Robodebt scandal show how just how far those in power are willing to go."
 fileLink: "https://mcdn.podbean.com/mf/web/b26u98/006-classwar.mp3"
 image: "video-image-006.png"
 ---
