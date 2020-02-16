@@ -48,6 +48,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
             <MetaTags
                 title={post.frontmatter.title}
                 description={post.frontmatter.description || post.excerpt}
+                shareImage={post.frontmatter.image}
             />
 
             <article>
@@ -103,6 +104,7 @@ export const pageQuery = graphql`
                 description
                 number
                 fileLink
+                image
             }
         }
     }
