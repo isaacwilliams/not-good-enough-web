@@ -18,7 +18,6 @@ fileLink: "https://mcdn.podbean.com/mf/web/b26u98/006-classwar.mp3"
 - Australia has a history of ignoring international bodies when it comes to our treatment of refugees. While Prime Minister, Tony Abbot [complained about being lectured to](https://www.smh.com.au/politics/federal/tony-abbott-australians-sick-of-being-lectured-to-by-united-nations-after-report-finds-antitorture-breach-20150309-13z3j0.html) by the United Nations.
 
 #### George Calombaris, wage thief
-- Wealth inequality is [so much more dramatic than you think](https://www.youtube.com/watch?v=QPKKQnijnsM).
 - George Calombaris, [celebrity chef and wage thief](https://en.wikipedia.org/wiki/George_Calombaris).
 - The first complaint made about his restaurants [underpaying workers was made in 2015](https://www.smh.com.au/business/workplace/former-staff-claim-calombaris-empire-routinely-ignored-penalty-rates-20170409-gvh24i.html). He was [warned about his conduct](https://www.news.com.au/national/calombaris-was-warned-of-wage-issues-in-2012-and-should-be-held-accountable-now-luke-hilakari-trades-hall/video/b6a376e1727f00f9183a2c04aee4b1f2) in 2012.
 - Calombaris has [argued against increasing worker's wages](https://www.smh.com.au/national/masterchef-slams-fair-work-pay-rates-20120109-1pri2.html), saying his businesses couldn't afford it.
@@ -35,6 +34,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/b26u98/006-classwar.mp3"
 
 #### Class war and climate change
 
+- Wealth inequality is [so much more dramatic than you think](https://www.youtube.com/watch?v=QPKKQnijnsM).
 - [This Oxfam study](https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/file_attachments/mb-extreme-carbon-inequality-021215-en.pdf) shows that the richest 10% of people are responsible for 49% of carbon emissions. The poorest 50% of people create 10% of the world's carbon emissions.
 
 ### Action items
