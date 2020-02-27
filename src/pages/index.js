@@ -20,7 +20,7 @@ const PodcastIndex = ({ data, location }) => {
 
     return (
         <Layout location={location} title={siteTitle}>
-            <MetaTags />
+            <MetaTags title="Not Good Enough" />
 
             <Title>
                 Episodes

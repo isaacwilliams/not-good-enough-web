@@ -46,7 +46,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
     return (
         <Layout location={location} title={siteTitle}>
             <MetaTags
-                title={post.frontmatter.title}
+                title={`Not Good Enough - ${post.frontmatter.title}`}
                 description={post.frontmatter.description || post.excerpt}
             />
 
