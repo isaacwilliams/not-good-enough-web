@@ -1,9 +1,9 @@
 ---
 number: 8
-title: Amnesty
+title: Stop the floats
 date: "2020-03-01"
-description: "We take on the Liberal Party's latest line attack on climate action as “uncosted”, then delve into dirty solidarity with Paul Parker, hero firefighter."
-fileLink: "https://mcdn.podbean.com/mf/web/d8gje5/007-dirty.mp3"
+description: "The Liberal party's float at the Sydney Mardi Gras was targeted by protestors who were ejected from the parade. We discuss the Liberal party's history of policies that hurt the LGBTQI community, and the Labor party's lack of spine on both gay marriage and climate change."
+fileLink: "https://mcdn.podbean.com/mf/web/9i4jds/008-amnesty_02.mp3"
 ---
 
 ### News
@@ -23,7 +23,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/d8gje5/007-dirty.mp3"
 - Protestors were [removed from the Sydney Mardi Gras by police](https://www.sbs.com.au/news/protesters-target-liberal-party-float-at-sydney-gay-and-lesbian-mardi-gras) after targeting the Liberal Party float (which depicted [James Cook and the Endeavour](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)).
 - The Liberal Party has a [long history](https://en.wikipedia.org/wiki/Marriage_Act_1961_(Australia)#Marriage_Amendment_Act_2004) of [opposing gay marriage](https://www.abc.net.au/news/2017-08-07/same-sex-marriage-liberals-vote-keep-policy/8781858), [refusing to apologise](https://www.theguardian.com/world/2014/sep/22/john-howard-there-was-no-genocide-against-indigenous-australians) for past genocidal policies, and [pushing for protection for religious bigots](https://www.independent.co.uk/news/world/australasia/australia-wildfires-sydney-weather-prime-minister-scott-morrison-religious-freedom-bill-a9240031.html).
 - The first Mardi Gras in Sydney, in 1978, [faced shocking police violence](https://www.mardigras.org.au/history).
-- The NSW Police, known more recently for their [strip-searches](https://www.theguardian.com/australia-news/2019/nov/06/revealed-nsw-police-strip-searched-more-than-100-girls-including-12-year-olds) of [unsupervised minors](https://www.theguardian.com/australia-news/2019/dec/02/nsw-police-told-15-year-old-lift-your-balls-up-strip-search-no-adult) at public events, [had cup cakes](https://twitter.com/sydneymardigras/status/1232812839384932352). So the must be nice right?
+- The NSW Police—known more recently for their [strip-searches](https://www.theguardian.com/australia-news/2019/nov/06/revealed-nsw-police-strip-searched-more-than-100-girls-including-12-year-olds) of [unsupervised minors](https://www.theguardian.com/australia-news/2019/dec/02/nsw-police-told-15-year-old-lift-your-balls-up-strip-search-no-adult) at public events—[had cup cakes](https://twitter.com/sydneymardigras/status/1232812839384932352). So they must be nice right?
 
 ### Why the Labor and Liberal parties won't act on climate change
 
@@ -36,6 +36,6 @@ fileLink: "https://mcdn.podbean.com/mf/web/d8gje5/007-dirty.mp3"
 ### Action items
 
 - Shout out to [refugee advocacy group RISE](http://riserefugee.org/rise-ex-detainees-statement-on-mantra-bell-city-hotel-refugee-detention-19-02-2020/), who organised a protest in support of refugees being detained in a hotel. Donate to [to help out](https://www.givenow.com.au/riserefugee/donate), and [follow them](https://twitter.com/riserefugee) to find out when their next actions will be.
-- Listen to friend of the show Tom Tanuki's podcast, [The Poor Can Feed the Birds](https://poorcanfeedthebirds.podbean.com/), which has a "gig guide" upcoming protests. 
+- Listen to friend of the show Tom Tanuki's podcast, [The Poor Can Feed the Birds](https://poorcanfeedthebirds.podbean.com/), which has a "gig guide" upcoming protests.
 - Listen to the Background Briefing episode ["How fracking could threaten Australia's Paris target"](https://www.abc.net.au/radionational/programs/backgroundbriefing/fracking-could-threaten-australias-paris-target/12006532). Solidaritus et podcastus ✊
 - Talk to your friends! Start a group chat! Reach out to the people around you who care about the same things you do.

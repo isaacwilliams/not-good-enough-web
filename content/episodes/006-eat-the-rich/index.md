@@ -1,6 +1,6 @@
 ---
 number: 6
-title: Eat the Rich
+title: Eat the rich
 date: "2020-02-17"
 description: "Through the lens of worker underpayment within George Calombaris' restaurant empire and the ongoing Robodebt scandal, we discuss the war the rich wage on the poor."
 fileLink: "https://mcdn.podbean.com/mf/web/b26u98/006-classwar.mp3"

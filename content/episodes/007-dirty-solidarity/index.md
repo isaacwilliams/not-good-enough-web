@@ -1,6 +1,6 @@
 ---
 number: 7
-title: Dirty Solidarity
+title: Dirty solidarity
 date: "2020-02-24"
 description: "We take on the Liberal Party's latest line attack on climate action as “uncosted”, then delve into dirty solidarity with Paul Parker, hero firefighter."
 fileLink: "https://mcdn.podbean.com/mf/web/d8gje5/007-dirty.mp3"

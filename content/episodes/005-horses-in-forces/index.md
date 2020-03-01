@@ -1,6 +1,6 @@
 ---
 number: 5
-title: Horses in Forces (feat. Tom Tanuki)
+title: Horses in forces (feat. Tom Tanuki)
 date: "2020-02-10"
 description: "What happens when mining companies move to protect their interests from protesters? We talk with activist and comedian Tom Tanuki about the growing threat of eco-fascism."
 fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
@@ -26,4 +26,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/ax879s/nge005-tanuki.mp3"
 - Read [Fascists Among Us](https://scribepublications.com.au/books-authors/books/person-x-and-the-fascists-among-us) by Jeff Sparrow and try to understand how eco-fascists think
 - [Go to a protest](http://www.climatechangeprotests.net.au/) and let them know you're angry
 - Visit [Tom Tanuki's website](https://tomtanuki.net/), listen to [his podcast](https://poorcanfeedthebirds.podbean.com/) and support his work on [Patreon](https://www.patreon.com/tomtanuki)
-- You can't hear it but Tom Tanuki was wearing [this sick shirt](https://www.instagram.com/p/B7F0j8mpkPT/). It's sold out but [you can get others like it here](https://www.eddiesgrubhouse.com/shop). 
+- You can't hear it but Tom Tanuki was wearing [this sick shirt](https://www.instagram.com/p/B7F0j8mpkPT/). It's sold out but [you can get others like it here](https://www.eddiesgrubhouse.com/shop).
