@@ -11,9 +11,11 @@ import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
 const BodyText = styled.div`
     margin: 2rem 0 3rem 0;
 
+    line-height: 1.4;
+
     h1, h2, h3, h4 {
-        margin-top: 0.6rem;
-        margin-bottom: 0.3rem;
+        margin-top: 1.2rem;
+        margin-bottom: 0.6rem;
     }
 
     p {
