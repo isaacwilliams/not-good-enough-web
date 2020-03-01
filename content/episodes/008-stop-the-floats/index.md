@@ -18,7 +18,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/9i4jds/008-amnesty_02.mp3"
 - Employers are now calling for an [amnesty on wage underpayments](https://www.smh.com.au/national/restaurateurs-call-for-amnesty-to-deal-with-wage-compliance-20190928-p52vrm.html).
 - CEO Dan Price pays all of his workers workers at least $70,000 a year. [Decent, living wages can work](https://www.bbc.com/news/stories-51332811)!
 
-### Mardi Gras and the Liberal Party
+### Mardi Gras, the police and the Liberal Party
 
 - Protestors were [removed from the Sydney Mardi Gras by police](https://www.sbs.com.au/news/protesters-target-liberal-party-float-at-sydney-gay-and-lesbian-mardi-gras) after targeting the Liberal Party float (which depicted [James Cook and the Endeavour](https://en.wikipedia.org/wiki/First_voyage_of_James_Cook)).
 - The Liberal Party has a [long history](https://en.wikipedia.org/wiki/Marriage_Act_1961_(Australia)#Marriage_Amendment_Act_2004) of [opposing gay marriage](https://www.abc.net.au/news/2017-08-07/same-sex-marriage-liberals-vote-keep-policy/8781858), [refusing to apologise](https://www.theguardian.com/world/2014/sep/22/john-howard-there-was-no-genocide-against-indigenous-australians) for past genocidal policies, and [pushing for protection for religious bigots](https://www.independent.co.uk/news/world/australasia/australia-wildfires-sydney-weather-prime-minister-scott-morrison-religious-freedom-bill-a9240031.html).
