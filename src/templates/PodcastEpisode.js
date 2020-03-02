@@ -25,6 +25,14 @@ const BodyText = styled.div`
     ul {
         margin-bottom: 0.3rem;
     }
+
+    strong {
+        font-weight: bold;
+    }
+
+    em {
+        font-style: italic;
+    }
 `;
 
 const Title = styled.h1`
