@@ -43,4 +43,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 ### Actions
 
 - Shout out to the [Flood Cast from Flood Media](https://www.floodmedia.org/floodcast) — check their series on capitalism and a socialist future. Solidaritus et podcastus ✊
-- Wash your hands, buy a reasonable amount of toilet paper and take time off from work if you're sick.
+- Wash your hands, buy a reasonable amount of toilet paper and if you can, take time off from work if you're sick (and if you have COVID and your boss makes you work, make sure to take them aside during the day to apologise for trying to slack off).
