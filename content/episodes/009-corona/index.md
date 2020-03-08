@@ -19,7 +19,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 - Panic buying and hoarding is bad for everyone else. [It prevents people who are living paycheque to paycheque from being able to purchase the things they need](https://www.abc.net.au/radio/programs/the-signal/covid-19-panic/12022402).
 - The poorest people in our society — people on casual work and without sick leave, are also the people who come into [contact with the most people](https://twitter.com/abcnews/status/1236462655012917249).
 - The Liberal government has a history of [trying to make it harder](https://www.abc.net.au/news/2014-12-09/federal-government-dumps-gp-co-payment/5955012) for the poorest Australians to the access health care they need.
-- Jeremy Poxton of the Unemployed Workers Union has [interrogated Centerlink on the requirements they will place on unemployed people](https://twitter.com/jeremypoxon/status/1234678166876090370), with no clear answer. They have a bad record on this, [cutting off the payments of bushfire victims](https://www.smh.com.au/politics/federal/government-apologises-for-bushfire-payment-bungle-20200112-p53qs5.html).
+- Jeremy Poxon of the Unemployed Workers Union has [interrogated Centerlink on the requirements they will place on unemployed people in quarantine](https://twitter.com/jeremypoxon/status/1234678166876090370), with no clear answer. They have a bad record on this, [cutting off the payments of bushfire victims](https://www.smh.com.au/politics/federal/government-apologises-for-bushfire-payment-bungle-20200112-p53qs5.html).
 
 ### Government corruption
 
