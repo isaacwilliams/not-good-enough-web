@@ -1,8 +1,8 @@
 ---
 number: 10
-title: Posting through it
+title: The gang self isolates
 date: "2020-03-15"
-description: "Shell is posting cringe on International Women's Day, Missy Higgins' dad has Coronavirus, and the Australian government continues their efforts to make corruption a national sport. We try to make sense of the chaos in this blockbuster episode."
+description: "There's a looming pandemic and the energy is weird. We talk about police violence, the closure of the AAP, and how to survive coronavirus."
 fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 ---
 
@@ -23,6 +23,8 @@ fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 - Guardian columnist Brigid Delaney [enjoyed Bankok under lockdown](https://www.theguardian.com/commentisfree/2020/mar/06/travelling-through-asia-during-the-coronavirus-its-like-i-have-the-whole-place-to-myself), then was surprised to find herself [under self-isolation on return](https://www.theguardian.com/commentisfree/2020/mar/13/i-dont-have-it-my-week-of-not-being-sick-with-coronavirus).
 - The ABC has a [dedicated portal for Coronavirus news and information](https://www.abc.net.au/news/story-streams/coronavirus/).
 
+![Podcasting in the time of coronavirus](./ETH8BcmUMAAKeA4.jpeg)
+
 ### Surviving the pandemic
 
 - The [median income in Australia is $48,000](https://www.abc.net.au/news/2019-12-30/are-you-one-of-the-average-australians-politicians-refer-to/11831700). Many of the people earning that or less will not be able to afford the costs imposed by other people panic buying staples.
@@ -39,6 +41,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 ### Actions
 
 - Look after your friends and family. Make sure the people around you are coping with this new, weird time.
+- Check out the [show notes](/010-posting-through-it). They're great!
 - Join your union, advocate for them to push for the change you want.
 - Join your tenants union ([VIC](https://www.tenantsvic.org.au/), [NSW](https://www.tenants.org.au/tu), [WA](https://www.tenancywa.org.au/), [QLD](https://tenantsqld.org.au/)). They're great for advice on what your rights are as a renter.
 - Read [Progress and Poverty by Henry George](https://en.wikipedia.org/wiki/Progress_and_Poverty).
