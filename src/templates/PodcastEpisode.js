@@ -33,6 +33,10 @@ const BodyText = styled.div`
     em {
         font-style: italic;
     }
+    
+    .gatsby-resp-image-wrapper {
+        margin: 2rem;
+    }
 `;
 
 const Title = styled.h1`

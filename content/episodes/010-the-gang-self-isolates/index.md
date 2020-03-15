@@ -23,7 +23,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
 - Guardian columnist Brigid Delaney [enjoyed Bankok under lockdown](https://www.theguardian.com/commentisfree/2020/mar/06/travelling-through-asia-during-the-coronavirus-its-like-i-have-the-whole-place-to-myself), then was surprised to find herself [under self-isolation on return](https://www.theguardian.com/commentisfree/2020/mar/13/i-dont-have-it-my-week-of-not-being-sick-with-coronavirus).
 - The ABC has a [dedicated portal for Coronavirus news and information](https://www.abc.net.au/news/story-streams/coronavirus/).
 
-![Podcasting in the time of coronavirus](./ETH8BcmUMAAKeA4.jpeg)
+![Podcasting in the time of coronavirus](./lang-isolation.jpeg)
 
 ### Surviving the pandemic
 
