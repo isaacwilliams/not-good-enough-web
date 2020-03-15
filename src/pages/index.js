@@ -36,6 +36,7 @@ const PodcastIndex = ({ data, location }) => {
 
                 return (
                     <PodcastEpisodeSummary
+                        key={slug}
                         slug={slug}
                         title={title}
                         date={date}
