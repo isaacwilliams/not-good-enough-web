@@ -12,7 +12,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/484zy5/010-posting_through_it_01.mp3"
 - The Police Minister has previously said he [would want his own underage sons strip-searched](https://www.smh.com.au/national/nsw/minister-would-want-sons-strip-searched-if-at-risk-of-doing-something-wrong-20191106-p537ww.html) by police if they were suspected of possessing drugs.
 - New South Wales Police are complicit in a [regime of strip searches](https://www.theguardian.com/australia-news/2020/feb/06/strip-search-inquiry-cut-short-after-nsw-government-sacks-commissioner) of [underage children and teens](https://www.theguardian.com/australia-news/2019/oct/21/police-strip-searched-16-year-old-girl-at-splendour-music-festival-inquiry-hears), without appropriate support or presence of legal guardians.
 - Constable Zachary Rolfe, charged with the murder of Yuendumu teenager Kumanjayi Walker, [has not spent a single night in jail](https://www.abc.net.au/news/2020-03-08/yuendumu-residents-question-grant-of-bail-to-zachary-rolfe/12035990).
-- For an example of how community policing can work in practice, see the example of the [1960s Black Panther Party](https://www.wglt.org/post/director-chronicles-black-panthers-rise-new-tactics-were-needed).
+- For an example of how community policing can work in practice, see the [1960s Black Panther Party](https://www.wglt.org/post/director-chronicles-black-panthers-rise-new-tactics-were-needed).
 
 ### Coronavirus
 
