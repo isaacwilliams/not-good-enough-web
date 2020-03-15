@@ -3,7 +3,7 @@ number: 10
 title: The gang self isolates
 date: "2020-03-15"
 description: "There's a looming pandemic and the energy is weird. We talk about police violence, the closure of the AAP, and how to survive coronavirus."
-fileLink: "https://mcdn.podbean.com/mf/web/mg38nt/009-respecting_002.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/484zy5/010-posting_through_it_01.mp3"
 ---
 
 ### Policing
