@@ -1,19 +1,18 @@
 ---
 number: 11
-title: Coronacast
+title: Shane Warne had a gin company?
 date: "2020-03-23"
-description: "There's a looming pandemic and the energy is weird. We talk about police violence, the closure of the AAP, and how to survive coronavirus."
+description: "It's the biggest news week of our lifetime, and we podcast through it. We discuss the government's (mis)handling of the corona situation, then get hopeful about what might come out the other side of this mess."
 fileLink: "https://mcdn.podbean.com/mf/web/484zy5/010-posting_through_it_01.mp3"
 ---
 
 ### Pandemicageddon
 
-- Newstart is being doubled! https://www.pedestrian.tv/news/newstart-jobseeker-doubled-coronavirus/
-- The government was previously talking about having a two tiered system.
+- Newstart is [being doubled](https://www.pedestrian.tv/news/newstart-jobseeker-doubled-coronavirus/), and [work for the dole requirements are suspended](https://www.theguardian.com/world/live/2020/mar/23/australia-coronavirus-updates-live-pubs-closed-but-schools-open-after-national-cabinet-meeting-latest?page=with:block-5e781e318f08dcc95cc2142d#block-5e781e318f08dcc95cc2142d)!
 - The U.K. government's plan to pursue "herd imunity" at the cost of hundreds of thousands of lives [has been dropped](https://www.theatlantic.com/health/archive/2020/03/coronavirus-pandemic-herd-immunity-uk-boris-johnson/608065/).
 - COVID-19's incubation period is [usually about 5 days, though can be up to 14](https://www.contagionlive.com/news/coronavirus-incubation-period-is-about-5-days-study-estimates).
 
-### People spouting bullshit news
+### People spouting bullshit
 
 - Venice's canals [may be clean](https://twitter.com/finessabae/status/1239788402196779011), but don't forget it's because thousands of people are dying.
 - Former National Party leader Barnaby Joyce said [snakes are more of a threat than coronavirus](https://junkee.com/barnaby-joyce-snakes-coronavirus/245919).
@@ -22,7 +21,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/484zy5/010-posting_through_it_01.mp3"
 - AFL team president and TV star Eddie McGuire has [called for dangerous herd immunity tactics](https://www.pedestrian.tv/sport/eddie-mcguire-coronavirus-misinformation-fox-footy/) similar to the UK's abandoned plan.
 - Howard-era ghoul Bronwyn Bishop [thinks that Coronavirus is a Chinese bioweapon](https://twitter.com/KetanJ0/status/1240223852044652549).
 
-### People doing good things news
+### People doing good things
 
 - British ex-footballer Gary Neville is [making his hotels available for free to health workers](https://news.sky.com/story/coronavirus-gary-neville-and-ryan-giggs-open-hotels-to-nhs-staff-free-of-charge-11960012). 
 - Shane Warne is [switching his gin distillery (!?) into making pure alcohol for hand sanitiser](https://www.abc.net.au/news/2020-03-21/how-big-corporations-shane-warne-aiding-coronavirus-fight/12077742).
