@@ -1,6 +1,6 @@
 ---
 number: 11
-title: Shane Warne had a gin company?
+title: This episode is up so I guess podcasts are an essential service
 date: "2020-03-23"
 description: "It's the biggest news week of our lifetime, and we podcast through it. We discuss the government's (mis)handling of the corona situation, then get hopeful about what might come out the other side of this mess."
 fileLink: "https://mcdn.podbean.com/mf/web/uunv5a/011-lockdown.mp3"
