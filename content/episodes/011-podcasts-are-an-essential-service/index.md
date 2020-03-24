@@ -3,7 +3,7 @@ number: 11
 title: This episode is up so I guess podcasts are an essential service
 date: "2020-03-23"
 description: "It's the biggest news week of our lifetime, and we podcast through it. We discuss the government's (mis)handling of the corona situation, then get hopeful about what might come out the other side of this mess."
-fileLink: "https://mcdn.podbean.com/mf/web/uunv5a/011-lockdown.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/2xgs7h/episode11_02.mp3"
 ---
 
 ### Pandemicageddon
@@ -23,15 +23,15 @@ fileLink: "https://mcdn.podbean.com/mf/web/uunv5a/011-lockdown.mp3"
 
 ### People doing good things
 
-- British ex-footballer Gary Neville is [making his hotels available for free to health workers](https://news.sky.com/story/coronavirus-gary-neville-and-ryan-giggs-open-hotels-to-nhs-staff-free-of-charge-11960012). 
+- British ex-footballer Gary Neville is [making his hotels available for free to health workers](https://news.sky.com/story/coronavirus-gary-neville-and-ryan-giggs-open-hotels-to-nhs-staff-free-of-charge-11960012).
 - Shane Warne is [switching his gin distillery (!?) into making pure alcohol for hand sanitiser](https://www.abc.net.au/news/2020-03-21/how-big-corporations-shane-warne-aiding-coronavirus-fight/12077742).
 
 ### Big money, big problems
 
-- Crown Casino [holds a lot of politcal sway in Victoria](https://theconversation.com/the-crown-allegations-show-the-repeated-failures-of-our-gambling-regulators-121173), which explains the government's unwillingness to close it until Sunday evening. 
+- Crown Casino [holds a lot of politcal sway in Victoria](https://theconversation.com/the-crown-allegations-show-the-repeated-failures-of-our-gambling-regulators-121173), which explains the government's unwillingness to close it until Sunday evening.
 - Van Badham defended the regressive tax that are pokie machines as a ["working-class habit"](https://www.theguardian.com/commentisfree/2013/jun/05/gambling-australia-waterhouse-tv).
-- The if the government is [throwing billions of dollars taxpayer to private industry](https://www.theguardian.com/australia-news/2020/mar/18/australian-airline-industry-to-receive-715m-rescue-package), we should get something out of that. 
-- Cartoon villan and vape merchant Simon Breheny says that [price gouging is good, actually](https://twitter.com/Simon_Breheny/status/1240759066688770048). 
+- The if the government is [throwing billions of dollars taxpayer to private industry](https://www.theguardian.com/australia-news/2020/mar/18/australian-airline-industry-to-receive-715m-rescue-package), we should get something out of that.
+- Cartoon villan and vape merchant Simon Breheny says that [price gouging is good, actually](https://twitter.com/Simon_Breheny/status/1240759066688770048).
 - A lot of economic modeling is based on a [spherical cow view of the world](https://en.wikipedia.org/wiki/Spherical_cow).
 
 ### Bushfires and gas
@@ -39,7 +39,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/uunv5a/011-lockdown.mp3"
 - The smoke from Australian bushfires [killed 400 people, and put 4000 people in hospital](https://www.theguardian.com/australia-news/2020/mar/21/smoke-from-australias-bushfires-killed-far-more-people-than-the-fires-did-study-says), in addition to the 33 people who died in the fires.
 - Victoria has banned fracking, but [lifted the ban of onshore gas exploration and drilling](https://reneweconomy.com.au/victoria-lifts-moratorium-on-onshore-gas-but-permanently-bans-fracking-91726/). [Gas is bad](https://notgoodpod.com/004-methane-clown-posse/), folks.
 - Victoria's Agriculture Minister [Jaclyn Symes has declared that gas drilling "will not harm our environment”](https://twitter.com/SimoLove/status/1239673102109257729).
-- Drag superstar RuPaul is [heavily invested in fracking](https://www.theguardian.com/tv-and-radio/2020/mar/21/rupaul-fracking-wyoming-ranch-land-oil). 
+- Drag superstar RuPaul is [heavily invested in fracking](https://www.theguardian.com/tv-and-radio/2020/mar/21/rupaul-fracking-wyoming-ranch-land-oil).
 
 ### Action items
 
