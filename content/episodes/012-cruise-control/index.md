@@ -1,8 +1,8 @@
 ---
 number: 12
-title: Podcasters are not okay
+title: Cruise control
 date: "2020-03-31"
-description: "It's the biggest news week of our lifetime, and we podcast through it. We discuss the government's (mis)handling of the corona situation, then get hopeful about what might come out the other side of this mess."
+description: "Private schools and hospitals are getting massive bailouts, there's day-long lines at Centerlink. We talk coronavirus shutdowns, the government's confusing messaging and why cruise ships are spreading the plague."
 fileLink: "https://mcdn.podbean.com/mf/web/2xgs7h/episode11_02.mp3"
 ---
 
@@ -38,6 +38,6 @@ fileLink: "https://mcdn.podbean.com/mf/web/2xgs7h/episode11_02.mp3"
 - The [7AM Podcast](https://7ampodcast.com.au/) has had a great series of episodes on the coronavirus over the last week.
 - Check out [Nina Oyama's instagram](https://www.instagram.com/nina.oyama). It's funny and informative!
 
-### Demand rent action
+### Demand action on rent
 
-- [Contact your federal and state representatives and demand action to freeze rent and mortgage payments](). Use our email template as a good place to start.
+- [Contact your federal and state representatives and demand action to freeze rent and mortgage payments](/covid-rent-action). Our email template as a good place to start.
