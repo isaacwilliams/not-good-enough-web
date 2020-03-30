@@ -3,7 +3,7 @@ number: 12
 title: Cruise control
 date: "2020-03-31"
 description: "Private schools and hospitals are getting massive bailouts and there's day-long lines at Centerlink. We talk coronavirus shutdowns, the government's confusing messaging and why cruise ships are spreading the plague."
-fileLink: "https://mcdn.podbean.com/mf/web/2xgs7h/episode11_02.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/rrf4w2/012-plague-ships-02.mp3"
 ---
 
 ### News
