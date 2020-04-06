@@ -2,14 +2,14 @@
 number: 13
 title: Money police
 date: "2020-04-07"
-description: "Private schools and hospitals are getting massive bailouts and there's day-long lines at Centerlink. We talk coronavirus shutdowns, the government's confusing messaging and why cruise ships are spreading the plague."
-fileLink: "https://mcdn.podbean.com/mf/web/rrf4w2/012-plague-ships-02.mp3"
+description: "We remind you all that the climate still exists, then discuss the government's 'Jobkeeper' stimulus plans, cruise ship crimes and landlord crimes."
+fileLink: "https://mcdn.podbean.com/mf/web/r83b46/013-dirt-001.mp3"
 ---
 
 ### The climate is still here
 
 - The airline industry's push for using 2019-20 as a baseline for emissions targets [has backfired](https://www.theguardian.com/world/ng-interactive/2020/apr/03/how-is-the-coronavirus-affecting-global-air-traffic).
-- NSW has opened up coal mining [underneath one of Sydney's major drinking water reservoirs](https://www.smh.com.au/environment/sustainability/strict-rules-for-new-coal-mining-under-sydney-reservoir-20200329-p54eyd.html?utm_medium=Social&utm_source=Twitter#Echobox=1585462668). 
+- NSW has opened up coal mining [underneath one of Sydney's major drinking water reservoirs](https://www.smh.com.au/environment/sustainability/strict-rules-for-new-coal-mining-under-sydney-reservoir-20200329-p54eyd.html).
 - Despite catastrophic bushfires and a coronavirus crisis the [Victorian government has renewed](https://www.theguardian.com/australia-news/2020/apr/03/decision-to-renew-victorian-logging-agreements-criticised-after-summer-bushfires) native forest logging agreements.
 - Nearly [one-in-five of Australia's big polluters are breaching](https://www.theguardian.com/australia-news/2020/apr/01/nearly-one-in-five-of-australias-big-polluters-breach-government-set-emissions-limits) Australia's already sub-standard emissions reductions laws.
 - In the US, the [Environmental Protection Agency has totally stopped enforcement of environmental regulations](https://www.motherjones.com/coronavirus-updates/2020/03/environmental-protection-agency-enforcement-coronavirus/) because of Coranavirus.
@@ -55,5 +55,3 @@ fileLink: "https://mcdn.podbean.com/mf/web/rrf4w2/012-plague-ships-02.mp3"
 - Support the [Australian Unemployed Workers Union](https://unemployedworkersunion.com/).
 - [Send us the funny dirt](mailto:notgoodpod@protonmail.com)! Not serious actual dirt thanks.
 - Write to your MP to [demand rent and mortgage freezes](https://notgoodpod.com/covid-rent-action/).
-
-
