@@ -19,36 +19,15 @@ const PodcastIndex = ({ data, location }) => {
     const siteTitle = data.site.siteMetadata.title;
     const posts = data.allMarkdownRemark.edges;
 
-    const mainPost = posts[0].node;
-    const otherPosts = posts.slice(1);
-
     return (
         <Layout location={location} title={siteTitle}>
-            <MetaTags title="Not Good Enough" />
-
-            <article>
-
-            </article>
-
-            <article>
-                <PodcastEpisodeSummary
-                    isMainListing
-                    slug={mainPost.fields.slug}
-                    title={mainPost.frontmatter.title}
-                    date={mainPost.frontmatter.date}
-                    number={mainPost.frontmatter.number}
-                    summary={mainPost.frontmatter.description}
-                    fileLink={mainPost.frontmatter.fileLink}
-                />
-
-                <BodyText dangerouslySetInnerHTML={{ __html: mainPost.html }} />
-            </article>
+            <MetaTags title="Not Good Enough — All episodes" />
 
             <Title>
-                Previous episodes
+                All episodes
             </Title>
 
-            {otherPosts.map(({ node }) => {
+            {posts.map(({ node }) => {
                 const slug = node.fields.slug;
                 const title = node.frontmatter.title || node.fields.slug;
                 const date = node.frontmatter.date;
@@ -68,9 +47,6 @@ const PodcastIndex = ({ data, location }) => {
                 );
             })}
 
-            <Link to="/archive">
-                Full episode archives
-            </Link>
         </Layout>
     );
 };
@@ -84,7 +60,7 @@ export const pageQuery = graphql`
                 title
             }
         }
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }, limit: 5) {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
             edges {
                 node {
                     excerpt
