@@ -41,7 +41,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/484zy5/010-posting_through_it_01.mp3"
 ### Actions
 
 - Look after your friends and family. Make sure the people around you are coping with this new, weird time.
-- Check out the [show notes](/010-posting-through-it). They're great!
+- Check out the [show notes](https://notgoodpod.com/010-the-gang-self-isolates/). They're great!
 - Join your union, advocate for them to push for the change you want.
 - Join your tenants union ([VIC](https://www.tenantsvic.org.au/), [NSW](https://www.tenants.org.au/tu), [WA](https://www.tenancywa.org.au/), [QLD](https://tenantsqld.org.au/)). They're great for advice on what your rights are as a renter.
 - Read [Progress and Poverty by Henry George](https://en.wikipedia.org/wiki/Progress_and_Poverty).
