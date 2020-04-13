@@ -2,7 +2,7 @@
 number: 14
 title: Corollavirus
 date: "2020-04-14"
-description: "We officially announce our endorsement for the US presidential election and discuss Pell walking free. Then we get all dreamy talking about what cities could like like without car commuting."
+description: "We officially announce our endorsement for the US presidential election and discuss Pell walking free. Then we get all dreamy talking about what cities could look like without car commuting."
 fileLink: "https://mcdn.podbean.com/mf/web/s5nead/014-cars-002.mp3"
 ---
 
