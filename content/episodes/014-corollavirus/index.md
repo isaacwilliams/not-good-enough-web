@@ -12,6 +12,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/s5nead/014-cars-002.mp3"
 - Cardinal George Pell has had his conviction reversed by the Australian supreme court. He's currently on a [road trip to Sydney](https://www.smh.com.au/national/at-a-servo-on-the-road-to-sydney-pell-says-he-s-very-pleased-to-be-free-20200408-p54i97.html), after being ["cheered by inmates"](https://www.abc.net.au/news/2020-04-09/george-pell-fellow-inmates-cheered-when-acquittal-announced/12136116).
 - Spain is moving to a Universal Basic Income — and [planning to keep it once the pandemic is over](https://www.businessinsider.com.au/spain-universal-basic-income-coronavirus-yang-ubi-permanent-first-europe-2020-4).
 - QLD Greens MP Michael Berkman has [called for state ownership of hospitals](https://www.michaelberkman.com.au/nationalise_private_hospitals_20200408), instead of the government leasing beds whenever they are needed.
+- "Nationalise It!" — Written and performed by Brendan McPherson
 
 ### Economic management
 
