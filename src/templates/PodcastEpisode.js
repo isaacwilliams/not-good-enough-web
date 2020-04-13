@@ -50,6 +50,11 @@ const Divider = styled.hr`
     margin: 2rem;
 `;
 
+const EpisodeNav = styled.nav`
+   display: flex;
+   justify-content: space-between;
+`;
+
 
 const PodcastEpisode = ({ data, pageContext, location }) => {
     const post = data.markdownRemark;
@@ -78,7 +83,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                 <BodyText dangerouslySetInnerHTML={{ __html: post.html }} />
             </article>
 
-            <nav>
+            <EpisodeNav>
                 {previous && (
                     <Link to={previous.fields.slug} rel="prev">
                         ← {previous.frontmatter.title}
@@ -90,7 +95,7 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
                         {next.frontmatter.title} →
                     </Link>
                 )}
-            </nav>
+            </EpisodeNav>
         </Layout>
     );
 };
