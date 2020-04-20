@@ -2,7 +2,7 @@
 number: 15
 title: Rentseekers united
 date: "2020-04-20"
-description: ""
+description: "The NSW and Victorian state governments have announced massive rent relief packages. Or are they just handouts to landlords? Then we chat COVID tracing apps, and what Angus Taylor has been up to recently."
 fileLink: "https://mcdn.podbean.com/mf/web/zdht6t/015-rentseeker-001.mp3"
 ---
 
