@@ -152,6 +152,7 @@ const Layout = ({ location, title, children }) => {
 
                     <ul>
                         <li>Follow <a href="https://twitter.com/notgoodpod">@notgoodpod</a></li>
+                        <li>Instagram <a href="https://www.instagram.com/notgoodpod">@notgoodpod</a></li>
                         <li><a href="mailto:notgoodpod@protonmail.com">Email us!</a></li>
                     </ul>
                 </FooterContact>
