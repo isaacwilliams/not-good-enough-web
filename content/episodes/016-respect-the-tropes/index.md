@@ -1,6 +1,6 @@
 ---
 number: 16
-title: You wouldn't download a book
+title: Respect the tropes
 date: "2020-04-28"
 description: "We acknowledge the sacrifice of our fallen heroes, and discuss former PM Malcom Turnbull's testy responses to criticism of his new book. Then chat about the knock-on effects of tumbling oil prices and how to save the Great Barrier Reef."
 fileLink: "https://mcdn.podbean.com/mf/web/vm3g3e/016-the-troops-003.mp3"
