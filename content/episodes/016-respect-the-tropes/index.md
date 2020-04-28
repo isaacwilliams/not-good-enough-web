@@ -56,3 +56,8 @@ fileLink: "https://mcdn.podbean.com/mf/web/vm3g3e/016-the-troops-003.mp3"
 
 - Listen to [Ararat's Latest](https://linktr.ee/araratslatest) — Ararat's now only remaining souce of local news.
 - Give us a review in your podcast app!
+
+### Music credits
+
+- “Nationalise It!” — Written and performed by Brendan McPherson
+- ["Rock Thing" — by Creo](https://www.youtube.com/watch?v=-W52cDdeAuI )
