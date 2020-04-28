@@ -46,7 +46,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/vm3g3e/016-the-troops-003.mp3"
 - In Italy in Mexico, [organised crime are taking over the holes in the social support systems](https://www.theguardian.com/world/2020/apr/25/why-mafia-taking-care-of-everyones-business-in-pandemic) left by governments.
 - The Guardian have published a [series mini articles by vulnerable people](https://www.theguardian.com/australia-news/2020/apr/26/i-havent-left-my-building-life-gets-harder-for-vulnerable-australians-during-coronavirus-crisis).
 
-### Nationise it
+### Nationalise it
 
 - Virgin Australia has [gone into voluntary administration](https://newsroom.virginaustralia.com/release/virgin-australia-enters-voluntary-administration).
 - Perth Airport has put [bulldozers in front of Virgin's planes](https://www.abc.net.au/news/2020-04-24/perth-airport-moves-to-sieze-virgin-australia-planes-over-debt/12183344) to try to force payment of debts.
