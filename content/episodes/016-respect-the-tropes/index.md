@@ -41,9 +41,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/vm3g3e/016-the-troops-003.mp3"
 
 - [Lawyers and accountants](https://www.thechronicle.com.au/news/surprise-group-claiming-1500-jobkeeper/3998512/) are overrepresented amongst employers applying for the Jobkeeper payments from the government.
 - The Victorian Liberal party are [applying for Jobkeeper](https://www.news.com.au/finance/economy/australian-economy/coronavirus-in-australia-liberal-and-labor-planning-to-apply-for-jobkeeper-payments-for-covid19-hardship/news-story/0a9fd415f6cbea2b059479105c6fd034).
-- Victorian Trades Hall have [started a program called Jabscammer](https://www.jobscammer.com.au), for employees to dob in bosses who are cheating the Jobkeeper program.
+- Victorian Trades Hall have [started a program called Jobscammer](https://www.jobscammer.com.au), for employees to dob in bosses who are cheating the Jobkeeper program.
 - Conservative politicians are [starting to push for the increased Jobseeker rates to be maintained](https://www.theguardian.com/australia-news/2020/apr/25/calls-from-within-coalition-to-keep-higher-jobseeker-rate-after-coronavirus-crisis) once the Coronavirus disaster is over.
-- In Italy in Mexico, [organised crime are taking over the holes in the social support systems](https://www.theguardian.com/world/2020/apr/25/why-mafia-taking-care-of-everyones-business-in-pandemic) left by governments.
+- In Italy and Mexico, [organised crime are taking over the holes in the social support systems](https://www.theguardian.com/world/2020/apr/25/why-mafia-taking-care-of-everyones-business-in-pandemic) left by governments.
 - The Guardian have published a [series mini articles by vulnerable people](https://www.theguardian.com/australia-news/2020/apr/26/i-havent-left-my-building-life-gets-harder-for-vulnerable-australians-during-coronavirus-crisis).
 
 ### Nationalise it
