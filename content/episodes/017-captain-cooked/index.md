@@ -2,7 +2,7 @@
 number: 17
 title: Captain Cooked
 date: "2020-05-05"
-description: "We acknowledge the sacrifice of our fallen heroes, and discuss former PM Malcom Turnbull's testy responses to criticism of his new book. Then chat about the knock-on effects of tumbling oil prices and how to save the Great Barrier Reef."
+description: "We break down the culture war surrounding Victoria's Deputy Chief Health Officer. Then we explain why the Great Barrier Reef is important and why you shouldn't install the government's Covid Safe app."
 fileLink: "https://mcdn.podbean.com/mf/web/sn6rih/17-cooked-001.mp3"
 ---
 
