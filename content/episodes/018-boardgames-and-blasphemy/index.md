@@ -16,7 +16,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/lwii4l/18-monopoly-002.mp3"
 
 - The Not Good Pod crew are [big](https://boardgamegeek.com/boardgame/137550/story-war) [boardgame](https://jellybean.games/village-pillage/) [nerds](https://losing.games/mausritter) (Mitch is a [metalhead](https://www.facebook.com/EyeoftheEnemyBand/), Evie is cool).
 - [Ms. Monopoly is here](https://www.youtube.com/watch?v=qtug5an4L8E) to save capitalism from the boys.
-- Monopoly was originally invented by a woman, [Elizabeth Magie](https://en.wikipedia.org/wiki/Lizzie_Magie), as an teaching tool called [the Landlord's Game](https://en.wikipedia.org/wiki/Monopoly_(game)#Early_history), intended to demonstrate that capitalism is miserable.
+- Monopoly was originally invented by a woman, [Elizabeth Magie](https://en.wikipedia.org/wiki/Lizzie_Magie), as a teaching tool called [the Landlord's Game](https://en.wikipedia.org/wiki/Monopoly_(game)#Early_history), intended to demonstrate that capitalism is miserable.
 - The game was [pirated  by a man and rebranded as Monopoly](https://www.nytimes.com/2015/02/15/business/behind-monopoly-an-inventor-who-didnt-pass-go.html), who sold the rights to Parker Brothers.
 - In [Millenial Monopoly](https://www.theguardian.com/lifeandstyle/shortcuts/2018/nov/19/monopoly-for-millennials-trolling-about-my-generation), no one can afford property and buy experiences instead.
 
@@ -28,12 +28,12 @@ fileLink: "https://mcdn.podbean.com/mf/web/lwii4l/18-monopoly-002.mp3"
 
 ### The App is Not Good Enough
 
-- Thanks to open source digging, we know the app is much worse https://twitter.com/GeoffreyHuntley/status/1257600104183164929
-- Due to poor design, it's possible for the app to incorrectly tell people they have be diagnosed with Covid. https://www.9news.com.au/national/covidsafe-app-melbourne-woman-feared-coronavirus-after-confusing-message/e9146501-6bbd-4509-b89a-406b2b98ed2a
+- Thanks to open source digging, we know the [app is much worse](https://twitter.com/GeoffreyHuntley/status/1257600104183164929) than we originally though.
+- Due to poor design, it's possible for the app to [incorrectly tell people they have be diagnosed with Covid](https://www.9news.com.au/national/covidsafe-app-melbourne-woman-feared-coronavirus-after-confusing-message/e9146501-6bbd-4509-b89a-406b2b98ed2a).
 - According to a [dissection of the the app source code](https://docs.google.com/document/d/17GuApb1fG3Bn0_DVgDQgrtnd_QO3foBl7NVb8vaWeKc/preview), it shows that the app violates open source software licences. Whether it allows you to [violate the Geneva Convention](https://twitter.com/ViolateGeneva), we do not know.
 - The government [spent $416k over ten days developing the prototype](https://www.zdnet.com/article/home-affairs-says-us-cloud-act-will-not-be-able-to-penetrate-hunt-covidsafe-directive/).
 - Footballer's wife Bec Judd [is berating people](https://twitter.com/Lizzie_OShea/status/1257185135478226945) for not downloading the app.
-- The Government is marketing the app https://twitter.com/healthgovau/status/1258668467970101249
+- The Government is marketing the app [as if it keeps individual users safe](https://twitter.com/healthgovau/status/1258668467970101249), not as a tool for society-level modeling.
 - Retailer Harvey Norman are [trying to sell phones](https://twitter.com/kimplodes/status/1258972754511945729) off the back of the CovidSafe app. Gerry Harvey has previously called the [Coronavirus pandemic an "opportunity"](https://thenewdaily.com.au/news/coronavirus/2020/03/23/gerry-harvey-coronavirus/).
 
 ### Actions
