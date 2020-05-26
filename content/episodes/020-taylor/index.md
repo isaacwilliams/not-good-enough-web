@@ -35,7 +35,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/e5ypwu/20-taylor-2.mp3"
 - The water credits were valued by Colliers, a [company previously retained by EAA](https://www.theguardian.com/environment/2018/mar/02/cotton-company-reaped-52m-windfall-in-sale-of-water-rights-to-government). 
 - Tony Reid, who formerly worked with Taylor at McKinsey, [was heavily involved in the deals](https://independentaustralia.net/life/life-display/angus-taylor-and-tony-reid-joined-at-the-business-hip,12663).
 - Reid at the time was [a director of Growth Farms Australia](https://www.theguardian.com/australia-news/2019/apr/25/new-questions-raised-over-calculations-behind-80m-water-buyback), a company invested in by Gufee, the Taylor family investment fund.
-- Richard Taylor (Angus' brother), is a director at Growth Farms](https://growthfarms.com.au/people/).
+- Richard Taylor (Angus' brother), [is a director at Growth Farms](https://growthfarms.com.au/people/).
 
 ### Clover Moore news
 
