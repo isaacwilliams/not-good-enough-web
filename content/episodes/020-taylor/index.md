@@ -1,13 +1,15 @@
 ---
 number: 20
-title: Tall Taylors
-date: "2020-05-18"
-description: "We break down the Prime Minister's meaningless speech patterns, then dig into the politics of journalism and climate change."
-fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
+title: What's the go with Angus Taylor
+date: "2020-05-26"
+description: "In this very special episode we talk about the life, times and scandals of Angus Taylor, the Minister for Energy and Emissions Reduction."
+fileLink: "https://mcdn.podbean.com/mf/web/e5ypwu/20-taylor-2.mp3"
 ---
 
+### Angus Taylor, this is your life
+
 - Angus Taylor and his wife Louise are [apparently extremely litigious](https://independentaustralia.net/politics/politics-display/taylor-made-deeper-into-the-floodwater-scandal,12638).
-- Angus Taylor had a [career before politics at McKinsey](https://www.foreground.com.au/planning-policy/who-is-angus-taylor-australias-assistant-minister-for-cities/). His brother, Charlie Taylor is [a senior partner at McKinsey](https://www.afr.com/politics/federal/angus-taylor-lured-into-politics-then-left-to-languish-20141205-120jys).
+- Taylor had a [career before politics at McKinsey](https://www.foreground.com.au/planning-policy/who-is-angus-taylor-australias-assistant-minister-for-cities/). His brother, Charlie Taylor is [a senior partner at McKinsey](https://www.afr.com/politics/federal/angus-taylor-lured-into-politics-then-left-to-languish-20141205-120jys).
 - While at McKinsey, Taylor played a large role in setting [Fonterra, New Zealand's largest company](https://en.wikipedia.org/wiki/Fonterra).
 - If you've heard of McKinsey, it might have been via [the US Presidential election primaries](https://www.theatlantic.com/politics/archive/2019/12/pete-buttigieg-mckinsey/603421/). They have [ties to US intelligence](https://www.politico.com/story/2019/07/02/spies-intelligence-community-mckinsey-1390863).
 - Taylor has hated renewable energy for a long time. [In 2013 he spoke at a "Stop these things" anti-wind farm campaign](https://stopthesethings.com/2013/07/01/rally-angus-taylor/).
@@ -16,7 +18,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
 
 ### 2013 was a big year
 
-- In 2013, Angus Taylor was by far far the biggest donor to the LNP, [giving $155,000 to the party](https://www.goulburnpost.com.au/story/2068171/the-biggest-donor-angus-taylor-gives-a-chunk-of-change-to-his-party/).
+- In 2013, Angus Taylor was by far far the biggest donor to the LNP, [giving $155,000 to the party](https://www.goulburnpost.com.au/story/2068171/the-biggest-donor-angus-taylor-gives-a-chunk-of-change-to-his-party/). He was also elected to the seat of Hume.
 - As a backbencher, he was strongly [anti-renewable energy](https://www.crikey.com.au/2019/07/29/well-done-angus/).
 
 ### Jamming up the grasslands 
@@ -32,7 +34,8 @@ fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
 - EAA then used [debt loading](https://www.investopedia.com/terms/d/debt-loading.asp) and Cayman islands-trickery to [avoid paying any tax on the deal](https://www.michaelwest.com.au/barnaby-joyce-angus-taylor-australia-and-the-caribbean/).
 - The water credits were valued by Colliers, a [company previously retained by EAA](https://www.theguardian.com/environment/2018/mar/02/cotton-company-reaped-52m-windfall-in-sale-of-water-rights-to-government). 
 - Tony Reid, who formerly worked with Taylor at McKinsey, [was heavily involved in the deals](https://independentaustralia.net/life/life-display/angus-taylor-and-tony-reid-joined-at-the-business-hip,12663).
-- Reid at the time also [worked for Growth Farms Australia](https://www.theguardian.com/australia-news/2019/apr/25/new-questions-raised-over-calculations-behind-80m-water-buyback), a company invested in by Gufee, the Taylor family investment fund.
+- Reid at the time was [a director of Growth Farms Australia](https://www.theguardian.com/australia-news/2019/apr/25/new-questions-raised-over-calculations-behind-80m-water-buyback), a company invested in by Gufee, the Taylor family investment fund.
+- Richard Taylor (Angus' brother), is a director at Growth Farms](https://growthfarms.com.au/people/).
 
 ### Clover Moore news
 
