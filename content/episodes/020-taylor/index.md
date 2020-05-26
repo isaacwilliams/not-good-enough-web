@@ -39,7 +39,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/e5ypwu/20-taylor-2.mp3"
 
 ### Clover Moore news
 
-- Angus Taylor's office a document apparently showing that Clover Moore, the Lord Mayor of Sydney [spent $14.2m on travel](https://www.theguardian.com/australia-news/2019/oct/23/doctored-documents-angus-taylor-news-corp-climate-clover-moore).
+- Angus Taylor's office released a document apparently showing that Clover Moore, the Lord Mayor of Sydney [spent $14.2m on travel](https://www.theguardian.com/australia-news/2019/oct/23/doctored-documents-angus-taylor-news-corp-climate-clover-moore).
 - The document with those figures [never existed on the Sydney City council website](https://www.theguardian.com/australia-news/2019/oct/25/angus-taylor-apologises-clover-moore-document-used-to-attack-her). (the council actually spent $228,000).
 - The [investigation into the doctored documents was dropped](https://independentaustralia.net/politics/politics-display/wrens-week-angus-taylor-sets-the-benchmark-for-political-scandal,13363) by the NSW Police ([Scott Morrison called the NSW police commissioner, an old mate](https://www.2gb.com/nsw-police-commissioner-reveals-his-special-connection-to-scott-morrison/)).
 - The Australian Federal Police investigation was dropped too, [after they "formed no concluded view"](https://www.theguardian.com/australia-news/2020/may/13/afp-formed-no-concluded-view-about-who-altered-documents-angus-taylor-used-to-attack-clover-moore). 
