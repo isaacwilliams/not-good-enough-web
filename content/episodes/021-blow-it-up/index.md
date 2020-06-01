@@ -2,7 +2,7 @@
 number: 21
 title: Blow it up
 date: "2020-06-01"
-description: "We discuss National Sorry day, Aboriginal people dying an custody and Rio Tinto destroying up an ancient and irreplaceable historic site. Then we dance on Robodebt's grave and chat about the long-lasting effects of Australia's bushfires."
+description: "We discuss National Sorry day, Aboriginal people dying an custody and Rio Tinto destroying an ancient and irreplaceable historic site. Then we dance on Robodebt's grave and chat about the long-lasting effects of Australia's bushfires."
 fileLink: "https://mcdn.podbean.com/mf/web/6k4o69/21-blow-it-up-01.mp3"
 ---
 
