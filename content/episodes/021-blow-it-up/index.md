@@ -1,9 +1,9 @@
 ---
 number: 21
 title: Blow it up
-date: "2020-06-02"
-description: "We break down the Prime Minister's meaningless speech patterns, then dig into the politics of journalism and climate change."
-fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
+date: "2020-06-01"
+description: "We discuss National Sorry day, Aboriginal people dying an custody and Rio Tinto destroying up an ancient and irreplaceable historic site. Then we dance on Robodebt's grave and chat about the long-lasting effects of Australia's bushfires."
+fileLink: "https://mcdn.podbean.com/mf/web/6k4o69/21-blow-it-up-01.mp3"
 ---
 
 ### Sorry Day
@@ -17,7 +17,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
 
 ### Robodebt, dead
 
-- [The government has scrapped Robodebt](https://www.abc.net.au/news/2020-05-29/federal-government-refund-robodebt-scheme-repay-debts/12299410), the illegal policy of hounding people for debts they don't owe. 
+- [The government has scrapped Robodebt](https://www.abc.net.au/news/2020-05-29/federal-government-refund-robodebt-scheme-repay-debts/12299410), the illegal policy of hounding people for debts they don't owe.
 - The robodebt program has been repeatedly [shown to be ineffectual and inefficient](https://www.theguardian.com/australia-news/2020/may/30/coalition-told-robodebt-no-longer-viable-and-should-be-abolished-leaked-advice-reveals).
 - The government [knew the scheme was illegal](https://thenewdaily.com.au/finance/welfare/2020/02/06/emails-robo-debt-illegal/).
 - [2000 deaths can be directly linked](https://www.abc.net.au/triplej/programs/hack/2030-people-have-died-after-receiving-centrelink-robodebt-notice/10821272) to the enforcement of Robodebt.
@@ -29,7 +29,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
 
 ### Big Budget Black Hole
 
-- The [government overestimated the amount they would spend](https://www.thesaturdaypaper.com.au/news/politics/2020/05/30/economic-fallout-the-60b-jobkeeper-error/15907608009903) on the JobKeeper payments by $60 billion (because a lot less people are elegible than originally projected). 
+- The [government overestimated the amount they would spend](https://www.thesaturdaypaper.com.au/news/politics/2020/05/30/economic-fallout-the-60b-jobkeeper-error/15907608009903) on the JobKeeper payments by $60 billion (because a lot less people are elegible than originally projected).
 - A week before the news broke, [deputy PM Michael Sukkar suggested that if the scheme covered less people than planned](https://ministers.treasury.gov.au/ministers/michael-sukkar-2019/transcripts/interview-rafael-epstein-abc-774-drive), it should be reviewed.
 - The NSW government has [enacted a 12 month pay freeze](https://www.smh.com.au/politics/nsw/nsw-premier-freezes-public-sector-pay-for-12-months-20200527-p54wtj.html) on doctors, nurses and teachers.
 - ... after [giving the chief of police a $90k pay rise](https://www.theguardian.com/australia-news/2020/may/13/gladys-berejiklian-under-fire-for-defence-of-police-commissioners-649500-pay).
@@ -53,6 +53,3 @@ fileLink: "https://mcdn.podbean.com/mf/web/nhfxlv/19-morrison_rhetoric.mp3"
 - Don't just say Sorry. [Pay the rent](https://paytherent.net.au/).
 - Learn about deaths of [indigenous Australians in custody](https://www.theguardian.com/australia-news/2020/jun/01/deaths-in-our-backyard-432-indigenous-australians-have-died-in-custody-since-2008). It's easy to ignore, but dont.
 - Please [give us a review on Apple Podcasts](https://podcasts.apple.com/au/podcast/not-good-enough/id1495016430). It helps others find us.
-
-
-
