@@ -1,14 +1,19 @@
 ---
 number: 22
-title: Bootlickers
+title: Black Lives Matter
 date: "2020-06-08"
 description: "We talk about Australia's Black Lives Matter protests against indigenous deaths in custody, and the responses of Australia's media and police."
 fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 ---
 
-### Cooked cops
+### Black lives matter
 
 - Tens of thousands of Australians came out in [solidarity with Black Lives Matter and to protest Indigenous deaths in custody](https://www.theguardian.com/australia-news/2020/jun/06/australian-black-lives-matter-protests-tens-of-thousands-demand-end-to-indigenous-deaths-in-custody)
+- There [have been 432 indigenous deaths since 1990](https://www.bbc.com/news/world-australia-52900929). Not a single police officer has been convicted.
+- On the friday before people marched, [another man died in prison in WA](https://www.sbs.com.au/nitv/nitv-news/article/2020/06/06/breaking-40-year-old-aboriginal-man-dies-custody-perth-friday).
+
+### Cooked cops
+
 - Sydney police [kettled and pepper sprayed peaceful protesters trying to get home](https://www.pedestrian.tv/news/sydney-black-lives-matter-protesters-pepper-spray-central/).
 - NSW Police Minister David Elliot called protestors ["certifiably insane"](https://www.sbs.com.au/news/people-who-attend-protests-over-the-weekend-are-certifiably-insane-says-nsw-police-minister). This is a man who thinks he would be okay with police [stripsearching his own childen](https://www.theguardian.com/australia-news/2019/nov/06/nsw-police-minister-defends-strip-searching-of-children-saying-parents-would-be-happy), and [assaulted a 17 year old who clipped his Lexus](https://www.abc.net.au/news/2019-11-08/police-minister-david-elliott-accused-of-grabbing-p-platers-arm/11684966).
 - Police Commissioner [Mick Fuller](https://twitter.com/notgoodpod/status/1267579496070180864) thinks crime will increase if [young people don't fear the police](https://www.2gb.com/crime-will-increase-if-young-people-dont-fear-police-commissioner-mick-fuller/).
@@ -38,8 +43,6 @@ fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 - Natalie Wolf from news.com.au declares that [police were "forced" to spay protestors](https://www.news.com.au/national/george-floyd-protests-black-lives-matter-support-across-australia/news-story/a2f019a8874fc9f47d5143e8aadea2b2).
 - Jounalist use this passive voice to erase accountability from the police. Retired editor Paul Wiggins[ called out ABC Insiders host David Speers](https://twitter.com/paulwiggins/status/1269406065013092352) for his use of this language.
 - Guggenheim museum released a Black Lives Matter statement while their [first black curator called them out for institutional racism](https://www.essence.com/entertainment/chaedria-labouvier-guggenheim/).
-- There [have been 432 indigenous deaths since 1990](https://www.bbc.com/news/world-australia-52900929). Not a single police officer has been convicted.
-- On the friday before people marched, [another man died in prison in WA](https://www.sbs.com.au/nitv/nitv-news/article/2020/06/06/breaking-40-year-old-aboriginal-man-dies-custody-perth-friday).
 
 ### Actions
 
