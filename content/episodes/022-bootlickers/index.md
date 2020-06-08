@@ -1,8 +1,8 @@
 ---
 number: 22
 title: Bootlickers
-date: "2020-06-07"
-description: "We talk about Australia's protests against indigenous deaths in custody, and the responses of Australia's media and police."
+date: "2020-06-08"
+description: "We talk about Australia's Black Lives Matter protests against indigenous deaths in custody, and the responses of Australia's media and police."
 fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 ---
 
