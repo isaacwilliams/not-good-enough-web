@@ -2,11 +2,11 @@
 number: 22
 title: Bootlickers
 date: "2020-06-07"
-description: "We discuss National Sorry day, Aboriginal people dying in custody and Rio Tinto destroying an ancient and irreplaceable historic site. Then we dance on Robodebt's grave and chat about the long-lasting effects of Australia's bushfires."
-fileLink: "https://mcdn.podbean.com/mf/web/6k4o69/21-blow-it-up-01.mp3"
+description: "We talk about Australia's protests against indigenous deaths in custody, and the responses of the NSW police."
+fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 ---
 
-### Black Lives Matter, just not to cops
+### NSW's Cooked Cops
 
 - Tens of thousands of Australians came out in [solidarity with Black Lives Matter and to protest Indigenous deaths in custody](https://www.theguardian.com/australia-news/2020/jun/06/australian-black-lives-matter-protests-tens-of-thousands-demand-end-to-indigenous-deaths-in-custody)
 - Sydney police [kettled and pepper sprayed peaceful protesters trying to get home](https://www.pedestrian.tv/news/sydney-black-lives-matter-protesters-pepper-spray-central/).
@@ -42,7 +42,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/6k4o69/21-blow-it-up-01.mp3"
 
 ### Actions
 
-- Donate to 
+- WAR have [asked for donations towards families seeking justice for loved ones that have died in custody](https://www.facebook.com/WARcollective/posts/2973378369424369?__tn__=-R).
 - [Pay the rent](https://paytherent.net.au/).
 - Donate to [Sisters Inside](https://sistersinside.com.au/) and Aboriginal Legal Services ([VIC](https://vals.org.au/) / [NSW](https://www.alsnswact.org.au/) / [WA](https://www.als.org.au/) / [SA](https://www.alrm.org.au/) / [NT](http://www.naaja.org.au/)).
 
