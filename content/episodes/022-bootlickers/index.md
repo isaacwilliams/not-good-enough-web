@@ -2,11 +2,11 @@
 number: 22
 title: Bootlickers
 date: "2020-06-07"
-description: "We talk about Australia's protests against indigenous deaths in custody, and the responses of the NSW police."
+description: "We talk about Australia's protests against indigenous deaths in custody, and the responses of Australia's media and police."
 fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 ---
 
-### NSW's Cooked Cops
+### Cooked cops
 
 - Tens of thousands of Australians came out in [solidarity with Black Lives Matter and to protest Indigenous deaths in custody](https://www.theguardian.com/australia-news/2020/jun/06/australian-black-lives-matter-protests-tens-of-thousands-demand-end-to-indigenous-deaths-in-custody)
 - Sydney police [kettled and pepper sprayed peaceful protesters trying to get home](https://www.pedestrian.tv/news/sydney-black-lives-matter-protesters-pepper-spray-central/).
@@ -39,6 +39,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 - Jounalist use this passive voice to erase accountability from the police. Retired editor Paul Wiggins[ called out ABC Insiders host David Speers](https://twitter.com/paulwiggins/status/1269406065013092352) for his use of this language.
 - Guggenheim museum released a Black Lives Matter statement while their [first black curator called them out for institutional racism](https://www.essence.com/entertainment/chaedria-labouvier-guggenheim/).
 - There [have been 432 indigenous deaths since 1990](https://www.bbc.com/news/world-australia-52900929). Not a single police officer has been convicted.
+- On the friday before people marched, [another man died in prison in WA](https://www.sbs.com.au/nitv/nitv-news/article/2020/06/06/breaking-40-year-old-aboriginal-man-dies-custody-perth-friday).
 
 ### Actions
 
