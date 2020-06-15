@@ -27,7 +27,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/9hi0gw/23-phalanx-001.mp3"
 - Scott Morrison reckons [Australia doesn't have a history of slavery](https://www.youtube.com/watch?v=9FaV1Dr3nTM).
 - "Blackbirding" was [happening in Australia up until 1970](https://www.abc.net.au/news/2017-09-17/blackbirding-australias-history-of-kidnapping-pacific-islanders/8860754).
 - Townsville in Queensland is named after [slave trader Robert Towns](https://en.wikipedia.org/wiki/Robert_Towns).  
-- Emelda Davis, [President of Australian South Sea Islanders Port Jackson](http://www.assipj.com.au/meet-the-team/), had an [enslaved grandfather](https://www.themonthly.com.au/issue/2019/july/1561989600/alex-mckinnon/blackbirds-australia-s-hidden-slave-trade-history#mtr), https://www.themonthly.com.au/issue/2019/july/1561989600/alex-mckinnon/blackbirds-australia-s-hidden-slave-trade-history
+- Emelda Davis, [President of Australian South Sea Islanders Port Jackson](http://www.assipj.com.au/meet-the-team/), had an [enslaved grandfather](https://www.themonthly.com.au/issue/2019/july/1561989600/alex-mckinnon/blackbirds-australia-s-hidden-slave-trade-history#mtr).
 - Migrant workers are still [being treated very poorly](https://www.abc.net.au/radionational/programs/backgroundbriefing/bitter-harvest/3050520) by fruit farms.
 - Last year, the Queensland government [paid $190 million in compensation](https://theconversation.com/the-new-mabo-190-million-stolen-wages-settlement-is-unprecedented-but-still-limited-120162) for wages withheld from Indigenous workers.
 
