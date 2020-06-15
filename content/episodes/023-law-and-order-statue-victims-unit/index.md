@@ -1,19 +1,19 @@
 ---
 number: 23
-title: Black Lives Matter
-date: "2020-06-08"
-description: "We talk about Australia's Black Lives Matter protests against indigenous deaths in custody, and the responses of Australia's media and police."
-fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
+title: "Law & Order: Statue Victims Unit"
+date: "2020-06-15"
+description: "Police are out in force to protect metal in the shape of Captain Cook, the PM apparently hasn't learned anything since primary school and money keeps not reaching the people who really need it."
+fileLink: "https://mcdn.podbean.com/mf/web/9hi0gw/23-phalanx-001.mp3"
 ---
 
-### Still on fire news
+### Metaphorical fire news
 
 - Australia is still trying to be as [On Fire as possible](https://www.theguardian.com/australia-news/2020/jun/05/government-refuses-to-release-conflict-of-interest-disclosures-from-covid-commission-members).
 - Australia's Covid recovery commission is [heavily stacked with fossil fuel goons](https://fossilfuel.watch/whos-involved/).
 - The commission has been pushing strongly for Australia's post-Covid economy to [invest in gas, excluding other green industries](https://www.theguardian.com/australia-news/2020/jun/13/gas-completely-dominated-discussion-about-covid-19-recovery-commission-adviser-says).
 
 
-### Protests
+### Sinking statues
 
 - Thousands of Australians came out in [exercise gear to protest Aboriginal deaths in custody](https://www.theguardian.com/world/2020/jun/13/australia-protests-thousands-take-part-in-black-lives-matter-and-pro-refugee-events-amid-health-warnings).
 - Two women were [arrested after spraypainting a statue of Captain Cook in Sydney](https://www.theguardian.com/australia-news/2020/jun/14/two-women-arrested-after-captain-cook-statue-defaced-in-sydneys-hyde-park), resulting in police being ["Forced" to stand guard](https://www.youtube.com/watch?v=w9ju97Fl_Sc).
@@ -31,7 +31,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 - Migrant workers are still [being treated very poorly](https://www.abc.net.au/radionational/programs/backgroundbriefing/bitter-harvest/3050520) by fruit farms.
 - Last year, the Queensland government [paid $190 million in compensation](https://theconversation.com/the-new-mabo-190-million-stolen-wages-settlement-is-unprecedented-but-still-limited-120162) for wages withheld from Indigenous workers.
 
-### Wealth transfer 
+### Handouts for retirees 
 
 - The wealth transfer from the poor to the rich [continues apace with the HomeBuilder program](https://www.news.com.au/national/politics/homebuyers-grant-who-is-eligible-for-25k-homebuilder-scheme/news-story/7e2060fb086fd5e18ca830a576a08c7f). 
 - The government's $9.3m plan for sending food boxes to retirees in [need sent out a total of... 39 boxes](https://www.theguardian.com/australia-news/2020/jun/05/government-scheme-delivers-just-38-of-predicted-36000-covid-food-boxes-to-older-australians).
@@ -49,5 +49,5 @@ fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
 
 - Watch FriendlyJordies [video on the evil of Rio Tinto](https://www.youtube.com/watch?v=kmRs2bUvnkk).
 - Read [Asher Moses Griftwatch column](https://voiceofaction.org/grift-watch-heres-why-the-government-is-blocking-a-corruption-watchdog/).
-- 
+- Please rate and review us on [Apple Podcasts](https://podcasts.apple.com/au/podcast/not-good-enough/id1495016430).
 
