@@ -8,7 +8,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/4mv8z5/24-cyber.mp3"
 
 ## Feel good news?
 
-- Victora [has criminalised wage theft](https://www.theage.com.au/politics/victoria/australia-s-first-wage-theft-laws-set-to-pass-in-victoria-20200614-p552fn.html)! Time to [send George Comambaris to perma-jail](https://notgoodpod.com/006-eat-the-rich/).
+- Victora [has criminalised wage theft](https://www.theage.com.au/politics/victoria/australia-s-first-wage-theft-laws-set-to-pass-in-victoria-20200614-p552fn.html)! Time to [send George Calombaris to perma-jail](https://notgoodpod.com/006-eat-the-rich/).
 - Aboriginal activist [Lidia Thorpe has been elected](https://www.sbs.com.au/news/aboriginal-activist-lidia-thorpe-says-first-nations-treaty-a-priority-in-her-role-as-greens-senator) by the Greens to Federal Senate. News Corp immediately tried to [concoct](https://www.facebook.com/lidiathorpe/posts/3373168132694031) a [smear campaign](https://www.news.com.au/national/politics/the-greens-have-announced-indigenous-activist-lidia-thorpe-as-richard-di-natales-replacement/news-story/83451a0983103fa8bb44ec4910fc5437).
 - Crikey has a [detailed run down of News Corp's beat-up](https://www.crikey.com.au/2020/06/22/anatomy-of-a-beat-up-news-corp-lidia-thorpe/).
 
