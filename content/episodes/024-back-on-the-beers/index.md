@@ -1,32 +1,33 @@
 ---
 number: 24
-title: Back on the beers
-date: "2020-06-08"
-description: "We talk about Australia's Black Lives Matter protests against indigenous deaths in custody, and the responses of Australia's media and police."
-fileLink: "https://mcdn.podbean.com/mf/web/wnwcju/22-copperinos-002.mp3"
+title: Blaming families
+date: "2020-06-22"
+description: "We chat about the News Corp beat up of Lydia Thorpe, the re-up of the lockdown in parts of Victoria and ginned up cyber attacks in the news."
+fileLink: "https://mcdn.podbean.com/mf/web/4mv8z5/24-cyber.mp3"
 ---
 
-## Feel goodery
+## Feel good news?
 
 - Victora [has criminalised wage theft](https://www.theage.com.au/politics/victoria/australia-s-first-wage-theft-laws-set-to-pass-in-victoria-20200614-p552fn.html)! Time to [send George Comambaris to perma-jail](https://notgoodpod.com/006-eat-the-rich/).
 - Aboriginal activist [Lidia Thorpe has been elected](https://www.sbs.com.au/news/aboriginal-activist-lidia-thorpe-says-first-nations-treaty-a-priority-in-her-role-as-greens-senator) by the Greens to Federal Senate. News Corp immediately tried to [concoct](https://www.facebook.com/lidiathorpe/posts/3373168132694031) a [smear campaign](https://www.news.com.au/national/politics/the-greens-have-announced-indigenous-activist-lidia-thorpe-as-richard-di-natales-replacement/news-story/83451a0983103fa8bb44ec4910fc5437).
 - Crikey has a [detailed run down of News Corp's beat-up](https://www.crikey.com.au/2020/06/22/anatomy-of-a-beat-up-news-corp-lidia-thorpe/).
 
-## Coronavirus
+## Not on the beers
 
 - Victoria has [cranked the lockdown up a bit](https://www.premier.vic.gov.au/statement-from-the-premier-45/).
 - Victorian opposition leader has tried to score political points, saying that [Dan Andrews has "reached a new low"](https://www.dailymail.co.uk/news/article-8442365/Premier-Daniel-Andrews-slammed-blaming-families-Victorias-return-COVID-19-lockdown.html) in calling out families.
 - The [Victorian Government is providing $1500](https://twitter.com/DanielAndrewsMP/status/1274522440740139008?s=20) to people who test positive or their close contacts so they can self-isolate.
 
-## Hack attack
+## Crank hack attack
 
-- Australia was the "victim" of a ["state-based" "cyber" "attack"](https://www.reuters.com/article/us-australia-cyber/australia-subject-to-state-based-cybersecurity-attack-pm-morrison-says-idUSKBN23P3T5).
-- David Speers [clarified](https://twitter.com/David_Speers/status/1273769893557465089) that this wasn't an announcement of an attack.
+- Australia was the ["victim" of a "state-based" "cyber" "attack"](https://www.reuters.com/article/us-australia-cyber/australia-subject-to-state-based-cybersecurity-attack-pm-morrison-says-idUSKBN23P3T5).
+- David Speers [clarified](https://twitter.com/David_Speers/status/1273769893557465089) that this wasn't an announcement of an attack, just some ongoing security concerns.
 - This news dropped at the same time as the Government moved to [bypass parliament and effectively ban vaping](https://www.tga.gov.au/behind-news/prohibition-importing-e-cigarettes-containing-vaporiser-nicotine).
 
 ## Contemptuous Dutton
 
-- Peter Dutton has been [threatened with contempt of court](https://docs.google.com/document/d/19nn3kvWvBwcYO7wDF0XyulFqeGLQ5f2fnnGXw3RlDAE/edit#) for refusing to release an illegally held asylum seeker (we covered [this before in April](https://notgoodpod.com/013-money-police/)).
+- Peter Dutton has been [threatened with contempt of court](https://docs.google.com/document/d/19nn3kvWvBwcYO7wDF0XyulFqeGLQ5f2fnnGXw3RlDAE/edit#) for refusing to release an illegally held asylum seeker.
+- We've covered this before all the way back [in episode 13](https://notgoodpod.com/013-money-police/).
 
 ## Taking from the Public Trust
 
