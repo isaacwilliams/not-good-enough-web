@@ -1,15 +1,16 @@
 ---
 number: 25
-title: Budget
+title: Nationalise the government
 date: "2020-06-29"
-description: "We chat about the News Corp beat up of Lydia Thorpe, the re-up of the lockdown in parts of Victoria and ginned up cyber attacks in the news."
-fileLink: "https://mcdn.podbean.com/mf/web/4mv8z5/24-cyber.mp3"
+description: "With climate disasters looming, we pick apart the Labor party's anaemic response. Then we chat about ideological cuts to the ABC and the right-wing media's take on Victorian Covid spikes."
+fileLink: "https://mcdn.podbean.com/mf/web/lnhg0x/25-nationalise-government.mp3"
 ---
 
 ### Climate backslides
 
 - Labour party leader Anthony Albonese has indicated he is [willing to give up on pushing for climate action](https://www.smh.com.au/politics/federal/labor-moves-to-end-energy-wars-with-bipartisan-national-framework-20200623-p555g1.html) from the Liberals.a
 - Chevron's carbon capture [project Gorgon... didn't work](https://www.theguardian.com/australia-news/2020/jun/04/chevron-could-be-forced-to-pay-100m-for-failure-to-capture-carbon-emissions).
+- Lang was [right about Gorgons](https://en.wikipedia.org/wiki/Gorgon) though.
 - A National Audit Office report concludes that [the Morrison government has failed it's duty to protect the environment](https://www.theguardian.com/environment/2020/jun/25/morrison-government-has-failed-in-its-duty-to-protect-environment-auditor-general-finds). 
 - 80% of federal environmental approvals [were non-compliant with regulations or contained errors](https://www.abc.net.au/news/2020-06-25/auditor-general-severe-deficiencies-environmental-protection/12393780?section=politics).
 - Australia's Reserve Bank has [warned that inaction on climate change will cause GDP to drop 25% by 2100](https://www.smh.com.au/politics/federal/global-gdp-to-fall-25-per-cent-without-more-climate-action-banks-warn-20200625-p5563t.html).
@@ -39,4 +40,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/4mv8z5/24-cyber.mp3"
 ### Actions
 
 - Join the call to [raise the age of criminal responsibility from 10 to 14](https://www.raisetheage.org.au/changetherecord).
-- Wear a dang mask.
+- Wear a dang mask when you go to the shops.
