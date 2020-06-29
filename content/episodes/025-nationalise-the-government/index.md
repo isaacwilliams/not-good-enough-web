@@ -8,7 +8,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/lnhg0x/25-nationalise-government.mp3"
 
 ### Climate backslides
 
-- Labour party leader Anthony Albonese has indicated he is [willing to give up on pushing for climate action](https://www.smh.com.au/politics/federal/labor-moves-to-end-energy-wars-with-bipartisan-national-framework-20200623-p555g1.html) from the Liberals.a
+- Labour party leader Anthony Albonese has indicated he is [willing to give up on pushing for climate action](https://www.smh.com.au/politics/federal/labor-moves-to-end-energy-wars-with-bipartisan-national-framework-20200623-p555g1.html) from the Liberals.
 - Chevron's carbon capture [project Gorgon... didn't work](https://www.theguardian.com/australia-news/2020/jun/04/chevron-could-be-forced-to-pay-100m-for-failure-to-capture-carbon-emissions).
 - Lang was [right about Gorgons](https://en.wikipedia.org/wiki/Gorgon) though.
 - A National Audit Office report concludes that [the Morrison government has failed it's duty to protect the environment](https://www.theguardian.com/environment/2020/jun/25/morrison-government-has-failed-in-its-duty-to-protect-environment-auditor-general-finds). 
