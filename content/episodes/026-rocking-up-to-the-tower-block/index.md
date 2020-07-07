@@ -1,9 +1,9 @@
 ---
 number: 26
 title: Rocking up to the Tower Block
-date: "2020-07-06"
-description: "With climate disasters looming, we pick apart the Labor party's anaemic response. Then we chat about ideological cuts to the ABC and the right-wing media's take on Victorian Covid spikes."
-fileLink: "https://mcdn.podbean.com/mf/web/lnhg0x/25-nationalise-government.mp3"
+date: "2020-07-07"
+description: "We talk about Victoria's lockdowns of public housing tower blocks, cops making drugs and the Morrison's ongoing quest to shut down Jobkeeper as soon as they can."
+fileLink: "https://mcdn.podbean.com/mf/web/s71elb/26-plague-tower.mp3"
 ---
 
 ## Lock down the block
@@ -15,9 +15,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/lnhg0x/25-nationalise-government.mp3"
 - For-profit operation of quarantine hotels [has caused the spread of Covid in Victoria](https://www.theage.com.au/national/victoria/how-hotel-quarantine-let-covid-19-out-of-the-bag-in-victoria-20200703-p558og.html).
 - Jounalist Megan Clement has a [good thread running down the unsafe practices in quarantine hotels](https://twitter.com/MegClement/status/1279300381978300418).
 
-## Missiles 
+## Buying votes with missiles 
 
-- There was an election in Eden-Monaro, which Labor won by a hair.
+- There was an election in [Eden-Monaro, which Labor won by a hair](https://www.abc.net.au/news/2020-07-05/eden-monaro-status-quo-results/12423896).
 - McKinley with the [Good Take](https://twitter.com/mckinleaf/status/1279381409845526534). 
 - Before the election, the government announced [$270B in new funding in for defense](https://www.canberratimes.com.au/story/6817141/defence-base-in-eden-monaro-to-get-big-upgrade/#gsc.tab=0), including massive upgrades for military facilites in Eden-Monaro.
 
@@ -28,3 +28,21 @@ fileLink: "https://mcdn.podbean.com/mf/web/lnhg0x/25-nationalise-government.mp3"
 - [Less-lethal weapons are still lethal](https://theintercept.com/2020/06/11/police-less-than-lethal-weapons-protests/).
 - Home Affairs Minister Peter Dutton has [avoided being found in contempt of court by denying a visa to an illegally detained refugee](https://www.theguardian.com/australia-news/2020/jul/03/peter-dutton-friday-deadline-contempt-court-charge-visa-protection).
 - The Australian Immigration Minister has [basically carte-blanche power to accept or deny requests](https://libertyvictoria.org.au/sites/default/files/LibertyVictoriaRAP_report_PlayingGodTheImmigrationMinistersUnrestrainedPower20170504_0.pdf).
+
+## Killing Jobkeeper
+
+- Scott Morrison is [determined to kill the Coronvirus Jobkeeper payments](https://www.theguardian.com/australia-news/2020/may/13/morrison-government-stares-down-push-to-end-jobkeeper-scheme-early).
+- The government's claims that [people are turning down work due to the Jobkeeper payments are simply untrue](https://www.theguardian.com/australia-news/2020/jun/30/deeply-hurtful-claims-of-australian-jobseekers-turning-down-work-are-based-on-scant-evidence).
+- With Australia's record unemployment rates, there are simply [many, many people looking for work](https://www.businessinsider.com.au/australian-unemployment-rate-job-losses-may-covid19-2020-6).
+- As [reported by Asher Wolf](https://twitter.com/Asher_Wolf/status/1278526298470547458), repayments for money stolen by the illegal Robodebt [going to be made in instalments](https://www.servicesaustralia.gov.au/individuals/news/income-compliance-refunds). 
+
+## Gas is the new coal
+
+- Fossil fuel companies are using [instagram influencers to push gas cooking and hot water](https://reneweconomy.com.au/the-australian-instagram-influencers-being-paid-to-promote-gas-18028/amp/).
+- [Yoga mums are doing gas fire yoga](https://www.youtube.com/watch?v=Sb5sy8sDmiE).
+
+## Actions
+
+- [Follow](https://twitter.com/riserefugee) and donate to [RISE Refugee](https://www.riserefugee.org)
+
+
