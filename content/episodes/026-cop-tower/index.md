@@ -1,8 +1,8 @@
 ---
 number: 26
-title: Rocking up to the Tower Block
+title: Cop Tower
 date: "2020-07-07"
-description: "We talk about Victoria's lockdowns of public housing tower blocks, cops making drugs and the Morrison's ongoing quest to shut down Jobkeeper as soon as they can."
+description: "We talk about Victoria's lockdowns of public housing tower blocks, cops making drugs and the Morrison government's ongoing quest to shut down Jobkeeper as soon as they can."
 fileLink: "https://mcdn.podbean.com/mf/web/s71elb/26-plague-tower.mp3"
 ---
 
