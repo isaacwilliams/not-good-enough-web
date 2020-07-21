@@ -29,7 +29,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/gch289/28-money-bullshit-2.mp3"
 
 - [Australian soliders did them](https://www.abc.net.au/news/2020-07-15/sas-soldiers-allegedly-plant-gun-on-dead-bodies-in-afghanistan/12452964).
 - This is the kind of reporting that the AFP [raided the ABC offices](https://www.abc.net.au/news/2019-06-24/afp-abc-afghan-files-raid-reporter-criminal-offence-evidence/11240838) and a [News Corp's journalist's home](https://www.theguardian.com/australia-news/2020/apr/15/high-court-rules-afp-warrant-for-raid-on-news-corp-journalists-home-was-invalid) last year to cover up.
-- The AFP is also making [unapproved usage the Clearview AI facial recognition app](https://mobile.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554).
+- The AFP is also making [unapproved usage of the Clearview AI facial recognition app](https://mobile.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554).
 
 ## Hot for Premier
 
@@ -39,7 +39,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/gch289/28-money-bullshit-2.mp3"
 - Melbourne law firm HWL Ebsworth was [determined to keep working from the office, and not work from home "like lemmings"](https://www.afr.com/companies/professional-services/melbourne-law-firm-labelled-key-covid-19-outbreak-20200716-p55cn8). They are now a Corana cluster.
 - The Australian is still trying to [pin the Corona outbreak on Black Lives Matter protests](https://twitter.com/oz_f/status/1283301188998270978).
 - Scott Morrison [wants to live with the virus](https://www.theaustralian.com.au/nation/politics/scott-morrison-praises-nsw-as-a-model-for-handling-coronavirus-outbreaks/news-story/4492502bfdb85b0f1faee4cee2a2fc73).
-- The TikTok influencers who pushed the CovidSAFE [were paid $600 app and thought they were being employed by the government](https://www.abc.net.au/triplej/programs/hack/tik-tok-influencers-fals-claims-covid-app/12459176).
+- The TikTok influencers who pushed the CovidSAFE app [were paid $600 and thought they were being employed by the government](https://www.abc.net.au/triplej/programs/hack/tik-tok-influencers-fals-claims-covid-app/12459176).
 
 ## Actions
 
