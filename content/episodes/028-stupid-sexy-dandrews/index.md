@@ -2,7 +2,7 @@
 number: 28
 title: Stupid sexy Dandrews
 date: "2020-07-21"
-description: "Lockdown horn has infected Australia's pundit class, Albo reckons mines are cool, and we run through the highlights recent of stupid money bullshit."
+description: "Lockdown horn has infected Australia's pundit class, Albo reckons mines are cool, and we run through the highlights of recent stupid money bullshit."
 fileLink: "https://mcdn.podbean.com/mf/web/gch289/28-money-bullshit-2.mp3"
 ---
 
