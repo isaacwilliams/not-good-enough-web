@@ -12,7 +12,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/rgwvvw/31-goodnews.mp3"
 - For a lot of people, the [lockdown has improved mental health](https://www.bennettinstitute.cam.ac.uk/blog/did-lockdowns-make-us-happier/).
 - Former Liberal MP Concetta Fierravanti-Wells has blasted Tony Abbot for [his gutting of the aged care system](https://www.smh.com.au/politics/federal/government-chose-futile-bureaucratic-exercise-over-aged-care-reform-liberal-mp-says-20200803-p55i2g.html).
 - Under Bronwyn Bishop's watch, [people in aged care were bathed in kerosene](https://www.abc.net.au/pm/stories/s108761.htm). 
-- Come Affairs Minister Peter Dutton has [refused to cooperate with investigations to into the Ruby Princess fiasco](https://thenewdaily.com.au/news/2020/08/06/dutton-ruby-princess-questions-morrison-andrew/).
+- Home Affairs Minister Peter Dutton has [refused to cooperate with investigations to into the Ruby Princess fiasco](https://thenewdaily.com.au/news/2020/08/06/dutton-ruby-princess-questions-morrison-andrew/).
 
 ## Solidarity forever
 
