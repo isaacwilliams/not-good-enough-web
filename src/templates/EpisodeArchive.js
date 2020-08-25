@@ -38,7 +38,7 @@ const PodcastIndex = ({ data, location, pageContext: { currentPage, numPages, sk
 
     return (
         <Layout location={location} title={siteTitle} largeHeader>
-            <MetaTags title={currentPage === 1 ? siteTitle : `${siteTitle} — Episodes archive ${currentPage}` } />
+            <MetaTags title={`${siteTitle} — All episodes`} />
 
             {mainArticle && (
                 <article>
