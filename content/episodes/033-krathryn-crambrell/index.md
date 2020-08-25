@@ -27,7 +27,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/nia8sc/33-bury-me-with-dan-andrews-00
 
 ### Computer nerd stuff
 
-- Despite claims it was urgently needed, neither ASIO or the AFP is [yet to use the anti-encryption laws passed in 2018](https://www.theguardian.com/australia-news/2020/aug/07/anti-encrytion-laws-yet-to-be-used-by-asio-or-afp-to-compel-tech-firms-help-inquiry-told?CMP=soc_567).
+- Despite claims they were urgently needed, neither ASIO or the AFP [have used the anti-encryption laws passed in 2018](https://www.theguardian.com/australia-news/2020/aug/07/anti-encrytion-laws-yet-to-be-used-by-asio-or-afp-to-compel-tech-firms-help-inquiry-told?CMP=soc_567).
 - Peter Dutton wants [additional powers to spy on Australian citizens though](https://www.theguardian.com/australia-news/2020/aug/06/peter-dutton-confirms-australia-could-spy-on-its-own-citizens-under-cybersecurity-plan).
 - Victoria Police are using [precog algorithms to detect possible predict youth offenders](https://twitter.com/Police_Acc_Proj/status/1295574940616257537).
 - Monash University research has shown that these systems are [used for racial profiling, to great negative effect](https://www.thesaturdaypaper.com.au/news/law-crime/2020/06/13/law-enforcement-and-racial-profiling/15919704009975).
