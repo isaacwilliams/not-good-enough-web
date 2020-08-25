@@ -7,37 +7,7 @@ import Layout from '../components/layout';
 import MetaTags from '../components/MetaTags';
 
 import PodcastEpisodeSummary from '../components/PodcastEpisodeSummary';
-
-const BodyText = styled.div`
-    margin: 2rem 0 3rem 0;
-
-    line-height: 1.4;
-
-    h1, h2, h3, h4 {
-        margin-top: 1.2rem;
-        margin-bottom: 0.6rem;
-    }
-
-    p {
-        margin-bottom: 0.3rem;
-    }
-
-    ul {
-        margin-bottom: 0.3rem;
-    }
-
-    strong {
-        font-weight: bold;
-    }
-
-    em {
-        font-style: italic;
-    }
-    
-    .gatsby-resp-image-wrapper {
-        margin: 2rem;
-    }
-`;
+import BodyText from '../components/BodyText'; 
 
 const Title = styled.h1`
     margin: 1rem 0;
@@ -51,8 +21,17 @@ const Divider = styled.hr`
 `;
 
 const EpisodeNav = styled.nav`
-   display: flex;
-   justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3rem;
+
+    .next {
+        margin-right: auto;
+    }
+
+    .prev {
+        margin-left: auto;
+    }
 `;
 
 
@@ -84,15 +63,15 @@ const PodcastEpisode = ({ data, pageContext, location }) => {
             </article>
 
             <EpisodeNav>
-                {previous && (
-                    <Link to={previous.fields.slug} rel="prev">
-                        ← {previous.frontmatter.title}
+                {next && (
+                    <Link to={next.fields.slug} rel="next" className="next">
+                        ← {next.frontmatter.title} →
                     </Link>
                 )}
 
-                {next && (
-                    <Link to={next.fields.slug} rel="next">
-                        {next.frontmatter.title} →
+                {previous && (
+                    <Link to={previous.fields.slug} rel="prev" className="prev">
+                        {previous.frontmatter.title} →
                     </Link>
                 )}
             </EpisodeNav>

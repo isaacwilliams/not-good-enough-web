@@ -23,7 +23,8 @@ const PostDate = styled.div`
 `;
 
 const ListingItem = styled.article`
-    margin-bottom: 1rem;
+    margin-top: 1rem 0;
+    margin-bottom: 2rem;
 `;
 
 const ListingDescription = styled.div`

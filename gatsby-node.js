@@ -31,8 +31,19 @@ exports.createPages = async ({ graphql, actions }) => {
         throw result.errors;
     }
 
-    // Create blog posts pages.
-    const posts = result.data.allMarkdownRemark.edges;
+    createPage({
+        path: `/`,
+        component: path.resolve("./src/templates/HomePage.js"),
+        context: {
+            limit: 10,
+            skip: 0,
+        },
+    })
+
+    createPage({
+        path: `/episodes`,
+        component: path.resolve("./src/templates/EpisodeArchive.js"),
+    })
 
     posts.forEach((post, index) => {
         const previous = index === posts.length - 1 ? null : posts[index + 1].node;

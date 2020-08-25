@@ -113,14 +113,14 @@ const RegularHeader = () => (
     </Header>
 );
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, largeHeader }) => {
     const rootPath = `${__PATH_PREFIX__}/`;
     const isRootPath = location.pathname === rootPath;
 
     return (
         <SiteContainer>
             <header>
-                {isRootPath ? (
+                {largeHeader ? (
                     <LargeHeader />
                 ) : (
                     <RegularHeader />
