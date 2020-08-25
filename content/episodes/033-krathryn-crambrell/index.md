@@ -6,7 +6,7 @@ description: "We discuss Wikipedia edits, encryption laws, corona detention and 
 fileLink: "https://mcdn.podbean.com/mf/web/nia8sc/33-bury-me-with-dan-andrews-001.mp3"
 ---
 
-### New update
+### News updates
 
 - Did Department of Social Services secretary Kathryn Campbell [edit her own Wikipedia page](https://twitter.com/AusUnemployment/status/1295298361071820800)?
 - The Australian Financial Review suggests a guaranteed income and a strong social safety net would [help Australia come out of the Covid Depression](https://www.afr.com/policy/economy/reconstruction-can-blow-post-virus-dog-days-away-20200818-p55mp8).
