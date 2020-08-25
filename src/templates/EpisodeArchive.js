@@ -11,7 +11,8 @@ import BodyText from '../components/BodyText';
 
 const Title = styled.h1`
     ${fontDisplay}
-    margin: 1rem 0;
+    padding-bottom: 3rem;
+    text-align: center;
 `;
 
 const EpisodeListNav = styled.nav`
