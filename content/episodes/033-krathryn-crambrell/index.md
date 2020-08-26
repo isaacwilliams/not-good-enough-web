@@ -15,7 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/nia8sc/33-bury-me-with-dan-andrews-00
 ### Corona detention
 
 - A Four Corners investigation has shown that doctors [warned infection dangers in Victoria's hotel quarantine, but were ignored by DHHS until the outbreak](https://www.abc.net.au/news/2020-08-17/four-corners-cononavirus-australia-victoria-hotel-quarantine/12550832).
-- The Federal government is [reopening the Cristmas Island detention center, at a cost of $55m over 6 months](https://www.sbs.com.au/news/reopening-christmas-island-detention-centre-will-cost-55-million-over-six-months-border-force-reveals).
+- The Federal government is [reopening the Christmas Island detention center, at a cost of $55m over 6 months](https://www.sbs.com.au/news/reopening-christmas-island-detention-centre-will-cost-55-million-over-six-months-border-force-reveals).
 - The Biloela asylum seeker family are still in immigration detention, [even after the government has been forced to pay $200,000 in legal fees for breaking procedural fairness](https://www.abc.net.au/news/2020-04-27/commonwealth-ordered-pay-costs-biloela-family-appeal/12189602).
 
 ### Climate news
