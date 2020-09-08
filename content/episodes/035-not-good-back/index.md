@@ -1,9 +1,9 @@
 ---
 number: 35
-title: Yelling
-date: "2020-09-06"
-description: "Mitch and Lang do some yelling about gas. We praise Rachel Siewert for yelling. We yell about big rowdy protests, which are a form of yelling."
-fileLink: "https://mcdn.podbean.com/mf/web/23bdvh/34-party-of-action-003.mp3"
+title: Activism but make it political (feat. James of No Turning Back)
+date: "2020-09-08"
+description: "We're joined by James from No Turning Back to discuss the recent RAFFWU win vs McDonalds, native advertising and Extinction Rebellion's insistance that they are non-political."
+fileLink: "https://mcdn.podbean.com/mf/web/tnm5y4/35-with-james.mp3"
 ---
 
 ## Union wins
@@ -15,6 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/23bdvh/34-party-of-action-003.mp3"
 
 - [This might be the most remote coffee van in Australia](https://www.dailytelegraph.com.au/bushsummit/this-might-be-the-most-remote-coffee-van-in-australia/news-story/d40bb342b0cd59302250887c3135ac98)
 - This is part of a new push for native advertising [in News Corp publications](https://www.newscorpaustralia.com/news-dna-launches-real-time-native/).
+- [This person does not exist](https://twitter.com/wedontexisthere)
 
 ## Not playing politics
 
