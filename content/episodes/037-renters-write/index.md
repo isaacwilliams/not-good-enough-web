@@ -14,7 +14,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/j7iiu5/37-malo-002.mp3"
 ## Jobkeeper rorts
 
 - Thousands of businesses have claimed JobKeeper payments, [but still payed bonuses to executives and shareholder executives](https://www.smh.com.au/national/thousands-accused-of-jobkeeper-rorts-but-ato-has-not-issued-penalties-20200911-p55upc.html). 
-- Private universities were able to [claim JobKeeper payments, but failed to pass on payments to workers](https://andrewnorton.net.au/2020/05/25/the-university-jobkeeper-rules-change-again-with-bond-and-torrens-universities-to-benefit/). 
+- Private universities were able to [claim JobKeeper payments, but public universities have been explicitly excluded](https://andrewnorton.net.au/2020/05/25/the-university-jobkeeper-rules-change-again-with-bond-and-torrens-universities-to-benefit/). 
 - Australian business Dick Smith was a [victim of private equity stripping for parts](https://foragerfunds.com/news/dick-smith-is-the-greatest-private-equity-heist-of-all-time/).
 - Government Minister Alan Tudge was [warned by a tribunal that the scheme was illegal 76 times](https://www.theguardian.com/australia-news/2020/sep/19/robodebt-court-documents-show-government-was-warned-76-times-debts-were-not-legally-enforceable).
 
@@ -25,9 +25,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/j7iiu5/37-malo-002.mp3"
 - [Convicted racist Blair Cottrell](https://www.theguardian.com/law/2019/dec/19/far-right-extremist-blair-cottrell-loses-appeal-against-conviction-for-inciting-contempt-of-muslims) appeared on [ABC's Hack](https://www.abc.net.au/triplej/programs/hack/hack-live-aussie-patriots/7869748).
 - [Convicted racist Andrew Bolt](https://www.abc.net.au/news/2011-09-28/bolt-found-guilty-of-breaching-discrimination-act/3025918?nw=0) still has [his own TV show](https://www.skynews.com.au/page/andrew-bolt).
 - Far-right hobgoblin Steve Bannon [featured on a Four Corners ABC special](https://www.abc.net.au/4corners/populist-revolution/10196348).
-- The Courier Mail [labeled two Black women "Enemies of the State"]https://twitter.com/ketanj0/status/1288731771178307591).
+- The Courier Mail [labeled two Black women "Enemies of the State"](https://twitter.com/ketanj0/status/1288731771178307591).
 - RAHU, the [Renters and Housing Union is fighting for renters rights](https://rahu.org.au/).
-- [How rent reductions have improved renters outlooks])https://www.domain.com.au/news/i-started-crying-what-a-rent-reduction-means-to-tenants-who-have-lost-their-income-due-to-covid-19-945109/. (Follow [Rose on twitter](https://twitter.com/operation_rosie))
+- [How rent reductions have improved renters outlooks](https://www.domain.com.au/news/i-started-crying-what-a-rent-reduction-means-to-tenants-who-have-lost-their-income-due-to-covid-19-945109/). (Follow [Rose on twitter](https://twitter.com/operation_rosie))
 
 ## Actions
 
