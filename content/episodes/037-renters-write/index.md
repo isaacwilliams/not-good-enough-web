@@ -2,7 +2,7 @@
 number: 37
 title: Renters write (feat. Jim Malo)
 date: "2020-09-22"
-description: "We're joined by journalist Jim Malo to talk race, renting and how Australia's media covers both. But before that, we talk about the desecration of sacred sites, and Jobkeeper rorts." 
+description: "We're joined by journalist Jim Malo to talk race, renting and climate change, and how Australia's media covers all three. But before that, we talk about the desecration of sacred sites, and Jobkeeper rorts." 
 fileLink: "https://mcdn.podbean.com/mf/web/j7iiu5/37-malo-002.mp3"
 ---
 
