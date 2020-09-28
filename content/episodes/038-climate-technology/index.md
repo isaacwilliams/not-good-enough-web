@@ -38,4 +38,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/zny52q/38-climate-02.mp3"
 ## Actions
 
 - Divest [your bank](https://www.marketforces.org.au/info/compare-bank-table/) and [superannuation](https://www.marketforces.org.au/superfunds/).
-- Support blockades of Adani.
+- Support [blockades of Adani](https://wanganjagalingou.com.au/donate/).
