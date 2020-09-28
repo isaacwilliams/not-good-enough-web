@@ -2,7 +2,7 @@
 number: 38
 title: What's the go with the climate technology roadmap?
 date: "2020-09-28"
-description: "We dive into a detailed run-down of the Morrison government's new Low Emissions Technology Statement, and why it actually is worse than doing nothing." 
+description: "We dive into a detailed run-down of the Morrison government's new Low Emissions Technology Statement, and why it is actually worse than doing nothing." 
 fileLink: "https://mcdn.podbean.com/mf/web/zny52q/38-climate-02.mp3"
 ---
 
