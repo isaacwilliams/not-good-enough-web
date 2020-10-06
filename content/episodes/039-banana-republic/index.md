@@ -1,6 +1,6 @@
 ---
 number: 39
-title: Banana Republic
+title: Banana republic
 date: "2020-10-07"
 description: "We discuss big poultry news, the Centerlink workers who disagree with punitive government policy, and how the LNP wants to bring back indentured servitude on farms." 
 fileLink: "https://mcdn.podbean.com/mf/web/adejfz/39-shit-history-repeating.mp3"
