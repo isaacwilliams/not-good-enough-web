@@ -1,7 +1,7 @@
 ---
 number: 40
 title: Budget cu*ts
-date: "2020-10-13"
+date: "2020-10-14"
 description: "Alan Tudge re-instates the White Australia policy, Jacquie Lambie is a problematic fav, and we pick apart the big themes of this year's Federal budget." 
 fileLink: "https://mcdn.podbean.com/mf/web/vc8cuq/40-control-f-for-coal-002.mp3"
 ---
