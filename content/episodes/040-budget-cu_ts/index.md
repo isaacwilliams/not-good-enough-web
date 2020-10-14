@@ -42,7 +42,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/vc8cuq/40-control-f-for-coal-002.mp3"
 - Anthony Albanese [refuses to give a single detail](https://twitter.com/abc730/status/1314339798044139520).
 - **Correction:** Mitch says that Albanese won't give any details of Labor's policy on nurse's pay. Albanese was actually talking about childcare workers. I'm sure if pressed he would waffle on nurses too.
 - Tony Abbott declared that he [would make no cuts to the ABC and SBS](https://www.sbs.com.au/news/no-cuts-to-the-abc-or-sbs-abbott) [(and promptly brought out the chainsaw after the election)](https://www.theguardian.com/australia-news/2014/dec/01/tony-abbott-admits-he-broke-abc-cuts-promise-and-says-buck-stops-with-me)
-- Katharine Murphy [scores the budget on a scale](https://www.theguardian.com/australia-news/2020/oct/06/australia-2020-after-a-bastard-of-a-year-the-coalition-unveils-a-federal-budget-of-heroic-optimism-but-will-it-work).
+- Katharine Murphy [grades the budget on a curve](https://www.theguardian.com/australia-news/2020/oct/06/australia-2020-after-a-bastard-of-a-year-the-coalition-unveils-a-federal-budget-of-heroic-optimism-but-will-it-work).
 
 ## Royal petition commission!
 
