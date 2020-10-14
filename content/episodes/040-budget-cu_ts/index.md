@@ -33,7 +33,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/vc8cuq/40-control-f-for-coal-002.mp3"
 
 - [Winners: Taxpayers. Losers: Economy](https://www.abc.net.au/news/2020-10-06/coronavirus-federal-budget-2020-winners-and-losers/12684802)?
 - As Greg Jericho reports, [the Government is assuming that not only will we get a vaccine, but that next Australia will have it’s best economic recovery this century](https://www.theguardian.com/australia-news/grogonomics/2020/oct/07/australian-budget-2020-the-six-charts-that-matter-for-the-post-covid-recovery).
-- Lidia Thorpe points out that the AFP is receiving 6 the [funding of any efforts to closing the gap of Indigenous lifespans](https://twitter.com/lidia__thorpe/status/1313986095818784769). 
+- Lidia Thorpe points out that the AFP is receiving 6 times the [funding of any efforts to closing the gap of Indigenous lifespans](https://twitter.com/lidia__thorpe/status/1313986095818784769). 
 - This government really loves coal, [even more than actual coal companies](https://www.nqxt.com.au/what-we-do/).
 - National MP Matt Canavan [drives a ute with "Back Coal Matters"](https://www.abc.net.au/news/2020-10-09/senator-defends-black-coal-matters-car-sticker-social-post/12747482) to troll the greens.
 - The government is offering "relocation assistance" to [force job seekers into rural farm picking work](https://www.thesaturdaypaper.com.au/news/economy/2020/10/10/budget-2020-does-little-the-vulnerable/160224840010544?cb=1602381631).
