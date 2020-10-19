@@ -2,8 +2,8 @@
 number: 41
 title: Nu Unions (feat. Holly Jones of the Renters & Housing Union)
 date: "2020-10-20"
-description: "Alan Tudge re-instates the White Australia policy, Jacquie Lambie is a problematic fav, and we pick apart the big themes of this year's Federal budget." 
-fileLink: "https://mcdn.podbean.com/mf/web/vc8cuq/40-control-f-for-coal-002.mp3"
+description: "We discuss whether you should get fired for quoting Mean Girls, then chat with Holly from the Renters & Housing Union about how they are helping to protect renters during the pandemic." 
+fileLink: "https://mcdn.podbean.com/mf/web/ttph98/41-fugly-001.mp3"
 ---
 
 ### Good news
@@ -14,7 +14,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/vc8cuq/40-control-f-for-coal-002.mp3"
 - Julia Gillard [campaigned on not advocating for a carbon tax, but was forced into one by the Greens](https://www.theguardian.com/australia-news/2017/jul/05/how-australia-bungled-climate-policy-to-create-a-decade-of-disappointment).
 - [Jacinda Ardern's New Zealand Labour Party won big in the New Zealand election](https://www.abc.net.au/news/2020-10-17/jacinda-ardern-wins-second-term-as-new-zealand-pm/12771532). That's good I guess?
 
-### Amy McMahon? She doesn’t even go here
+### She doesn’t even go here
 
 - Quoting Mean Girls isn't a crime, [but the Labor party tried get someone fired over it](https://junkee.com/jackie-trad-greens-mean-girls-tweet/274209).
 - Labor party [surrogates like Dee Madigan went in hard](https://twitter.com/deemadigan/status/1315030534679003136).
