@@ -33,6 +33,10 @@ const ListingDescription = styled.div`
 
 const PlayerContainer = styled.div`
     margin: 1rem 0;
+    
+    audio {
+        width: 100%;
+    }
 `;
 
 const PodcastEpisodeSummary = ({
