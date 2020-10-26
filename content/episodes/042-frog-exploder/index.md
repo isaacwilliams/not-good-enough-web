@@ -1,16 +1,15 @@
 ---
 number: 42
-title: Frog Exploder (feat. Zac from Auspol Snackpod)
-date: "2020-10-20"
-description: ""
-fileLink: "https://mcdn.podbean.com/mf/web/ttph98/41-fugly-001.mp3"
+title: Blow up the horses (feat. Zac of Auspol Snackpod)
+date: "2020-10-27"
+description: "We're joined by Zac of Auspol Snackpod to chat about Scott Morrison's weird tint job, horse races for the rich and how the government (again) loves mining more than mining companies."
+fileLink: "https://mcdn.podbean.com/mf/web/xruedk/42-znacpod-001.mp3"
 ---
 
-### Morrison is a weird unit
+### Getting tints
 
 - Scott Morrison was [supposed to attend a national cabinet](https://twitter.com/Qldaah/status/1316951759202516992) meeting, [buts turns out he was at a fundraiser](https://twitter.com/AaronDodd/status/1317383126553952256).
 - He [probably could have called in, or taken another plane](https://twitter.com/Qldaah/status/1316928283599163393).
-- https://twitter.com/Qldaah/status/1316928283599163393
 - Kevin Rudd on visiting a strip club: ["Oh no, this won't do"](https://www.abc.net.au/news/2007-08-21/rudd-in-strip-joint-oh-no-this-wont-do/645778).
 
 ### Pretty horsies
@@ -30,6 +29,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/ttph98/41-fugly-001.mp3"
 - In good news, all of [South Australia's power is coming from solar panels](https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366).
 - Sun Cable is proposing the [world's largest solar power plant in the Northern Territory](https://www.abc.net.au/news/2020-07-30/nt-sun-cables-australia-project-awarded-major-project-status/12506516).
 - The Queensland Resources Council claims that their [industry employs 20% of the Queensland population](https://www.theguardian.com/australia-news/2020/oct/25/queensland-election-why-the-resources-councils-jobs-figures-dont-pass-the-laugh-test).
+
+### Placing bets
+
 - The AFL has [cut ties with Rio Tinto](https://www.theage.com.au/sport/afl/afl-to-sever-ties-with-rio-tinto-over-indigenous-sacred-site-blast-20201013-p564sf.html), after the company [destroyed Juukan Gorge](https://www.theguardian.com/australia-news/2020/sep/25/rio-tinto-kept-loading-explosives-at-juukan-gorge-after-promising-to-stop-traditional-owners-say).
 - Essendon player Joe Daniher [has called on the AFL to cut ties with BHP and Rio Tinto](https://www.theage.com.au/sport/afl/there-needs-to-be-a-higher-standard-daniher-speaks-out-over-afl-s-rio-tinto-bhp-ties-20200612-p5525p.html).
 - [Yet you participate in society. Curious! I am very intelligent.](https://thenib.com/mister-gotcha/)
