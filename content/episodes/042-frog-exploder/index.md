@@ -30,7 +30,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/xruedk/42-znacpod-001.mp3"
 - Sun Cable is proposing the [world's largest solar power plant in the Northern Territory](https://www.abc.net.au/news/2020-07-30/nt-sun-cables-australia-project-awarded-major-project-status/12506516).
 - The Queensland Resources Council claims that their [industry employs 20% of the Queensland population](https://www.theguardian.com/australia-news/2020/oct/25/queensland-election-why-the-resources-councils-jobs-figures-dont-pass-the-laugh-test).
 
-### Placing bets
+### Footy tipping
 
 - The AFL has [cut ties with Rio Tinto](https://www.theage.com.au/sport/afl/afl-to-sever-ties-with-rio-tinto-over-indigenous-sacred-site-blast-20201013-p564sf.html), after the company [destroyed Juukan Gorge](https://www.theguardian.com/australia-news/2020/sep/25/rio-tinto-kept-loading-explosives-at-juukan-gorge-after-promising-to-stop-traditional-owners-say).
 - Essendon player Joe Daniher [has called on the AFL to cut ties with BHP and Rio Tinto](https://www.theage.com.au/sport/afl/there-needs-to-be-a-higher-standard-daniher-speaks-out-over-afl-s-rio-tinto-bhp-ties-20200612-p5525p.html).
