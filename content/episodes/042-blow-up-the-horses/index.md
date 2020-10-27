@@ -26,9 +26,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/xruedk/42-znacpod-001.mp3"
 ### Big beautiful mines
 
 - The government loves [mining more than mining companies](https://www.theguardian.com/business/2020/oct/25/coalition-accused-of-ideological-wishlisting-after-bhp-pulls-out-of-multi-billion-dollar-project).
-- In good news, all of [South Australia's power came from solar panels](https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366) (for an hour, but still good).
+- In good news, [South Australia supplied 100% of it's electricity with solar for an hour](https://www.abc.net.au/news/2020-10-25/all-sa-power-from-solar-for-first-time/12810366).
 - Sun Cable is proposing the [world's largest solar power plant in the Northern Territory](https://www.abc.net.au/news/2020-07-30/nt-sun-cables-australia-project-awarded-major-project-status/12506516).
-- The Queensland Resources Council claims that their [industry employs 20% of the Queensland population](https://www.theguardian.com/australia-news/2020/oct/25/queensland-election-why-the-resources-councils-jobs-figures-dont-pass-the-laugh-test).
+- The Queensland Resources Council (falsely) claims that their [industry employs 20% of the Queensland population](https://www.theguardian.com/australia-news/2020/oct/25/queensland-election-why-the-resources-councils-jobs-figures-dont-pass-the-laugh-test).
 
 ### Footy tipping
 
