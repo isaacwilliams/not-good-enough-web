@@ -15,7 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/bqbdaq/44-rip-van-dyke.mp3"
 
 - In Victorian local government elections, [the Greens and Socialists have swept into power](https://www.vec.vic.gov.au/results/2020-council-election-results). 
 - Yarra council is the first [majority-Green council in Australia](https://www.theage.com.au/national/victoria/victoria-s-first-greens-dominated-council-elected-in-yarra-20201106-p56c2k.html).
-- Some council elections are also [dominated by cooked units](https://www.theguardian.com/media/2012/oct/16/darryn-lyons-big-pictures), and [tarnished by vote tapering](https://www.theage.com.au/national/victoria/moreland-council-vote-declared-despite-suspected-vote-rigging-20201105-p56bv7.html).
+- Some council elections are also [dominated by cooked units](https://www.theguardian.com/media/2012/oct/16/darryn-lyons-big-pictures).
 
 ## Big battery bonanza 
 
