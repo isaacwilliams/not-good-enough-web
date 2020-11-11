@@ -59,7 +59,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/bqbdaq/44-rip-van-dyke.mp3"
 
 ## Actions
 
-- It's NIADOC week. [Learn the country you live on](https://aiatsis.gov.au/explore/map-indigenous-australia), maybe [put it on a letter](https://www.instagram.com/place_names_in_addresses/). 
+- It's NAIDOC week. [Learn the country you live on](https://aiatsis.gov.au/explore/map-indigenous-australia), maybe [put it on a letter](https://www.instagram.com/place_names_in_addresses/). 
 - [Pay the rent](https://paytherent.net.au/).
 
 
