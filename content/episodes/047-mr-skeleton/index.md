@@ -37,6 +37,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/exwcsm/47-matthias-cormann-oecd-speci
 ## Smol gas beans
 
 - The [Narrabri gas project has been approved](https://www.theguardian.com/australia-news/2020/nov/24/federal-government-gives-environmental-approval-to-controversial-36bn-narrabri-gas-project)!
+- That's nice, [they seem like such good customers of the local coffee van](https://notgoodpod.com/035-activism-but-make-it-political/).
 - The NSW government is looking to [fast-track new mine approvals, including 850 new gas wells](https://www.theguardian.com/australia-news/2020/sep/29/narrabri-gas-project-environment-group-says-new-groundwater-evidence-not-considered).
 - The Minerals Council [is just a smol business](https://www.theguardian.com/australia-news/2019/oct/21/nsw-minerals-council-pressured-publicly-and-privately-for-review-of-planning-body). 
 
