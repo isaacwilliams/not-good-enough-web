@@ -3,7 +3,7 @@ number: 48
 title: Digitally manipulated podcast (feat. Jim Malo)
 date: "2020-12-09"
 description: "We're joined by jounalist and Posting expert Jim Malo to discuss Australia's return to our natural state: on fire and mad at foreigners."
-fileLink: "https://mcdn.podbean.com/mf/web/exwcsm/47-matthias-cormann-oecd-special.mp3"
+fileLink: "https://mcdn.podbean.com/mf/web/ebfnrn/48-feat-jim.mp3"
 ---
 
 ## Listening to the experts
