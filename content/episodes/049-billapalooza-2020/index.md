@@ -2,7 +2,7 @@
 number: 49
 title: Billapalooza 2020
 date: "2020-12-16"
-description: "It's too hot to podcast but we delve into the content mines yet again to keep you updates on the landslide of bills from the last sitting week of parliament."
+description: "It's too hot to podcast but we delve into the content mines yet again to keep you updated on the landslide of bills from the last sitting week of parliament."
 fileLink: "https://mcdn.podbean.com/mf/web/wmbht5/49-chapo-with-no-will.mp3"
 ---
 
