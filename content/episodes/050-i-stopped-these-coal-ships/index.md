@@ -14,14 +14,14 @@ fileLink: "https://mcdn.podbean.com/mf/web/duk6sn/50-episode-fifty.mp3"
 ## Saving Djab Wurrung
 
 - The Federal Court has ruled that the [Victorian Government's decision to build a highway through Djab Wurrung birthing trees was made incorrectly](https://www.abc.net.au/news/2020-12-17/federal-court-overturns-sussan-leys-decision-on-sacred-trees/12970540), and must be re-judged by someone who isn't Sussan Ley.
-- In the same highway project [in 2015, in a "planning blunder" led to the destruction of 900 native trees](https://www.smh.com.au/environment/conservation/nine-hundred-giant-native-trees-felled-in-vicroads-planning-blunder-20150804-gir5jn.html).
+- On the same highway project [in 2015, in a "planning blunder" led to the destruction of 900 native trees](https://www.smh.com.au/environment/conservation/nine-hundred-giant-native-trees-felled-in-vicroads-planning-blunder-20150804-gir5jn.html).
 
 ## Cop tower redux
 
 - The [Victorian Ombudsman's report into the public tower lockdowns](https://www.parliament.vic.gov.au/file_uploads/Victorian_Ombudsman_report_-_Investigation_into_the_detention_and_treatment_of_public_housing_residents_arising_from_a_COVID-19__hard_lockdown__in_July_2020_qr4jV2bK.pdf) (PDF link) has been released.
 - In July, [3000 people in public housing tower blocks were locked down with zero notice](https://www.abc.net.au/news/2020-07-04/victoria-coronavirus-cases-rise-by-108-lockdown-new-postcodes/12422456).
 - Our [podcast episode on the tower lockdown from July](https://notgoodpod.com/026-cop-tower/).
-- Tower residents were [only able to go outside and exercise in guarded cage](https://www.theage.com.au/national/victoria/we-are-prisoners-fenced-exercise-yards-at-lockdown-tower-slammed-20200712-p55bbb.html).
+- Tower residents were [only able to go outside and exercise in guarded cages](https://www.theage.com.au/national/victoria/we-are-prisoners-fenced-exercise-yards-at-lockdown-tower-slammed-20200712-p55bbb.html).
 - Like [the hotel quarantine report](https://www.theage.com.au/politics/victoria/blacked-out-emails-show-dispute-over-security-company-s-role-20201029-p569uz.html), we probably won't know who was responsible for these decisions.
 
 ## Posting for climate action
