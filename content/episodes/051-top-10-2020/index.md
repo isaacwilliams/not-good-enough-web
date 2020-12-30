@@ -30,7 +30,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/yuwiz7/51-holiday-special-002.mp3"
 
 ### 5. Coronavirus
 
-- Not just [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2), but the [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) too.
+- Not just [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2), but the [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) disease too.
 
 ### 4. Industrial actions and union wins
 
