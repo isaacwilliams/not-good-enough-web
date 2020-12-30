@@ -2,7 +2,7 @@
 number: 51
 title: The Top 10 of 2020
 date: "2020-12-30"
-description: "Join us as we wrap up 2020 with our rundown of the top 10 events, scandals and personalities of 2020."
+description: "Join us as we wrap up 2020 with Not Good Enough's official Top 10 ranking for the year."
 fileLink: "https://mcdn.podbean.com/mf/web/yuwiz7/51-holiday-special-002.mp3"
 ---
 
