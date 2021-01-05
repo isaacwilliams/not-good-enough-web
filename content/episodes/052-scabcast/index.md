@@ -10,7 +10,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/bdr37k/52-new-year-002.mp3"
 
 - The Prime Minister has [announced a one-word change to the national anthem](https://www.theguardian.com/commentisfree/2021/jan/01/changing-one-word-in-australias-national-anthem-is-mere-tokenism-and-does-little-for-actual-inclusion).
 - The change was [originally backed by NSW Premier Gladys Berejiklian](https://www.theguardian.com/australia-news/2020/nov/11/gladys-berejiklian-backs-national-anthem-lyric-change-to-recognise-indigenous-australians).
-- Scott Morrison [remembers Bob Hawk for changing the national anthem](https://www.youtube.com/watch?v=778WD9wh8gQ).
+- Scott Morrison [remembers Bob Hawke for changing the national anthem](https://www.youtube.com/watch?v=778WD9wh8gQ).
 
 ## War on the poor
 
