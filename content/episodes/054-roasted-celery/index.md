@@ -14,7 +14,8 @@ fileLink: "https://mcdn.podbean.com/mf/web/sgz5xk/54-dutch-courage-002.mp3"
 
 ## Climate news
 
-[![Discourses of Climate Delay](./climate-discorse.jpg)](https://twitter.com/leolinne/status/1308705832817889284)
+![Discourses of Climate Delay](./climate-discorse.jpg)
+[From @leolinne](https://twitter.com/leolinne/status/1308705832817889284), based on [this paper](https://www.cambridge.org/core/journals/global-sustainability/article/discourses-of-climate-delay/7B11B722E3E3454BB6212378E32985A7).
 
 - The Federal government is [pouring hundreds of millions of dollars of subsidies into gas fracking in the Beetaloo Basin](https://www.abc.net.au/news/2021-01-14/federal-government-road-funding-props-up-beetaloo-development/13057974).
 - The gas from the basin is set to emit up to 117 megatonnes of greenhouse gas per year. The entire Australian [transport sector produces about 100 megatonnes](https://www.uow.edu.au/media/2020/transport-is-letting-australia-down-in-the-race-to-cut-emissions.php).
@@ -49,5 +50,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/sgz5xk/54-dutch-courage-002.mp3"
 - Keep an eye on the Australian media coverage of the US Capitol riots, and complete our bingo card.
 - Attend the [Invasion Day rallies around Australia](https://www.facebook.com/events/157449042845463/).
 
-![Bingo card](./bingo-card-2.png)
  
