@@ -50,4 +50,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/sgz5xk/54-dutch-courage-002.mp3"
 - Keep an eye on the Australian media coverage of the US Capitol riots, and complete our bingo card.
 - Attend the [Invasion Day rallies around Australia](https://www.facebook.com/events/157449042845463/).
 
- 
+ ![Play along at home with the Official Not Good Enough Australian Media Coverage of the Alt-right bingo card](./bingo-card-3.png)
