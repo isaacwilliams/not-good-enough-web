@@ -15,7 +15,7 @@
 - Copy the metadata block from the top of a previous episode into the new `index.md` file.
 - Write the episode notes, in markdown format. Use h2s (`##`) for headings.
 
-## Release to website
+## 2. Release to website
 
 - Upload the episode mp3 file to PodBean.
     - Login to the dashboard.
@@ -32,7 +32,7 @@
 - Commit the changes.
 - Deploy, using `npm run deploy`.
 
-## Release to podcast feeds
+## 3. Release to podcast feeds
 
 - In the PodBean dashboard, navigate to **Episodes** -> **Episode List**.
 - Create a new episode. **Select a file from account**, and use the uploaded mp3.
