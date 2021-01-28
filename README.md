@@ -6,16 +6,16 @@
 - Start for development: `npm start`
 - Deploy to notgoodpod.com: `npm run deploy`
 
-# How to release an episode
+## How to release an episode
 
-## 1. Create the episode
+### 1. Create the episode
 
 - Under `content/episodes`, create an appropriately numbered folder, eg. `055`.
 - Create an `index.md` file inside this folder.
 - Copy the metadata block from the top of a previous episode into the new `index.md` file.
 - Write the episode notes, in markdown format. Use h2s (`##`) for headings.
 
-## 2. Release to website
+### 2. Release to website
 
 - Upload the episode mp3 file to PodBean.
     - Login to the dashboard.
@@ -32,7 +32,7 @@
 - Commit the changes.
 - Deploy, using `npm run deploy`.
 
-## 3. Release to podcast feeds
+### 3. Release to podcast feeds
 
 - In the PodBean dashboard, navigate to **Episodes** -> **Episode List**.
 - Create a new episode. **Select a file from account**, and use the uploaded mp3.
