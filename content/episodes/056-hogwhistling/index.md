@@ -9,7 +9,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/9qr7rk/56-missing-the-mark.mp3"
 ## We're on fire
 
 - Adelaide had a [massive bushfire south of the city](https://www.canberratimes.com.au/story/7098072/homes-lost-in-adelaide-bushfire/?cs=14231), described as like a [firestorm or a volcano](https://www.abc.net.au/news/2021-01-25/adelaide-hills-residents-survive-cherry-gardens-bushfire/13088094).
-- [2 year old packs bad rocks](https://twitter.com/hilltophoods/status/1353313965661511680?s=20).
+- Two-year-old [packs bad rocks](https://twitter.com/hilltophoods/status/1353313965661511680?s=20).
 - Meanwhile in Melbourne, on Monday a mean and menacing “tip fire” [managed to motivate 17 municipalities to move a “major alert” across most media.](https://www.msn.com/en-au/news/australia/tip-fire-in-melbourne-puts-17-suburbs-on-alert/ar-BB1d3p9e)
 - In good news, South Australia [met the entirety of it's power demand with solar for a few hours](https://reneweconomy.com.au/world-first-south-australia-achieves-100pct-solar-and-lowest-prices-in-australia/).
 
