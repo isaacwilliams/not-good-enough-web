@@ -2,7 +2,7 @@
 number: 56
 title: Hogwhistling
 date: "2021-02-01"
-description: "We discuss the Award for Services to Homophobia, and try to figure out what on earth the Labor Party is up to."
+description: "We discuss bad rocks, the Award for Services to Homophobia, and try to figure out what on earth the Labor Party is up to."
 fileLink: "https://mcdn.podbean.com/mf/web/9qr7rk/56-missing-the-mark.mp3"
 ---
 
