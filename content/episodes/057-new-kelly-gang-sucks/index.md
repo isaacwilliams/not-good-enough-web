@@ -17,9 +17,9 @@ fileLink: "https://mcdn.podbean.com/mf/web/8katdf/57-black-and-white-001.mp3"
 
 - Eddie McGuire is [a weird little freak](https://en.wikipedia.org/wiki/Eddie_McGuire#Controversies) with a long history in Australian media and sports. He is currently the president of the Collingwood football club.
 - Former Collingwood player [Héritier Lumumba's complaints about the culture of racism](https://www.foxsports.com.au/afl/afl-2020-Héritier-lumumba-racism-claims-collingwood-review-deeply-flawed-eddie-mcguire-nathan-buckley/news-story/cf0d698e00900a8404e3a7e66285f77f) at the football club sparked a report, [which was finally leaked on February 1st](https://resources.afl.com.au/afl/document/2021/02/01/0bd7a62e-7508-4a7e-9cb0-37c375507415/Do_Better.pdf) (PDF Link). 
-- Read along with [Tweet-thread horror of Eddie's press conference](https://twitter.com/FOXFOOTY/status/1356094278204723203). He's also very [proud of the club's Asian netball players](https://twitter.com/bhakthi/status/1356102103299739648).
+- Read along with [Tweet-thread horror of Eddie's press conference](https://twitter.com/FOXFOOTY/status/1356094278204723203).
+- Eddie says Collingwood can't be racist [because the larger wing of the club has asian netball players](https://twitter.com/bhakthi/status/1356102103299739648).
 - Around the time of the internal release of the report, [Eddie Maguire announced his "retirement"](https://www.abc.net.au/news/2020-12-18/afl-collingwood-eddie-mcguire-picked-the-right-time-to-step-down/12994608).
-- Eddie says Collingwood can't be racist [because the larger wing of the club has asian netball players](https://twitter.com/maxchalm/status/1356102033363726337).
 - Eddie supported Collingwood football coach [Nathan Buckley after he made insinuations about Héritier’s mental health](https://twitter.com/aamer_rahman/status/1270515158411083777).
 - Premier Dan Andrews [reckons Eddie stepping down is poor leadership](https://www.theage.com.au/sport/afl/running-from-challenges-is-not-leadership-andrews-says-mcguire-should-not-step-down-immediately-20210202-p56ypf.html).
 - The Project had Héritier on to [grill him on his racist treatment. They've since removed the episode](https://www.foxsports.com.au/afl/channel-10-remove-video-of-waleed-aly-interview-with-afl-star-heritier-lumumba/news-story/5b48b36b31339ba0fca19d167140dd6d).
