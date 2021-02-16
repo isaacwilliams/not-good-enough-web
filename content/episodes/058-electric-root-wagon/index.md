@@ -2,7 +2,7 @@
 number: 58
 title: Electric root wagon
 date: "2021-02-17"
-description: ""
+description: "We're back in lockdown again, the government still loves fossil fuels (but hates workers) and hybrid cars are a trick to lock us into using petrol."
 fileLink: "https://mcdn.podbean.com/mf/web/4zueix/58-lockdown-iii-001.mp3"
 ---
 
@@ -16,7 +16,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/4zueix/58-lockdown-iii-001.mp3"
 - Behrouz Boochani — ["The border is part of Australia and it reproduces at home"](https://twitter.com/BehrouzBoochani/status/1280387758989565952)
 - Scott Morrison [says he won't take over hotel quarantine](https://www.smh.com.au/politics/federal/we-re-not-running-it-pm-says-he-won-t-take-over-hotel-quarantine-20210212-p5721w.html).
 
-## Climate change again
+## Fossil fuel good, workers bad
 
 - ExxonMobil has [announced the closure of its Altona refinery](https://www.afr.com/companies/energy/exxon-to-shut-altona-oil-refinery-20210209-p570z8).
 - Labor minister for Climate Change Joel Fitzgibbon — ["...we need to commission new opportunities to extract more crude oil"](https://twitter.com/fitzhunter/status/1359340325748133889).
