@@ -2,11 +2,11 @@
 number: 59
 title: Throw the Facebook at them (feat. Joanna Horton of Floodcast)
 date: "2021-02-24"
-description: "We're joined by Joanna Horton of Floodcast to discuss the political and media response to the Brittney Higgins story, the Facebook news ban and Kristina Kersher Keneally's posts."
+description: "We're joined by Joanna Horton of Floodcast to discuss the political and media response to the Brittany Higgins story, the Facebook news ban and Kristina Kersher Keneally's posts."
 fileLink: "https://mcdn.podbean.com/mf/web/4ar3fq/59-feat-jo-001.mp3"
 ---
 
-**Content warning: A chunk of this episode is spent discussing the Britney Higgins story, which at its core is about sexual violence. We don't discuss specifics of the incident itself, but do talk about the surrounding political context.**
+**Content warning: A chunk of this episode is spent discussing the Brittany Higgins story, which at its core is about sexual violence. We don't discuss specifics of the incident itself, but do talk about the surrounding political context.**
 
 ## Good news
 
@@ -15,11 +15,11 @@ fileLink: "https://mcdn.podbean.com/mf/web/4ar3fq/59-feat-jo-001.mp3"
 
 ## Britney Higgins
 
-- In 2019, Defense Minister staffer [Britney Higgins was allegedly raped in an office in Parliament house](https://www.abc.net.au/news/2021-02-21/heres-what-we-know-and-dont-about-brittany-higgins-alleged-rape/13173526).
+- In 2019, Defense Minister staffer [Brittany Higgins was allegedly raped in an office in Parliament house](https://www.abc.net.au/news/2021-02-21/heres-what-we-know-and-dont-about-brittany-higgins-alleged-rape/13173526).
 - Scott Morrison needed to [have this explained to him by his wife](https://www.sbs.com.au/news/scott-morrison-criticised-for-invoking-his-daughters-in-response-to-brittany-higgins-rape-allegations).
 - Political staffers [have few workplace protections](https://www.smh.com.au/politics/federal/no-rights-at-work-mps-staffers-are-the-uber-drivers-of-the-political-process-20210215-p572mg.html).
 - There is absolutely no connection between drug use and a [marble table being broken during a party at Tony Abbots office](https://www.smh.com.au/politics/federal/tony-abbott-to-pay-for-marble-table-smashed-during-party-20151019-gkd2wv.html).
-- The Full Story Guardian [podcast on Britney Higgins](https://www.theguardian.com/australia-news/audio/2021/feb/19/brittany-higgins-and-the-toxic-culture-of-australian-politics-with-lenore-taylor).
+- The Full Story Guardian [podcast on Brittany Higgins](https://www.theguardian.com/australia-news/audio/2021/feb/19/brittany-higgins-and-the-toxic-culture-of-australian-politics-with-lenore-taylor).
 - Craig Kelly's longtime office manager has stayed on, [despite repeated allegations of grooming teenagers and having an AVO taken out against him](https://www.theguardian.com/australia-news/2021/feb/19/craig-kelly-senior-staff-member-aide-frank-zumbo-allegations-inappropriate-behaviour-young-women).
 - Oh, and the [Family Court has been abolished as an independant body](https://womensagenda.com.au/latest/family-court-abolished-as-controversial-bill-passes-through-senate/), after a [long campaign by Pauline Hanson](https://www.theguardian.com/australia-news/2019/sep/18/pauline-hanson-sparks-fury-with-claims-domestic-violence-victims-are-lying-to-family-court).
 - Jacqui Lambie continues to be a [problematic fav, blasting the family court merger](https://7news.com.au/politics/jacqui-lambie-blasts-family-court-merger-c-2181634).
