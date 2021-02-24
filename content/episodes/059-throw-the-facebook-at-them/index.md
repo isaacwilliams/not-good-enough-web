@@ -1,7 +1,7 @@
 ---
 number: 59
 title: Throw the Facebook at them (feat. Joanna Horton of Floodcast)
-date: "2021-02-21"
+date: "2021-02-24"
 description: "We're joined by Joanna Horton of Floodcast to discuss the political and media response to the Brittney Higgins story, the Facebook news ban and Kristina Kersher Keneally's posts."
 fileLink: "https://mcdn.podbean.com/mf/web/4ar3fq/59-feat-jo-001.mp3"
 ---
