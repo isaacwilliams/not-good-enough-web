@@ -27,4 +27,4 @@ fileLink: "https://mcdn.podbean.com/mf/web/5k7t3d/nge64-fitz.mp3"
 ## Actions
 
 - Sign [the petition to kick Joel Fitzgibbon out](https://actionnetwork.org/forms/fire-fitzgibbon/).
-- Visit the [Tomorrow Movement website](https://tomorrowmovement.comwpo) and follow [@tomorrowmvmt to keep up with their campaigns](https://twitter.com/tomorrowmvmt).
+- Visit the [Tomorrow Movement website](https://tomorrowmovement.com) and follow [@tomorrowmvmt to keep up with their campaigns](https://twitter.com/tomorrowmvmt).
