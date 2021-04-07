@@ -15,7 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/urjyyu/65-pull-your-head-in-scomo-001
 ## Turning on the waterworks
 
 - Scott Morrison [turned on the waterworks](https://www.news.com.au/national/politics/scott-morrison-pm-chokes-back-tears-over-assault-crisis/news-story/078a392051ccc77e992817736823c713).
-- Begrudging shoutout to [Ged Kearny for calling them crocodile tears](https://twitter.com/gedkearney/status/1374270663830032386?s=20).
+- Begrudging shoutout to [Ged Kearney for calling them crocodile tears](https://twitter.com/gedkearney/status/1374270663830032386?s=20).
 - After questioning by a Sky News reporter, Scott Morrison lashed out, [potentially outing a victim of sexual assault](https://www.youtube.com/watch?v=gVHq_DvFyMs) (turns out he maybe [invented it, and made a groveling notes-app apology](https://www.theguardian.com/australia-news/2021/mar/23/news-corp-australia-rounds-on-scott-morrison-over-simply-untrue-harassment-claim)).
 - Alleged [upskirt-photographer](https://www.sbs.com.au/news/andrew-laming-explains-alleged-upskirt-photo-as-calls-grow-for-his-immediate-sacking) Andrew Laming won't contest the next election.
 - ABC's 7.30 Report [empty-chair-interviewed Scott Morrison](https://twitter.com/abc730/status/1374282129463414788?lang=en).
