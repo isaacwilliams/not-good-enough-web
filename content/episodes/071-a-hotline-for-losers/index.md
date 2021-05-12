@@ -43,7 +43,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/y3nnyt/71-outrageous-and-extremely-cr
 
 ## Emergency action
 
-- Protest the colonial violence committed against the Palestinian people. Rallies across Australia: [Melbourne (May 15th)](https://www.facebook.com/events/922133665236736/), [Sydney (May 15th)](https://www.garda.com/crisis24/news-alerts/476696/australia-activists-plan-protest-in-sydney-may-15), [Brisbane (May 14th)](https://samidoun.net/event/brisbane-rally-and-march-for-palestinian-nakba-day/), [Perth (May 14th)](https://www.facebook.com/Palcomwa/photos/a.320975351367199/2224498247681557/?type=3&theater).
+- Protest the colonial violence being committed against the Palestinian people. Rallies across Australia: [Melbourne (May 15th)](https://www.facebook.com/events/922133665236736/), [Sydney (May 15th)](https://www.garda.com/crisis24/news-alerts/476696/australia-activists-plan-protest-in-sydney-may-15), [Brisbane (May 14th)](https://samidoun.net/event/brisbane-rally-and-march-for-palestinian-nakba-day/), [Perth (May 14th)](https://www.facebook.com/Palcomwa/photos/a.320975351367199/2224498247681557/?type=3&theater).
 
 
 
