@@ -2,7 +2,7 @@
 number: 72
 title: "WiNnErS & LoSeRs"
 date: "2021-05-19"
-description: "We didvvi."
+description: "We talk about the media's narratives of omission, whether the subject is Kristina Keneally's necklace, the federal budget or the people of Palestine."
 fileLink: "https://mcdn.podbean.com/mf/web/z6c47v/72-everyone-is-an-effing-idiot-001.mp3"
 ---
 
@@ -23,14 +23,14 @@ fileLink: "https://mcdn.podbean.com/mf/web/z6c47v/72-everyone-is-an-effing-idiot
 ## One budget, please sir
 
 - The Australian media loves to [divide the budget into winners and losers](https://www.abc.net.au/news/2021-05-11/federal-budget-2021-winners-and-losers/13328556).
-- David Speers [walks right into Treasurer Josh Frydenberg framing trap](https://www.abc.net.au/insiders/treasurer-josh-frydenberg/13346484).
+- David Speers [walks right into Treasurer Josh Frydenberg's framing trap](https://www.abc.net.au/insiders/treasurer-josh-frydenberg/13346484).
 - The budget [predictions are simply a fantasy](https://twitter.com/GrogsGamut/status/1392356224159522819). 
 
 ## Shoutouts
 
 - Shoutout to [Celeste Liddle](https://twitter.com/Utopiana), who is [running for the Greens in the federal seat of Cooper](https://greens.org.au/vic/person/celeste-liddle).
-- [Aboriginal Senator Lydia Thorpe](https://www.jacobinmag.com/2020/11/victoria-aboriginal-senator-aboriginal-people-sovereignty-colonizing-power) "The instruction from the colonizers was to wipe us and our language out, to take our children... Their plan was to annihilate us, to get rid of us altogether. But they failed."
+- [Lydia Thorpe](https://www.jacobinmag.com/2020/11/victoria-aboriginal-senator-aboriginal-people-sovereignty-colonizing-power), Victoria's first Aboriginal woman senator "The instruction from the colonizers was to wipe us and our language out, to take our children... Their plan was to annihilate us, to get rid of us altogether. But they failed."
 
 ## Actions
 
-- Attend this weekend's rallies across Australia [in solidarity with the people of Palestine](https://www.facebook.com/events/922133665236736/).
+- Attend one of the rallies happening across Australia this weekend [in solidarity with the people of Palestine](https://www.facebook.com/events/922133665236736/).
