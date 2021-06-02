@@ -2,7 +2,7 @@
 number: 74
 title: "Care of Duty: Modern Lawfare (feat. Lauren)"
 date: "2021-06-02"
-description: We're joined by legal expert Lauren to discuss the government's new duty of care to protect young people from the climate crisis. We also chat about international law and exploding coal power plants."
+description: We're joined by legal expert Lauren to discuss the government's new duty of care to protect young people from the climate crisis. We also chat about international law and exploding coal power plants.
 fileLink: "https://mcdn.podbean.com/mf/web/t5fz74/74-its-not-a-race-001.mp3"
 ---
 
