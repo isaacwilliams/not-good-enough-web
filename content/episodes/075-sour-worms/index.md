@@ -9,7 +9,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/gud8xc/75-love-of-the-law.mp3"
 ## Porter stuff
 
 - Christian Porter has [dropped his case against the ABC](https://www.theguardian.com/australia-news/2021/may/31/christian-porter-and-abc-agree-to-settle-before-defamation-court-case).
-- A week after calling on the ABC to not drag out the case, [because they're spending taxpayer money](https://www.afr.com/politics/federal/porter-urges-the-abc-not-to-drag-out-legal-case-20210526-p57v76).
+- ...a week after calling on the ABC to not drag out the case, [because they're spending taxpayer money](https://www.afr.com/politics/federal/porter-urges-the-abc-not-to-drag-out-legal-case-20210526-p57v76).
 - Fairfax papers published a [weird puff piece on Porter’s new relationship](https://www.theage.com.au/national/christian-porter-s-new-relationship-20210602-p57xj2.html).
 
 ## Abusive leaks
