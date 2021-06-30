@@ -2,7 +2,7 @@
 number: 78
 title: Oh THAT Barrier Reef
 date: "2021-06-30"
-description: We spend about half an hour yelling about lockdowns. Sorry. Then chat about what Australia's Environment Minister has been up to.
+description: We spend about half an hour yelling about lockdowns. Sorry. Then we chat about what Australia's Environment Minister has been up to.
 fileLink: "https://mcdn.podbean.com/mf/web/bi3igz/78-reef-madness-001.mp3"
 ---
 
