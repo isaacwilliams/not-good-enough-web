@@ -29,15 +29,15 @@ fileLink: "https://mcdn.podbean.com/mf/web/gktd8j/80-go-arm-yourself-001.mp3"
 
 ## Vaccine watch
 
-- But it's okay, the [vaccine rollout is only 2 months behind](https://www.theguardian.com/australia-news/video/2021/jun/02/up-the-front-to-its-not-a-race-how-australias-bungled-covid-vaccine-rollout-unfolded-video!
+- But it's okay, the [vaccine rollout is only 2 months behind](https://www.theguardian.com/australia-news/video/2021/jun/02/up-the-front-to-its-not-a-race-how-australias-bungled-covid-vaccine-rollout-unfolded-video)!
 - Morrison [announced a "flood of Pfizer doses"](https://www.theaustralian.com.au/nation/covid19-flood-of-pfizer-doses-finally-here/news-story/9eaa9cac70d33d973a1ea4b01e44369e).
 - Pfizer says [actually nah](https://www.theguardian.com/australia-news/2021/jul/09/pfizer-says-no-change-to-australian-covid-vaccine-doses-contradicting-reports-of-game-changing-deal).
 - General JJ Frewen has be placed in [charge of the vaccine rollout logistics](https://www.abc.net.au/news/2021-07-09/coronavirus-morrison-vaccine-rollout-in-generals-hands/100275726).
 - The ADF isn't [actually so good at logistics](https://twitter.com/kels_316/status/1412667395940884484).
 - But don't worry! The government has a [great new advertising campaign to encourage vaccine uptake](https://www.youtube.com/watch?v=-sKttUTSKjM).
 - Make the [ad more horny](https://www.independent.co.uk/news/world/europe/french-covid-vaccine-ad-kissing-b1877038.html)!
-- Listen to [Eye of the Enemy](https://eyeoftheenemy.bandcamp.com/), they've got a clever bass player.
 - Boooooo [alcopop tax](https://www.news.com.au/lifestyle/food/alcopop-tax-fails-to-deter-teen-binge-drinking-raises-45-billion-in-revenue/news-story/79b588bab62c2f384f755e08b196add1).
+- Listen to [Eye of the Enemy](https://eyeoftheenemy.bandcamp.com/), they've got a clever bass player.
 
 ## Questacon con
 
