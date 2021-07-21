@@ -15,6 +15,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/ekfqgc/81-furry-olympics-001.mp3"
 - The Australian Mint commissioned an artist to [create Australian Olympic fursonas](https://twitter.com/SailorFailures/status/1415241068061224962).
 - You can get them [as stickers at Woolies](https://junkee.com/government-furry-olympics/301894).
 - Go [check out their art](https://twitter.com/landegart)!
+- Furries are good at [protecting their community from the toxic aspects of online culture](https://www.iheart.com/podcast/1119-worst-year-ever-49377032/episode/part-one-how-the-furries-fought-55634876/).
 - Olympics [fuckin suck though](https://www.bbc.com/news/world-asia-57240044).
 - Check out [the cancel the Olympics grassroots movement NOlympics LA](https://nolympicsla.com), which started to protest the LA bid for 2028 but has grown to encompass the entire anti-Olympics movement.
 
