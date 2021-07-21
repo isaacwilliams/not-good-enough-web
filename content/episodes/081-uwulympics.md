@@ -16,6 +16,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/ekfqgc/81-furry-olympics-001.mp3"
 - You can get them [as stickers at Woolies](https://junkee.com/government-furry-olympics/301894).
 - Go [check out their art](https://twitter.com/landegart)!
 - Olympics [fuckin suck though](https://www.bbc.com/news/world-asia-57240044).
+- Check out [the cancel the Olympics grassroots movement NOlympics LA](https://nolympicsla.com), which started to protest the LA bid for 2028 but has grown to encompass the entire anti-Olympics movement.
 
 ## Shitting yourself at the Engadine Maccas
 
