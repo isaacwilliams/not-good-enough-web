@@ -42,6 +42,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/2eabx4/82-mitchie-and-the-boys-001.mp
 
 ## Actions
 
+- Get a vaccine! It's annoying but you gotta do it. [Here's a website that can help](https://www.hotdoc.com.au/search?filters=covid_vaccine-available&purpose=covid-vaccine). Our brains are [not wired to understand very rare risks](https://www.theage.com.au/national/worried-about-astrazeneca-me-too-the-way-we-think-about-risk-might-be-the-problem-20210720-p58beh.html).
 - Support the strike fund for [workers at Better Read Than Dead](https://chuffed.org/project/brtd-welfare-fund).
 - Listen to Evie's [interview with Dr Susie Allanson and Lizzie O’Shea on the fight for safe access to abortion](https://www.3cr.org.au/tuesday-breakfast/episode-202107130700/safe-injecting-rooms-footscray-institutional-racism-not).
 - Chuck us [some stars on iTunes](https://podcasts.apple.com/au/podcast/not-good-enough/id1495016430).
