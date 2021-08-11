@@ -2,7 +2,7 @@
 number: 84
 title: $300 with four zeros
 date: "2021-08-11"
-description: Pros and cons of chucking a sickie Should the government should pay us $300? TERF madness is spreading in Australia.
+description: Pros and cons of chucking a sickie. Should the government should pay us $300? TERF madness is spreading in Australia.
 fileLink: "https://mcdn.podbean.com/mf/web/htremn/84-having-a-yack-002.mp3"
 ---
 
