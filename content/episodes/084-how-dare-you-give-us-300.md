@@ -1,6 +1,6 @@
 ---
 number: 84
-title: $300 with four zeros
+title: How dare you give us $300?
 date: "2021-08-11"
 description: Pros and cons of chucking a sickie. Should the government should pay us $300 or give it to Tabcorp? TERF madness is spreading in Australia.
 fileLink: "https://mcdn.podbean.com/mf/web/htremn/84-having-a-yack-002.mp3"
