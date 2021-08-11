@@ -30,7 +30,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/htremn/84-having-a-yack-002.mp3"
 - [Tracy Holmes's interview with Laurel](https://www.abc.net.au/news/2021-08-03/laurel-hubbard-struggling-with-place-in-history/100346038) shows that the media are only interested in her as a spectacle, not about women's sports.
 - Tasmanian Senator Clair Chandler is [bringing the bathroom wars to Australia](https://www.theaustralian.com.au/commentary/females-want-a-sporting-chance/news-story/9e66f2799c0ea027da8bb45c0821514b).
 - Gold medalist Quinn, is a non-binary transgender athlete [who plays for the Canadian women's soccer team](https://en.wikipedia.org/wiki/Quinn_(soccer)).
-- Hormone levels are used to [discriminate against black women](https://www.bbc.com/news/world-africa-57748135). It [isn't backed by science](https://www.scientificamerican.com/article/hormone-levels-are-being-used-to-discriminate-against-female-athletes/).
+- Hormone levels are used to [discriminate against black women](https://www.bbc.com/news/world-africa-57748135). There's [nothing scientific about it](https://www.scientificamerican.com/article/hormone-levels-are-being-used-to-discriminate-against-female-athletes/).
 
 ## Actions
 
