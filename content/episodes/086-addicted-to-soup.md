@@ -2,7 +2,7 @@
 number: 86
 title: Might as well face it, you're addicted to soup
 date: "2021-08-25"
-description: The cops shut down food banks, people are snitching on kids, and everyone is at breaking point. Also Australia abandons Afghani people.
+description: The cops shut down food banks, people are snitching on kids, and everyone is at breaking point. Also Australia abandons Afghan people.
 fileLink: "https://mcdn.podbean.com/mf/web/7639k2/86-food-security-002.mp3"
 ---
 
@@ -11,7 +11,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/7639k2/86-food-security-002.mp3"
 - Police are helping by [shutting down food banks](https://www.pedestrian.tv/news/foodbank-victoria-closed-covid/).
 - In South Australia, the [DHS chief executive is trying to shut down a communist soup kitchen](https://www.abc.net.au/news/2021-08-22/bureaucrats-try-to-push-communist-soup-kitchen-out-of-square/100391210).
 
-## ...take advantage of vulnerable people
+## ...vulnerable people
 
 - [Massive lockdown protests](https://www.theguardian.com/australia-news/2021/aug/21/australia-anti-lockdown-rallies-protesters-violently-clash-with-police-in-melbourne) in Melbourne and Sydney over the weekend.
 - Tom Tanki's [coverage of the lockdown protests is excellent](https://twitter.com/tom_tanuki/status/1428587456111157249).
