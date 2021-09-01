@@ -2,7 +2,7 @@
 number: 87
 title: Beetaloo Advocate
 date: "2021-09-01"
-description: JobSeeker was a massive corporate handout, Tasmanian Liberal don't want to frighten the kids, and the government gives millions of dollars to gas miners (with Labor's help).
+description: JobSeeker was a massive corporate handout, Tasmanian Liberals don't want to frighten the kids, and the government gives millions of dollars to gas miners (with Labor's help).
 fileLink: "https://mcdn.podbean.com/mf/web/kxuxy2/87-rort-rants-001.mp3"
 ---
 
