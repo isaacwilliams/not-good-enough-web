@@ -30,7 +30,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/kxuxy2/87-rort-rants-001.mp3"
 - BHP is [slashing value from it's coal assets](https://www.abc.net.au/news/2021-08-18/bhp-slashes-value-of-nsw-hunter-valley-coal-mine/100386610).
 - Origin Energy is [trying to get out of coal](https://www.afr.com/companies/energy/coal-no-longer-baseload-at-origin-ceo-20210819-p58k5l).
 - Angus Taylor's "CoalKeeper" plan is going to [cost households $400 more expensive per year](https://www.crikey.com.au/2021/08/26/coalkeeper-cost/).
-- For the first time, [Australia generated more solar energy than coal this](https://www.theguardian.com/australia-news/2021/aug/23/solar-power-in-australia-outstrips-coal-fired-electricity-for-first-time).
+- For the first time, [Australia generated more solar energy than coal](https://www.theguardian.com/australia-news/2021/aug/23/solar-power-in-australia-outstrips-coal-fired-electricity-for-first-time).
 - Australia’s Bureau of Meteorology [has been gagged from talking about climate change](https://www.michaelwest.com.au/undue-influence-oil-and-gas-giants-infiltrate-australias-bureau-of-meteorology/).
 
 
