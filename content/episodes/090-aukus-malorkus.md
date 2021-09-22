@@ -2,7 +2,7 @@
 number: 90
 title: AUKUS malorkus
 date: "2021-09-22"
-description: "We have a lot to say about submarines. Also, shutting down public transport to stop a protest: Sensible tactic or bad idea that'll just make things worse? If only I were writing this several days in the future and could see what would happen on Monday and Tuesday."
+description: "We have a lot to say about submarines. Also, shutting down public transport to stop a protest: Sensible tactic to calm things down or bad idea that'll just make things worse? If only I were writing this several days in the future and could see what would happen on Monday and Tuesday."
 fileLink: "https://mcdn.podbean.com/mf/web/chfy6m/90-le-fabuleux-destin-dsubmarines-francais-001.mp3"
 ---
 
