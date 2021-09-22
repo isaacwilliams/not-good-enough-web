@@ -6,7 +6,7 @@ description: "We have a lot to say about submarines. Also, shutting down public 
 fileLink: "https://mcdn.podbean.com/mf/web/chfy6m/90-le-fabuleux-destin-dsubmarines-francais-001.mp3"
 ---
 
-## Big three boys
+## Three large sons
 
 - Australia has entered a new military [pact with the US & UK to build a couple of new submarines](https://www.crikey.com.au/2021/09/17/aukus-another-morrison-masterclass-big-announcements-poor-management-dud-deals/). It's [pronounced "Orcus"](https://en.wikipedia.org/wiki/Orcus).
 - We wasted [billions of dollars on the Collins class Submarines](https://www.smh.com.au/national/wa-to-miss-out-on-8-4-billion-as-feds-pick-south-australia-for-submarine-maintenance-20210916-p58s75.html).
@@ -19,7 +19,7 @@ fileLink: "https://mcdn.podbean.com/mf/web/chfy6m/90-le-fabuleux-destin-dsubmari
 - Greens leader Adam Bandt [called the submarines "floating Chernobyls"](https://twitter.com/adambandt/status/1438276985566814209).
 - **Correction:** Lang states that Matt Damon was in Pearl Harbor. This is a common mistake; he was thinking of Jon Voight.
 
-## Top of the Cops
+## Top of the cops
 
 - Police shut down [Melbourne's public transport to put a damper on anti-lockdown protests](https://www.abc.net.au/radionational/programs/drive/victoria-police-suspend-melbournes-public-transport-system-ahead/13543720).
 - The [protests still happened](https://twitter.com/davidestcourt/status/1439070855418368000).
