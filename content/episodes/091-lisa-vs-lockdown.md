@@ -6,9 +6,9 @@ description: "Hi-vis rallies: cool, cooked or complicated? Let's find out togeth
 fileLink: https://mcdn.podbean.com/mf/web/pxt27w/91-ft-dib-001.mp3
 ---
 
-## Jeffery Combs appreciation
+## Jeffrey Combs appreciation
 
-- Watch [Jeffery Combs in the Frighteners](https://www.imdb.com/title/tt0116365/).
+- Watch [Jeffrey Combs in the Frighteners](https://www.imdb.com/title/tt0116365/).
 
 ## Treat denial
 
