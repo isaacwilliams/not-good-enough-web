@@ -27,8 +27,8 @@ fileLink: https://mcdn.podbean.com/mf/web/pxt27w/91-ft-dib-001.mp3
 - This video of the [Australian Army band playing Rage Against the Machine is psychic damage](https://www.dailymotion.com/video/x39c0pd).
 - On Wednesday, [chaos and cookers were in control](https://www.theguardian.com/australia-news/2021/sep/23/melbourne-protesters-should-be-ashamed-after-standoff-at-shrine-of-remembrance-scott-morrison-says).
 - Interesting side note: [the Shrine of Remembrance was built under a work-for-the-dole program](https://twitter.com/JeremyPoxon/status/1440576113357385732).
-- At the 2019 IMARC protests, police a [rode horse through a crowd, crushing a protestor's legs](https://www.abc.net.au/news/2019-10-30/climate-rally-police-pepper-spray-protesters-imarc-melbourne/11652182).
-- The rest of the week showed a [series of images of cop violence](https://twitter.com/CaldronPool/status/1440796113460609035), [black-bagging](https://twitter.com/Mitchyball/status/1440600844701896711) and [intimidation](https://twitter.com/TimothyJ_23/status/1440582301545426944).
+- The rest of the week featured [cop violence](https://twitter.com/CaldronPool/status/1440796113460609035), [black-bagging](https://twitter.com/Mitchyball/status/1440600844701896711) and [intimidation](https://twitter.com/TimothyJ_23/status/1440582301545426944).
+-  At the 2019 IMARC protests, police a [rode horse through a crowd, crushing a protestor's legs](https://www.abc.net.au/news/2019-10-30/climate-rally-police-pepper-spray-protesters-imarc-melbourne/11652182).
 
 ## Shoutouts
 
