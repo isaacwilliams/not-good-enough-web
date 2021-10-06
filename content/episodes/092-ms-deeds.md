@@ -1,7 +1,7 @@
 ---
 number: 92
 title: Ms. Deeds
-date: "2021-10-09"
+date: "2021-10-06"
 description: "Girlbosses are doing it (high level corruption) for themselves."
 fileLink: https://mcdn.podbean.com/mf/web/xdja74/92-doing-it-for-themselves-001.mp3
 ---
