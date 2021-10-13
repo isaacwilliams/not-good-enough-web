@@ -13,7 +13,7 @@ fileLink: https://mcdn.podbean.com/mf/web/ihg7hx/93-gina-rinefart-001.mp3
 ## Facebook brain
 
 - Gina Rinehart made a [totally cooked climate-denying speech to schoolchildren](https://www.theage.com.au/business/companies/gina-rinehart-warns-of-propaganda-in-climate-denial-video-to-students-20211006-p58xry.html).
-- Holding the Australian swim team [hostage to wish you happy birthday](https://www.youtube.com/watch?v=PpAf_mMVhRY).
+- Holding the Australian swim team hostage [to wish you happy birthday](https://www.youtube.com/watch?v=PpAf_mMVhRY).
 
 ## Cooking the planet
 
@@ -25,4 +25,5 @@ fileLink: https://mcdn.podbean.com/mf/web/ihg7hx/93-gina-rinefart-001.mp3
 ## Actions
 
 - Got a question? Send us an email!
+- Get involved in something real!
 - [Don't get burned out](https://heated.world/p/climate-reporter-burns-out).
