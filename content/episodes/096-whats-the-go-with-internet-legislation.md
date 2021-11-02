@@ -26,4 +26,4 @@ Justin Warren is a board member at [Electronic Frontiers Australia](https://www.
 - [Online Privacy Bill Exposure Draft](https://consultations.ag.gov.au/rights-and-protections/online-privacy-bill-exposure-draft/): Submissions due 6th December.
 - [Draft Restricted Access System Declaration](https://www.esafety.gov.au/about-us/consultation-cooperation/restricted-access-system): Submissions due 23 November.
 - [Privacy Act Review Discussion Paper](https://consultations.ag.gov.au/rights-and-protections/privacy-act-review-discussion-paper/): Submissions due 10 January.
-- [Follow Justin](https://twitter.com/jpwarren) and other good digital rights advocates on twitter:[ Lizzie O’Shea](https://twitter.com/Lizzie_OShea), [Lucie Krahulcova](https://twitter.com/nomadiclucie), [Sam Floreani](https://twitter.com/samfloreani).
+- [Follow Justin](https://twitter.com/jpwarren) and other good digital rights advocates on twitter: [Lizzie O’Shea](https://twitter.com/Lizzie_OShea), [Lucie Krahulcova](https://twitter.com/nomadiclucie), [Sam Floreani](https://twitter.com/samfloreani).
