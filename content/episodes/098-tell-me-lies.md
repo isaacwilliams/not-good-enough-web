@@ -32,7 +32,7 @@ fileLink: https://mcdn.podbean.com/mf/web/uh9ehm/98-the-details-003.mp3
 ## Shoutouts
 
 - Solidarity with staff from [Better Read Than Dead are back on strike](https://twitter.com/raffwu/status/1459651385813729280) after management reneged on their promises for a new deal.
-- Shoutout to the Toll workers who struck in seven warehouses for better pay.
+- Shoutout to the Toll workers who struck in seven warehouses for better pay. [They won!](https://twitter.com/UnitedWorkersOz/status/1460849273629597713)
 - On the 20th of November, the [Campaign Against Racism and Fascism are counterprotesting the antivax nutjobs](https://www.facebook.com/campaignarf/).
 
 
