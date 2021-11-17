@@ -3,7 +3,7 @@ number: 98
 title: Tell me lies, tell me sweet little lies
 date: "2021-11-18"
 description: "Heros keep stopping coal trains, Scott Morrison has never told a lie and Australia wins at Climate Golf."
-fileLink: https://mcdn.podbean.com/mf/web/3vfjse/97-all-cop26-are-bastards.mp3
+fileLink: https://mcdn.podbean.com/mf/web/uh9ehm/98-the-details-003.mp3
 ---
 
 ## Hero watch
