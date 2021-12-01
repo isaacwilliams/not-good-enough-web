@@ -2,7 +2,7 @@
 number: 100
 title: The gang de-isolates
 date: "2021-12-01"
-description: "We're all recording in the same room for the first time in 91 episodes. Also some news is discussed."
+description: "We're all recording in the same room for the first time in 91 episodes! It's a bit chaotic. Also some news is discussed."
 fileLink: https://mcdn.podbean.com/mf/web/ps9bjm/100-in-meatspace.mp3
 ---
 
