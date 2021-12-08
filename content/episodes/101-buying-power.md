@@ -2,7 +2,7 @@
 number: 101
 title: Buying Power
 date: "2021-12-09"
-description: "We talk about Powershop's acquisition by Shell and the cool cool Labor party."
+description: "We talk about Shell's acquisition of Powershop and the cool cool Labor party."
 fileLink: https://mcdn.podbean.com/mf/web/ijdczy/101-more-meat-002.mp3
 ---
 
