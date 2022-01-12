@@ -2,7 +2,7 @@
 number: 102
 title: Screaming (feat. Emerald Moon)
 date: "2022-01-12"
-description: "Rats, we forgot to order any RATs! Also Mitch talks to Emerald Moon from the Serious Danger podcast about green politics, byron life and loud music."
+description: "Rats, we forgot to order any RATs! Also Mitch talks to Emerald Moon from the Serious Danger podcast about Green politics, Byron life and loud music."
 fileLink: https://mcdn.podbean.com/mf/web/hsfn5f/102-does-anyone-miss-omicron.mp3
 ---
 
