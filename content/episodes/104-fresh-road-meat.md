@@ -2,7 +2,7 @@
 number: 104
 title: Fresh road meat
 date: "2022-01-26"
-description: "Meat just can't stop being spilled, everyone's back to work and Australia wants to lock up the borders forever."
+description: "Meat just keeps getting spilled, everyone's back to work and Australia wants to lock up the borders forever."
 fileLink: https://mcdn.podbean.com/mf/web/4xj4hg/104-forklift-meatspill-etc-001.mp3
 ---
 
@@ -29,4 +29,4 @@ fileLink: https://mcdn.podbean.com/mf/web/4xj4hg/104-forklift-meatspill-etc-001.
 - Listen to the [Citations Needed episode on GDP fetishism](https://citationsneeded.libsyn.com/episode-108-how-gdp-fetishism-drives-climate-crisis-and-inequality).
 - Folding Ideas [has a great new video on NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 - Friend of the show Tom Tanuki's [youtube channel is going from strength to strength](https://www.youtube.com/channel/UCYgRzstFX-CwCGq781If_dw).
-- Have you heard of this game called Bloodborne? Folks? Is that anything?
+- [Anyone heard of this game called Bloodborne](https://www.youtube.com/watch?v=AC3OuLU5XCw)? Folks? Is this anything?
