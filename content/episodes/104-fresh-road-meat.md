@@ -2,7 +2,7 @@
 number: 104
 title: Fresh road meat
 date: "2022-01-26"
-description: "Meat just keeps getting spilled, everyone's back to work and Australia wants to lock up the borders forever."
+description: "Meat just keeps getting spilled, everyone's back working for the economy and the Labor party loves doing borders."
 fileLink: https://mcdn.podbean.com/mf/web/4xj4hg/104-forklift-meatspill-etc-001.mp3
 ---
 
@@ -15,7 +15,7 @@ fileLink: https://mcdn.podbean.com/mf/web/4xj4hg/104-forklift-meatspill-etc-001.
 - Josh Frydenburg says [industrial action is bad for the economy](https://twitter.com/JoshFrydenberg/status/1483246718187896832?s=20).
 - The Labor party says [free RATs are good for the economy](https://twitter.com/SenatorWong/status/1482913738613456897?s=20).
 - Scott Morrison reckons [children driving forklifts would be great for the economy](https://www.abc.net.au/news/rural/2022-01-20/scott-morrison-abandons-child-forklift-driver-plan/100770942)!
-- Meanwhile, schools are going back, [which will be a killer move for the economy](https://www.theguardian.com/australia-news/2022/jan/20/increased-covid-risk-a-trade-off-in-reopening-schools-australian-chief-medical-officer-says!
+- Meanwhile, schools are going back, [which will be a killer move for the economy](https://www.theguardian.com/australia-news/2022/jan/20/increased-covid-risk-a-trade-off-in-reopening-schools-australian-chief-medical-officer-says)!
 
 ## Vaccine nationalism
 
