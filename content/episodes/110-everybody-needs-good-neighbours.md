@@ -1,6 +1,6 @@
 ---
 number: 110
-title: Talk to your neighbours
+title: Everybody needs good neighbours
 date: "2022-03-16"
 description: "We talk about the power of polyps and the power of community."
 fileLink: https://mcdn.podbean.com/mf/web/mvsd53/110-colonial-organism.mp3
