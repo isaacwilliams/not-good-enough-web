@@ -6,6 +6,6 @@ description: "We log off (for now)."
 fileLink: https://mcdn.podbean.com/mf/web/sbed8f/116-rumours-001.mp3
 ---
 
-No notes! Go touch grass!
+No notes! Go touch grass.
 
 
